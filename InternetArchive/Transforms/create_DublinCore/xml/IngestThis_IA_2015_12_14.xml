@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+       xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/"
+       xmlns:dcterms="http://purl.org/dc/terms/"
+       xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/"
+       xmlns:ac="http://purl.org/dc/dcmitype/"
+       xmlns:rel="info:fedora/fedora-system:def/relations-external#"
+       xmlns:marc="http://www.loc.gov/MARC21/slim"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <digitalObject>
+      <file>someinformationr00coop_0.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Some information respecting America / collected by Thomas Cooper.</dc:title>
+      <dc:description>2nd ed.</dc:description>
+      <dc:description>1 online resource (iv, 240 p., [1] leaf of plates) : map.</dc:description>
+      <dc:description>Electronic reproduction. Medford, MA : Tisch Library, Tufts University, 2015. Scanned by the Boston Library Consortium/Open Content Alliance as part of the BLC OCA Digitization Project from a copy at the Tisch Library, Tufts University.</dc:description>
+      <dc:description>Indexed in: Microbook library of American civilization,LAC 11427</dc:description>
+      <dc:description>Indexed in: English short title catalogueT135231</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Cooper, Thomas, 1759-1839. Some information respecting America. The second edition. London : Printed for J. Johnson, in St. . Paul's Church Yard, MDCCXCV [1795].</dc:source>
+      <dc:source>(OCoLC)4743428</dc:source>
+      <dc:source>E164.C78</dc:source>
+      <dc:date.created>1795</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:corpname>United States.--Constitution.</dcadesc:corpname>
+      <dcadesc:geogname>United States--Economic conditions.</dcadesc:geogname>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:contributor>Cooper, Thomas, 1759-1839.</dcterms:contributor>
+      <dcterms:contributor>Coxe, Tench, 1755-1824.</dcterms:contributor>
+      <dcterms:contributor>Franklin, Benjamin, 1706-1790.</dcterms:contributor>
+      <dcterms:tableOfContents>Table of Contents: Letters from America to a friend in England -- [Tables of weight and measure, prices, duties, etc.] -- Constitution of the United States --Extract from a work not yet published ... entitled, A view of the United States of America / by Tench Coxe -- Information to those who would remove to America, written some time since / by Dr. Benjamin Franklin.</dcterms:tableOfContents>
+      <dcterms:language>eng</dcterms:language>
+      <dcterms:spatial>Great Britain--England--London.</dcterms:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InternetArchiveBatchTransform: 2016-09-02T11:37:40.23-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>worksofsamuelfoo01foot worksofsamuelfoo02foot.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>The works of Samuel Foote, Esq. : In two volumes.</dc:title>
+      <dc:creator>Foote, Samuel, 1720-1777.</dc:creator>
+      <dc:description>1 online resource (2 volumes)</dc:description>
+      <dc:description>Electronic reproduction. Medford, MA : Tisch Library, Tufts University, 2015. Scanned by the Boston Library Consortium/Open Content Alliance as part of the BLC OCA Digitization Project from a copy at the Tisch Library, Tufts University.</dc:description>
+      <dc:description>Indexed in: English short title catalogueN25901</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Foote, Samuel, 1720-1777. Plays. 1799. Works of Samuel Foote, Esq. London : Printed for and sold by John Murdoch, bookseller and stationer, Glasgow; Geo. Robinson &amp; Co. and Vernor &amp; Hood, London, 1799.</dc:source>
+      <dc:source>(OCoLC)1685176</dc:source>
+      <dc:source>PR3461.F6 1799</dc:source>
+      <dc:date.created>1799</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:alternative>Plays.1799</dcterms:alternative>
+      <dcterms:tableOfContents>Table of Contents: I. Taste. The Englishman in Paris. The knights. The Englishman returned from Paris. The author. The mayor of Garrat. The orators. The minor. The lyar. The patron.--II. The commissary. The lame lover. The bankrupt. The cozeners. The maid of Bath. The devil upon two sticks. The nabob. A trip to Calais. The Capuchin.</dcterms:tableOfContents>
+      <dcterms:language>eng</dcterms:language>
+      <dcterms:spatial>Great Britain--England--London.</dcterms:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InternetArchiveBatchTransform: 2016-09-02T11:37:40.23-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>journaloflifetra00scot_0.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Journal of the life, travels and Gospel labours of that faithful servant and minister of Christ, Job Scott.</dc:title>
+      <dc:creator>Scott, Job, 1751-1793.</dc:creator>
+      <dc:description>1 online resource (xii, [2], 360 p.)</dc:description>
+      <dc:description>"A testimony from the Monthly Meeting of Providence concerning Job Scott."--P. iii-x.</dc:description>
+      <dc:description>Signatures: a⁶ chi1 B-2H⁶.</dc:description>
+      <dc:description>Electronic reproduction. Medford, MA : Tisch Library, Tufts University, 2015. Scanned by the Boston Library Consortium/Open Content Alliance as part of the BLC OCA Digitization Project from a copy at the Tisch Library, Tufts University.</dc:description>
+      <dc:description>Indexed in: Evans32810</dc:description>
+      <dc:description>Indexed in: English short title catalogueW19882</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Scott, Job, 1751-1793. Journal of the life, travels and Gospel labours of that faithful servant and minister of Christ, Job Scott. New-York : Printed and sold by Isaac Collins, no. 189, Pearl-Street.</dc:source>
+      <dc:source>(DLC) 00526116</dc:source>
+      <dc:source>(OCoLC)45059050</dc:source>
+      <dc:source>BX7795.S4A5</dc:source>
+      <dc:date.created>1797</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:persname>Scott, Job, 1751-1793.</dcadesc:persname>
+      <dcadesc:subject>Quakers--Biography--Early works to 1800.</dcadesc:subject>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:language>eng</dcterms:language>
+      <dcterms:spatial>United States--New York (State)--New York.</dcterms:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InternetArchiveBatchTransform: 2016-09-02T11:37:40.23-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>rolliadintwopart00unse.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>The Rolliad : in two parts ; Probationary odes for the laureatship ; and Political eclogues: with criticisms and illustrations. / revised, corrected and enlarged by the original authors.</dc:title>
+      <dc:description>The twenty-first ed.</dc:description>
+      <dc:description>1 online resource (xxxii, 524, [4] pages, [1] leaf of plates) : illustrations.</dc:description>
+      <dc:description>A collection of satires on William Pitt and his followers, in the form of mock reviews of a mock epic named for John Rolle and odes purporting to be the competitive entries of Thomas Warton's rivals for the laureateship, by Richard Tickell, Richard Fitzpatrick, Joseph Richardson, George Ellis, French Laurence, and others.--Cf. Cambridge hist. of Eng. lit., v. 11.</dc:description>
+      <dc:description>Originally appeared in the Morning herald and Daily advertiser for 1784 and following years; Criticisms on the Rolliad, Probationary odes for the laureatship, and Political miscellanies also published separately.</dc:description>
+      <dc:description>Engraved t.p. vignette.</dc:description>
+      <dc:description>Advertisements: [3] p. at end.</dc:description>
+      <dc:description>Pages [ii], [vi], [x], [226] and the last page are blank.</dc:description>
+      <dc:description>Signatures: a-b⁸B-Z⁸2A-2L⁸.</dc:description>
+      <dc:description>Electronic reproduction. Medford, MA : Tisch Library, Tufts University, 2015. Scanned by the Boston Library Consortium/Open Content Alliance as part of the BLC OCA Digitization Project from a copy at the Tisch Library, Tufts University.</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Rolliad. The twenty-first ed. London : Printed for J. Ridgway, 1799.</dc:source>
+      <dc:source>(OCoLC)7949905</dc:source>
+      <dc:source>PR3291.A1R6c</dc:source>
+      <dc:date.created>1799</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:persname>Pitt, William, 1759-1806.</dcadesc:persname>
+      <dcadesc:persname>Rolle of Stevenstone, John Rolle, Baron, 1750-1842.</dcadesc:persname>
+      <dcadesc:persname>Warton, Thomas, 1728-1790.</dcadesc:persname>
+      <dcadesc:geogname>Great Britain--Politics and government--1760-1789.</dcadesc:geogname>
+      <dcadesc:subject>Satire, English.</dcadesc:subject>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:tableOfContents>Table of Contents: Criticisms on the Rolliad -- Political eclogues -- Probationary odes for the laureatship -- Political miscellanies.</dcterms:tableOfContents>
+      <dcterms:tableOfContents>Table of Contents: Advertisement -- Advertisement to the fourth edition -- Dedication to Sir Lloyd Kenyon -- Short account of the family of the Rollos, now Rolles, faithfully extracted from the records of the Herald's office -- Extract from the dedication of the Rolliad, an epic poem -- Criticisms on the Rolliad -- Political eclogues -- Probationary odes for the laureatship : with a preliminary discourse / by Sir John Hawkins [pseud.] -- Political miscellanies.</dcterms:tableOfContents>
+      <dcterms:language>eng</dcterms:language>
+      <dcterms:spatial>Great Britain--England--London.</dcterms:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InternetArchiveBatchTransform: 2016-09-02T11:37:40.23-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>samfridnathanmor01moru.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Sam. Frid. Nathan. Mori theol. quondam doctor. er professor. ordin. in academia Lipsiensi super hermeneutica Novi Testamenti acroases academicae.</dc:title>
+      <dc:creator>Morus, Samuel Friedrich Nathanael, 1736-1792.</dc:creator>
+      <dc:description>Editioni aptavit praefatione et additamentis /instruxit Henr. Carol. Abr. Eichstädt, philos. doctor er professor extraordin. in academia Lipsiensi.</dc:description>
+      <dc:description>1 online resource (2 volumes)</dc:description>
+      <dc:description>Electronic reproduction. Medford, MA : Tisch Library, Tufts University, 2015. Scanned by the Boston Library Consortium/Open Content Alliance as part of the BLC OCA Digitization Project from a copy at the Tisch Library, Tufts University.</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Morus, Samuel Friedrich Nathanael, 1736-1792. Sam. Frid. Nathan. Mori theol. quondam doctor. er professor. ordin. in academia Lipsiensi super hermeneutica Novi Testamenti acroases academicae. Editioni aptavit praefatione et additamentis. Lipsiae : sumptibus C. F. Koehleri, 1797-1802.</dc:source>
+      <dc:source>(DLC) 38006728</dc:source>
+      <dc:source>(OCoLC)4387312</dc:source>
+      <dc:source>BS476.M6</dc:source>
+      <dc:date.created>1797</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:alternative>Hermeneutica Novi Testamenti acroases academicae</dcterms:alternative>
+      <dcterms:contributor>Eichstaedt, Heinrich Carl Abraham, 1772-1848, editor.</dcterms:contributor>
+      <dcterms:language>lat</dcterms:language>
+      <dcterms:spatial>Germany--Leipzig.</dcterms:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InternetArchiveBatchTransform: 2016-09-02T11:37:40.23-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>mmoiresdhyppolit00clai.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Mémoires d'Hyppolite Clairon, et réflexions sur l'art dramatique / publiés par elle-même.</dc:title>
+      <dc:creator>Clairon, Mlle., 1723-1803.</dc:creator>
+      <dc:description>1 online resource (2 preliminary leaves, ii, 360 pages)</dc:description>
+      <dc:description>With half-title.</dc:description>
+      <dc:description>Includes index.</dc:description>
+      <dc:description>Electronic reproduction. Medford, MA : Tisch Library, Tufts University, 2015. Scanned by the Boston Library Consortium/Open Content Alliance as part of the BLC OCA Digitization Project from a copy at the Tisch Library, Tufts University.</dc:description>
+      <dc:description>Binding: Tufts print Special Collections copy: Bound in contemporary tree calf significantly worn, red lettering piece to spine, all edges marbled.</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Clairon, Mlle. , 1723-1803. Mémoires d'Hyppolite Clairon, et réflexions sur l'art dramatique. A Paris : Chez F. Buisson, Imp-Lib. rue Hautefeuille, No. 20, An Vll de la République [1799].</dc:source>
+      <dc:source>(OCoLC)18996463</dc:source>
+      <dc:source>PN2638.C6A28 1799</dc:source>
+      <dc:date.created>1799</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:persname>Clairon, Mlle., 1723-1803.</dcadesc:persname>
+      <dcadesc:persname>Dumesnil, Mlle (Marie-Françoise), 1713-1803.</dcadesc:persname>
+      <dcadesc:subject>Actresses--France--Biography--Early works to 1800.</dcadesc:subject>
+      <dcadesc:subject>Acting--Early works to 1800.</dcadesc:subject>
+      <dcadesc:genre>Autobiographies--France--Paris--18th century.</dcadesc:genre>
+      <dcadesc:genre>Octavo format (Printing)--France--Paris--18th century.</dcadesc:genre>
+      <dcadesc:genre>Tree calf bindings (Binding)</dcadesc:genre>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dc:temporal>18th century.</dc:temporal>
+      <dcterms:language>fre</dcterms:language>
+      <dcterms:spatial>France--Paris.</dcterms:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InternetArchiveBatchTransform: 2016-09-02T11:37:40.23-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>lifeofjohnmilton00hayl_0.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>The life of John Milton : with conjectures on the origin of Paradise lost / by William Hailey, Esq.</dc:title>
+      <dc:creator>Hayley, William, 1745-1820.</dc:creator>
+      <dc:description>1 online resource ([4], xxiv, 362 pages)</dc:description>
+      <dc:description>With a half-title.</dc:description>
+      <dc:description>"Appendix, containing extracts from the Adamo of Andreini: with an analysis of another Italian drama, on the same subject": pages [317]-362.</dc:description>
+      <dc:description>Electronic reproduction. Medford, MA : Tisch Library, Tufts University, 2015. Scanned by the Boston Library Consortium/Open Content Alliance as part of the BLC OCA Digitization Project from a copy at the Tisch Library, Tufts University.</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Hayley, William, 1745-1820. Life of John Milton. Basil : Printed and sold by James Decker ; Strasburgh : Sold by F. G. Levrault, 1799.</dc:source>
+      <dc:source>(OCoLC)9173774</dc:source>
+      <dc:source>PR3580.H25 1799</dc:source>
+      <dc:date.created>1799</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:persname>Milton, John, 1608-1674.</dcadesc:persname>
+      <dcadesc:persname>Milton, John, 1608-1674. Paradise lost.</dcadesc:persname>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:contributor>Andreini, Giovanni Battista, 1578-</dcterms:contributor>
+      <dcterms:language>eng</dcterms:language>
+      <dcterms:spatial>Switzerland--Basel.</dcterms:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InternetArchiveBatchTransform: 2016-09-02T11:37:40.23-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>consuelo01sand_0 consuelo02sand_0 consuelo03sand_0.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Consuelo / par George Sand.</dc:title>
+      <dc:creator>Sand, George, 1804-1876, author.</dc:creator>
+      <dc:description>Nouvelle édition.</dc:description>
+      <dc:description>1 online resource (3 volumes)</dc:description>
+      <dc:description>Electronic reproduction. Medford, MA : Tisch Library, Tufts University, 2015. Scanned by the Boston Library Consortium/Open Content Alliance as part of the BLC OCA Digitization Project from a copy at the Tisch Library, Tufts University.</dc:description>
+      <dc:description>Series: Collection Michel Lévy.</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: Sand, George, 1804-1876. Consuelo. Nouvelle édition. Paris : Michel Lévy frères, libraires-éditeurs, 1864.</dc:source>
+      <dc:source>(DLC) 12028752</dc:source>
+      <dc:source>(OCoLC)811363163</dc:source>
+      <dc:source>PQ2400.A1 1864</dc:source>
+      <dc:date.created>1864</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:geogname>Venice (Italy)--Fiction.</dcadesc:geogname>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:language>fre</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>InternetArchiveBatchTransform: 2016-09-02T11:37:40.23-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+</input>

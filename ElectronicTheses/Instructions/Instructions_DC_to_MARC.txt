@@ -1,0 +1,24 @@
+Open ElectronicThesis_RunThis_ForMARC.xsl
+
+1.      Associate your input xml and your output xml (Wrench button)
+                a. Select your xslt (if there is no xslt, you will make a new one, and then follow from b), and select edit.
+                b. From xslt tab, browse (folder) to your xml. 
+                c. From output tab, browse (folder) to where you want to save your new xml
+
+2.	Select Apply transformation scenario (Play button)
+
+
+ In your new xml, clean up the -- to marc:subfield transform
+                a. Select Find/Replace:
+                        i. Select Regular expression and in Text to find:
+                        ii. &lt;
+                        iii. Replace with <
+                        iii. In the xpath field enter: marc:collection/marc:record/marc:datafield[@tag='600']|marc:collection/marc:record/marc:datafield[@tag='610'] |marc:collection/marc:record/marc:datafield[@tag='650']|marc:collection/marc:record/marc:datafield[@tag='651'] 
+                             This limits your search to the 6xx fields
+                        iv. Repeat for &gt;
+ 
+ 
+ 
+ 
+ 
+ 

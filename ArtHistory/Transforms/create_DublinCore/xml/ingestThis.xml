@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+       xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/"
+       xmlns:dcterms="http://purl.org/dc/terms/"
+       xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/"
+       xmlns:ac="http://purl.org/dc/dcmitype/"
+       xmlns:rel="info:fedora/fedora-system:def/relations-external#"
+       xmlns:alex="http:alex.edu">
+   <digitalObject>
+      <file>16.8535-1.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Personification of the Alexandria Lighthouse (Pharos).</dc:title>
+      <dc:description>This detail shows a personification of the Alexandria lighthouse (pharos) with a statue of the Sun-God Helios, the giver of light. It is from the mosaic floor of the Justinianic church at Qasr Libya, Libya.</dc:description>
+      <dc:description>Location created: Qasr Libya, Libya.</dc:description>
+      <dc:description>Date created: 6th century.</dc:description>
+      <dc:description>Medium: Mosaic.</dc:description>
+      <dc:description>Accession Number: 16.8535-1</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0600</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Mosaics, Byzantine--Libya.</dcadesc:subject>
+      <dcadesc:subject>Helios (Greek deity)</dcadesc:subject>
+      <dcadesc:subject>Lighthouses in art.</dcadesc:subject>
+      <dcadesc:subject>Gods in art.</dcadesc:subject>
+      <dcadesc:corpname>Pharos Lighthouse (Alexandria, Egypt)</dcadesc:corpname>
+      <dcadesc:geogname>Alexandria (Egypt)</dcadesc:geogname>
+      <dcadesc:genre>mosaics (visual works)</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dc:temporal>6th century.</dc:temporal>
+      <dc:spatial>Libya.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-2.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Villa Scene.</dc:title>
+      <dc:description>This fragment of a mosaic pavement shows a villa in a garden, from the northern section of the peristyle courtyard of the Great Palace in Constantinople.</dc:description>
+      <dc:description>Location created: Constantinople (Istanbul), Turkey.</dc:description>
+      <dc:description>Date created: 6th century.</dc:description>
+      <dc:description>Current location: Istanbul Mosaic Museum, Turkey.</dc:description>
+      <dc:description>Medium: Mosaic.</dc:description>
+      <dc:description>Accession Number: 16.8535-2</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0600</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Mosaics, Byzantine--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Domestic.</dcadesc:subject>
+      <dcadesc:genre>mosaics (visual works)</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dc:temporal>6th century.</dc:temporal>
+      <dc:spatial>Turkey--Istanbul.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-3.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>The Naples Dioscorides (cat. no. 14), fols. 41v-42r.</dc:title>
+      <dc:description>The Naples Dioscurides (MS Suppl. gr. 28) is an illuminated early 7th-century Greek herbal. The book has 172 folios and the style of Greek script used in the manuscript indicates that it was probably written in Byzantine-ruled southern Italy, where ancient Greek cultural traditions remained strong.</dc:description>
+      <dc:description>Location created: Italy.</dc:description>
+      <dc:description>Date created: 7th century.</dc:description>
+      <dc:description>Current location: Biblioteca Nazionale, Naples, Italy.</dc:description>
+      <dc:description>Measurements: Page dimensions: 29.7 x 14 cm (11 11/16 x 5 1/2 inches)</dc:description>
+      <dc:description>Accession Number: 16.8535-3</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0700</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Manuscripts, Byzantine--Italy.</dcadesc:subject>
+      <dcadesc:subject>Illumination of books and manuscripts, Byzantine--Italy.</dcadesc:subject>
+      <dcadesc:subject>Herbals--Early works to 1800.</dcadesc:subject>
+      <dcadesc:subject>Medicinal plants in art.</dcadesc:subject>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dcadesc:genre>herbals.</dcadesc:genre>
+      <dcadesc:genre>illuminated manuscripts.</dcadesc:genre>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-4.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Hanging with Images of Abundance.</dc:title>
+      <dc:description>This wall hanging features a central medallion and four outer squares whose borders are filled with various creatures. In the middle of the medallion and squares ride five pairs of Amazons. The iconography is a pastiche of motifs typically found throughout Byzantine and Islamic worlds.</dc:description>
+      <dc:description>Location created: Egypt.</dc:description>
+      <dc:description>Date created: 8th century.</dc:description>
+      <dc:description>Current location: The Metropolitan Museum of Art, New York, United States.</dc:description>
+      <dc:description>Medium: Wool.</dc:description>
+      <dc:description>Measurements: H. 104 3/4 in. (266 cm), W. 62 5/8 in. (159 cm), Wt. 183 lb. (83kg)</dc:description>
+      <dc:description>Accession Number: 16.8535-4</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0800</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Wall hangings--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Textile fabrics, Byzantine--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Islamic textile fabrics--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Coptic art.</dcadesc:subject>
+      <dcadesc:subject>Amazons in art.</dcadesc:subject>
+      <dcadesc:genre>wall hangings.</dcadesc:genre>
+      <dcadesc:genre>Egyptian Islamic.</dcadesc:genre>
+      <dcadesc:genre>Coptic (culture or style)</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dcadesc:genre>textiles (visual works)</dcadesc:genre>
+      <dc:temporal>8th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-5.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Detail from Hanging with Images of Abundance.</dc:title>
+      <dc:description>This detail comes from a wall hanging featuring a central medallion and four outer squares whose borders are filled with various creatures. In the middle of the medallion and squares ride five pairs of Amazons. The iconography is a pastiche of motifs typically found throughout Byzantine and Islamic worlds.</dc:description>
+      <dc:description>Location created: Egypt.</dc:description>
+      <dc:description>Date created: 8th century.</dc:description>
+      <dc:description>Current location: The Metropolitan Museum of Art, New York, United States.</dc:description>
+      <dc:description>Medium: Wool.</dc:description>
+      <dc:description>Measurements: H. 104 3/4 in. (266 cm), W. 62 5/8 in. (159 cm), Wt. 183 lb. (83kg)</dc:description>
+      <dc:description>Accession Number: 16.8535-5</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0800</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Wall hangings--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Textile fabrics, Byzantine--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Islamic textile fabrics--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Coptic art.</dcadesc:subject>
+      <dcadesc:genre>wall hangings.</dcadesc:genre>
+      <dcadesc:genre>Egyptian Islamic.</dcadesc:genre>
+      <dcadesc:genre>Coptic (culture or style)</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dcadesc:genre>textiles (visual works)</dcadesc:genre>
+      <dc:temporal>8th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-6.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Drawing of Job and His Family Represented as Heraclius and His Family.</dc:title>
+      <dc:description>This leaf appears at the end of the Septuagint version of the book of Job. The images have also been noted as being modeled on the contemporary Byzantine emperor Heraclius.</dc:description>
+      <dc:description>Location created: White Monastery, Sohag, Upper Egypt.</dc:description>
+      <dc:description>Date created: 5th century (text), ca. 615-29 (drawing)</dc:description>
+      <dc:description>Current location: Biblioteca Nazionale, Naples, Italy.</dc:description>
+      <dc:description>Medium: Ink on parchment.</dc:description>
+      <dc:description>Measurements: 28 x 24 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-6</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0629</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Coptic illumination of books and manuscripts--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Illumination of books and manuscripts, Byzantine--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Bible. Job.</dcadesc:subject>
+      <dcadesc:subject>Emperors in art.</dcadesc:subject>
+      <dcadesc:subject>Royal couples in art.</dcadesc:subject>
+      <dcadesc:persname>Heraclius, Emperor of the East, approximately 575-641--Art.</dcadesc:persname>
+      <dcadesc:genre>Coptic (culture or style)</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dcadesc:genre>illuminated manuscripts.</dcadesc:genre>
+      <dc:temporal>5th century.</dc:temporal>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-7.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Roundel with a Byzantine Emperor, Probably Heraclius.</dc:title>
+      <dc:description>An imperial figure, possibly Byzantine Emperor Heraclius (r. 610-41), is shown mounted on a magnificent steed in a large roundel (orbiculus)</dc:description>
+      <dc:description>Location created: Egypt, possibly Panopolis (Akhmim)</dc:description>
+      <dc:description>Date created: 8th century.</dc:description>
+      <dc:description>Current location: Victoria and Albert Museum, London, England.</dc:description>
+      <dc:description>Medium: Wool and linen.</dc:description>
+      <dc:description>Measurements: 28.7 x 26.6 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-7</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0800</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Textile fabrics, Byzantine--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Islamic textile fabrics--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Coptic art--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Emperors in art.</dcadesc:subject>
+      <dcadesc:persname>Heraclius, Emperor of the East, approximately 575-641--Art.</dcadesc:persname>
+      <dcadesc:genre>Egyptian Islamic.</dcadesc:genre>
+      <dcadesc:genre>Coptic (culture or style)</dcadesc:genre>
+      <dcadesc:genre>textiles (visual works)</dcadesc:genre>
+      <dcadesc:genre>medallions (ornament areas)</dcadesc:genre>
+      <dc:temporal>8th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-8.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Textile Fragment with Episodes from the Life of David.</dc:title>
+      <dc:description>Originally sewn onto the bottom of a tunic, this band depicts scenes from the life of the biblical king, David.</dc:description>
+      <dc:description>Location created: Egypt.</dc:description>
+      <dc:description>Date created: 7th-8th century.</dc:description>
+      <dc:description>Current location: State Heritage Museum, St. Petersburg, Russia.</dc:description>
+      <dc:description>Medium: Polychrome wool and undyed linen.</dc:description>
+      <dc:description>Measurements: 34.5 x 12 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-8</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0800</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Textile fabrics, Byzantine--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Coptic art--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Clothing and dress--Egypt.</dcadesc:subject>
+      <dcadesc:persname>David, King of Israel--Art.</dcadesc:persname>
+      <dcadesc:genre>Coptic (culture or style)</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dcadesc:genre>textiles (visual works)</dcadesc:genre>
+      <dcadesc:genre>clothing.</dcadesc:genre>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:temporal>8th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-9.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Plate with Meleager and Atalanta.</dc:title>
+      <dc:description>The hero Meleager is shown here as he prepares to join Atalanta on the Calydonian Boar Hunt. Depicted in relief, this epic story was one of the most common themes in Classical art.</dc:description>
+      <dc:description>Location created: Constantinople (Istanbul), Turkey.</dc:description>
+      <dc:description>Date created: 613-30.</dc:description>
+      <dc:description>Current location: State Heritage Museum, St. Petersburg, Russia.</dc:description>
+      <dc:description>Medium: Silver, chased and incised.</dc:description>
+      <dc:description>Measurements: 27.8 cm (diameter)</dc:description>
+      <dc:description>Accession Number: 16.8535-9</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0630</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Art, Byzantine--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Decorative arts--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Silverware--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Meleager (Greek mythology)</dcadesc:subject>
+      <dcadesc:subject>Atalanta (Greek mythology)</dcadesc:subject>
+      <dcadesc:subject>Hunters in art.</dcadesc:subject>
+      <dcadesc:subject>Hungtin dogs in art.</dcadesc:subject>
+      <dcadesc:genre>chasing (metalworking)</dcadesc:genre>
+      <dcadesc:genre>incising.</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dcadesc:genre>silverware.</dcadesc:genre>
+      <dcadesc:genre>silverwork.</dcadesc:genre>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-10.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Plate with Silenus and a Maenad.</dc:title>
+      <dc:description>The relief scene on this plate depicts two companions of Dionysos: a dancing Silenus carrying a wineskin on his shoulders and a maenad holding percussive musical instruments.</dc:description>
+      <dc:description>Location created: Constantinople (Istanbul), Turkey.</dc:description>
+      <dc:description>Date created: 613-30.</dc:description>
+      <dc:description>Current location: State Heritage Museum, St. Petersburg, Russia.</dc:description>
+      <dc:description>Medium: Silver, gilded, chased and incised.</dc:description>
+      <dc:description>Measurements: 25.7 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-10</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0630</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Art, Byzantine--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Decorative arts--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Silverware--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Bacchantes.</dcadesc:subject>
+      <dcadesc:subject>Dance in art.</dcadesc:subject>
+      <dcadesc:persname>Silenus (Mythological character)--Art.</dcadesc:persname>
+      <dcadesc:genre>chasing (metalworking)</dcadesc:genre>
+      <dcadesc:genre>incising.</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dcadesc:genre>silverware.</dcadesc:genre>
+      <dcadesc:genre>silverwork.</dcadesc:genre>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-11.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Dionysos and Silenus.</dc:title>
+      <dc:description>Throughout the Byzantine Empire, bone plaques were used to decorate furniture, small boxes, and pyxides. Images like these could have been used alone or together in more extensive compositions. Most of the numerous surviving examples having been preserved by the dry climate of Egypt.</dc:description>
+      <dc:description>Location created: Egypt.</dc:description>
+      <dc:description>Date created: 4th - 7th centuries.</dc:description>
+      <dc:description>Current location: Metropolitan Museum of Art, New York, United States.</dc:description>
+      <dc:description>Medium: Bone.</dc:description>
+      <dc:description>Measurements: 13.6 x 5.3 x 1.5 cm and 10.7 x 4.5 x 1.9 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-11</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0700</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Art, Byzantine--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Bone carving--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Men in art.</dcadesc:subject>
+      <dcadesc:subject>Male nude in art.</dcadesc:subject>
+      <dcadesc:genre>bone (material)</dcadesc:genre>
+      <dcadesc:genre>carvings (visual works)</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dcadesc:genre>plaques (flat objects)</dcadesc:genre>
+      <dc:temporal>4th century.</dc:temporal>
+      <dc:temporal>5th century.</dc:temporal>
+      <dc:temporal>6th century.</dc:temporal>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-12.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Ladle with Neptune and Fishing Scenes.</dc:title>
+      <dc:description>On the handle, Neptune stands with his characteristic trident atop a fish. Fishermen with tridents and harpoons, fishnets surrounded by fish, shells, and a swimming bird adorn the exterior of the ladle.</dc:description>
+      <dc:description>Location created: Constantinople (Istanbul), Turkey.</dc:description>
+      <dc:description>Date created: 641-51.</dc:description>
+      <dc:description>Current location: State Heritage Museum, St. Petersburg, Russia.</dc:description>
+      <dc:description>Medium: Silver, gilded, chased and incised.</dc:description>
+      <dc:description>Measurements: H. 6.3 cm, Diameter 13.5 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-12</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0651</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Art, Byzantine--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Decorative arts--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Silverware--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Ladles (Utensils)--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:persname>Neptune (Roman deity)--Art.</dcadesc:persname>
+      <dcadesc:genre>chasing (metalworking)</dcadesc:genre>
+      <dcadesc:genre>incising.</dcadesc:genre>
+      <dcadesc:genre>silverwork.</dcadesc:genre>
+      <dcadesc:genre>ladles.</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-13.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Flask with Nereids.</dc:title>
+      <dc:description>The body of the flask is decorated on its broad sides with medallions showing Nereids seated on sea creatures and on its narrow sides with fish, water birds, and shells.</dc:description>
+      <dc:description>Location created: Constantinople (Istanbul), Turkey.</dc:description>
+      <dc:description>Date created: 641-51.</dc:description>
+      <dc:description>Current location: State Heritage Museum, St. Petersburg, Russia.</dc:description>
+      <dc:description>Medium: Silver, embossed and engraved.</dc:description>
+      <dc:description>Measurements: H. 25.2 cm, Diameter 13.5 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-13</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0651</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Art, Byzantine--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Decorative arts--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Silverware--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Bottles--Turkey--Istanbul.</dcadesc:subject>
+      <dcadesc:subject>Nereids (Greek mythology)</dcadesc:subject>
+      <dcadesc:genre>embossed works (visual works)</dcadesc:genre>
+      <dcadesc:genre>flasks (bottles)</dcadesc:genre>
+      <dcadesc:genre>silverwork.</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-14.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>The Naples Dioscorides (fols. 25v - 26r).</dc:title>
+      <dc:description>The Naples Dioscurides (MS Suppl. gr. 28) is an illuminated early 7th-century Greek herbal. The book has 172 folios and the style of Greek script used in the manuscript indicates that it was probably written in Byzantine-ruled southern Italy, where ancient Greek cultural traditions remained strong.</dc:description>
+      <dc:description>Location created: Italy.</dc:description>
+      <dc:description>Date created: late 6th century - early 7th century.</dc:description>
+      <dc:description>Current location: Biblioteca Nazionale, Naples, Italy.</dc:description>
+      <dc:description>Medium: Ink and pigment on parchment.</dc:description>
+      <dc:description>Measurements: approx. 29.7 x 25.5 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-14</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0650</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Manuscripts, Byzantine--Italy.</dcadesc:subject>
+      <dcadesc:subject>Illumination of books and manuscripts, Byzantine--Italy.</dcadesc:subject>
+      <dcadesc:subject>Herbals--Early works to 1800.</dcadesc:subject>
+      <dcadesc:subject>Medicinal plants in art.</dcadesc:subject>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dcadesc:genre>herbals.</dcadesc:genre>
+      <dcadesc:genre>illuminated manuscripts.</dcadesc:genre>
+      <dc:temporal>6th century.</dc:temporal>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-15.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>The Naples Dioscorides (fols. 50r and 33v).</dc:title>
+      <dc:description>The Naples Dioscurides (MS Suppl. gr. 28) is an illuminated early 7th-century Greek herbal. The book has 172 folios and the style of Greek script used in the manuscript indicates that it was probably written in Byzantine-ruled southern Italy, where ancient Greek cultural traditions remained strong.</dc:description>
+      <dc:description>Location created: Italy.</dc:description>
+      <dc:description>Date created: late 6th century - early 7th century.</dc:description>
+      <dc:description>Current location: Biblioteca Nazionale, Naples, Italy.</dc:description>
+      <dc:description>Medium: Ink and pigment on parchment.</dc:description>
+      <dc:description>Measurements: approx. 29.7 x 25.5 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-15</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0650</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Manuscripts, Byzantine--Italy.</dcadesc:subject>
+      <dcadesc:subject>Illumination of books and manuscripts, Byzantine--Italy.</dcadesc:subject>
+      <dcadesc:subject>Herbals--Early works to 1800.</dcadesc:subject>
+      <dcadesc:subject>Medicinal plants in art.</dcadesc:subject>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dcadesc:genre>herbals.</dcadesc:genre>
+      <dcadesc:genre>illuminated manuscripts.</dcadesc:genre>
+      <dc:temporal>6th century.</dc:temporal>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-16.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Fragments of a Wall Hanging with Figures in Persian Dress.</dc:title>
+      <dc:description>Remnants of a border with plain disks on a dark background can still be seen on the upper part of the larger fragment. Below, four figures remain, and their apparel is of special interest.</dc:description>
+      <dc:description>Location created: Eastern Mediterranean.</dc:description>
+      <dc:description>Date created: late 6th- early 7th centuries.</dc:description>
+      <dc:description>Current location: Benaki Museum, Athens, Greece.</dc:description>
+      <dc:description>Medium: Embroidery in polychrome wool on plain-weave ground of undyed linen.</dc:description>
+      <dc:description>Measurements: 39 x 42 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-16</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0650</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Textile fabrics, Byzantine.</dcadesc:subject>
+      <dcadesc:subject>Textile fabrics, Sassanid.</dcadesc:subject>
+      <dcadesc:genre>embroidery (visual works)</dcadesc:genre>
+      <dcadesc:genre>wall hangings.</dcadesc:genre>
+      <dcadesc:genre>Sassanian.</dcadesc:genre>
+      <dcadesc:genre>textiles (visual works)</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dc:temporal>6th century.</dc:temporal>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-17.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Elements of a Frame and Tile Panel.</dc:title>
+      <dc:description>The excavations of the palace of emperor Khusrau I (r. 531-79) and surrounding residences of the site of Sasanian capitol Ctesiphon (in present-day Iraq) brought to light a large number of architectural stuccoes. These examples demonstrate the ornamental form and new technique of the time using cast gypsum.</dc:description>
+      <dc:description>Location created: Mesopotamia.</dc:description>
+      <dc:description>Date created: 6th century.</dc:description>
+      <dc:description>Current location: Metropolitan Museum of Art, New York, United States.</dc:description>
+      <dc:description>Medium: Stucco (gypsum plaster)</dc:description>
+      <dc:description>Measurements: 44.5 cm wide (frame elements) and 64.8 cm wide (tiles)</dc:description>
+      <dc:description>Accession Number: 16.8535-17</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0600</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Art, Sassanid--Iraq.</dcadesc:subject>
+      <dcadesc:subject>Decoration and ornament, Architectural--Iraq.</dcadesc:subject>
+      <dcadesc:genre>stuccowork.</dcadesc:genre>
+      <dcadesc:genre>Sassanian.</dcadesc:genre>
+      <dcadesc:genre>architectural ornament.</dcadesc:genre>
+      <dc:temporal>6th century.</dc:temporal>
+      <dc:spatial>Iraq.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-18.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Bowl with Inhabited Vine Scroll.</dc:title>
+      <dc:description>This oval bowl is a fine example of the kind of silverware that entered the Sasanian repertoire in the early 6th century. One of the common motifs decorating a drinking bowl is the inhabited vine, as seen here.</dc:description>
+      <dc:description>Location created: Iran (?)</dc:description>
+      <dc:description>Date created: 6th-7th century.</dc:description>
+      <dc:description>Current location: Metropolitan Museum of Art, New York, United States.</dc:description>
+      <dc:description>Medium: Silver, mercury gilding, hammered, repousse, chased, gilded.</dc:description>
+      <dc:description>Measurements: 7 x 11.1 x 23.3 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-18</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0700</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Silverwork, Sassanid--Iran.</dcadesc:subject>
+      <dcadesc:subject>Silverware--Iran.</dcadesc:subject>
+      <dcadesc:subject>Bowls (Tableware)--Iran.</dcadesc:subject>
+      <dcadesc:genre>chasing (metalworking)</dcadesc:genre>
+      <dcadesc:genre>repoussé</dcadesc:genre>
+      <dcadesc:genre>Sassanian.</dcadesc:genre>
+      <dcadesc:genre>silverwork.</dcadesc:genre>
+      <dcadesc:genre>bowls (vessels)</dcadesc:genre>
+      <dc:temporal>6th century.</dc:temporal>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-19.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Ewer with Dancing Female Figures within Arcades.</dc:title>
+      <dc:description>This type of ewer, derived ultimately from a Roman-Byzantine shape, does not appear in Sasanian silverware before the 6th century. The lavish decoration consists of four female figures in a dancing pose dressed in diaphanous clothing, each holding two objects. They stand in arches formed of rosettes that are supported by pilasters decorated with spiraling vine.</dc:description>
+      <dc:description>Location created: Iran (?)</dc:description>
+      <dc:description>Date created: 6th-7th century.</dc:description>
+      <dc:description>Current location: Metropolitan Museum of Art, New York, United States.</dc:description>
+      <dc:description>Medium: Silver, embossed, punched, repousse, chased, gilded.</dc:description>
+      <dc:description>Measurements: H. 34.2 cm, Max. diameter 13.3 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-19</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0700</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Silverwork, Sassanid--Iran.</dcadesc:subject>
+      <dcadesc:subject>Silverware--Iran.</dcadesc:subject>
+      <dcadesc:subject>Ewers--Iran.</dcadesc:subject>
+      <dcadesc:subject>Women in art.</dcadesc:subject>
+      <dcadesc:genre>chasing (metalworking)</dcadesc:genre>
+      <dcadesc:genre>repoussé</dcadesc:genre>
+      <dcadesc:genre>Sassanian.</dcadesc:genre>
+      <dcadesc:genre>silverwork.</dcadesc:genre>
+      <dcadesc:genre>ewers (vessels)</dcadesc:genre>
+      <dc:temporal>6th century.</dc:temporal>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-20.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Mosaic Pavement in the Church of Saint Stephen at Umm al-Rasas, Jordan.</dc:title>
+      <dc:description>This mosaic pavement was laid in the main church in the large ecclesiastical complex of Saint Stephen at Umm al-Rasas.</dc:description>
+      <dc:description>Location created: Umm al-Rasas, Jordan.</dc:description>
+      <dc:description>Date created: 718.</dc:description>
+      <dc:description>Medium: Mosaic.</dc:description>
+      <dc:description>Accession Number: 16.8535-20</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0718</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Mosaics, Byzantine--Jordan--Umm al-Raṣāṣ.</dcadesc:subject>
+      <dcadesc:subject>Art, Sassanid--Jordan--Umm al-Raṣāṣ.</dcadesc:subject>
+      <dcadesc:subject>Pavements, Mosaic--Jordan--Umm al-Raṣāṣ.</dcadesc:subject>
+      <dcadesc:subject>Church buildings--Jordan--Umm al-Raṣāṣ.</dcadesc:subject>
+      <dcadesc:genre>mosaics (visual works)</dcadesc:genre>
+      <dcadesc:genre>archaeological site.</dcadesc:genre>
+      <dcadesc:genre>churches (buildings)</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dc:temporal>8th century.</dc:temporal>
+      <dc:spatial>Jordan--Umm al-Raṣāṣ.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-21.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Mosaic Pavement in the Church of the Virgin in Madaba, Jordan.</dc:title>
+      <dc:description>This mosaic pavement is from the Church of the Virgin in Mataba, Jordan. The inscription in the central medallion refers to the icons of the Virgin kept in the church.</dc:description>
+      <dc:description>Location created: Mataba, Jordan.</dc:description>
+      <dc:description>Date created: 767.</dc:description>
+      <dc:description>Medium: Mosaic.</dc:description>
+      <dc:description>Accession Number: 16.8535-21</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0767</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Mosaics, Byzantine--Jordan.</dcadesc:subject>
+      <dcadesc:subject>Art, Sassanid--Jordan.</dcadesc:subject>
+      <dcadesc:subject>Pavements, Mosaic--Jordan.</dcadesc:subject>
+      <dcadesc:subject>Church buildings--Jordan.</dcadesc:subject>
+      <dcadesc:subject>Art, Umayyad--Jordan.</dcadesc:subject>
+      <dcadesc:subject>Decoration and ornament, Abbasid.</dcadesc:subject>
+      <dcadesc:genre>mosaics (visual works)</dcadesc:genre>
+      <dcadesc:genre>archaeological site.</dcadesc:genre>
+      <dcadesc:genre>churches (buildings)</dcadesc:genre>
+      <dcadesc:genre>Sassanian.</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dcadesc:genre>Umayyad.</dcadesc:genre>
+      <dcadesc:genre>Abbasid.</dcadesc:genre>
+      <dc:temporal>8th century.</dc:temporal>
+      <dc:spatial>Jordan.</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-22.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Interior Semidomes in Red Monastery Church.</dc:title>
+      <dcterms:alternative>Dayr Anba Bishay</dcterms:alternative>
+      <dc:description>The church of the Red Monastery (Dayr Anba Bishay) is a basilica with a long nave, terminating in an elaborate tri-lobed sanctuary. Each of the three half circles that form the trefoil sanctuary consists of two ornamented tiers topped by a semi-dome. Depictions of Christ, the Virgin Mary, apostles, evangelists, prophets, and angels create a complex series of messages about salvation. The addition of monastic saints connects the paintings to the setting of the monastery. The numerous and brightly colored designs on the architectural sculpture are the best surviving example of what were Classical and Egyptian traditions that continued into Late Antiquity.</dc:description>
+      <dc:description>Location created: Sohag, Egypt.</dc:description>
+      <dc:description>Date created: 500-525.</dc:description>
+      <dc:description>Accession Number: 16.8535-22</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0525</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Coptic church buildings--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Coptic art--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Architecture, Byzantine--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Apostles in art.</dcadesc:subject>
+      <dcadesc:subject>Church decoration and ornament.</dcadesc:subject>
+      <dcadesc:persname>Mary, Blessed Virgin, Saint--Art.</dcadesc:persname>
+      <dcadesc:persname>Jesus Christ--Art.</dcadesc:persname>
+      <dcadesc:genre>Late Antique.</dcadesc:genre>
+      <dcadesc:genre>frescoes.</dcadesc:genre>
+      <dcadesc:genre>Coptic (Orthodox Christianity)</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dc:temporal>6th century.</dc:temporal>
+      <dc:spatial>Egypt--Sūhāj (Province)</dc:spatial>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-23.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Tusk Fragment with Apostle on Throne, Surrounded by Followers in Front of a City.</dc:title>
+      <dc:description>This carving has an uncommonly high degree of three-dimensionality, most pronounced in the central figures. It is likely that the object was intended to function as an applique, but whether to decorate a piece of furniture or an interior architectural space is open to question. The central figure is believed to possibly be St. Mark, surrounded by his 35 successor Coptic patriarchs of Alexandria.</dc:description>
+      <dc:description>Location created: Syria of Egypt (Alexandria)</dc:description>
+      <dc:description>Date created: 7th century.</dc:description>
+      <dc:description>Current location: Musée du Louvre, Paris, France.</dc:description>
+      <dc:description>Medium: Ivory.</dc:description>
+      <dc:description>Measurements: 15 x 12 cm.</dc:description>
+      <dc:description>Accession Number: 16.8535-23</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0700</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Art, Byzantine--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Bone carving--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Appliqué.</dcadesc:subject>
+      <dcadesc:subject>Saints in art.</dcadesc:subject>
+      <dcadesc:subject>Patriarchs and patriarchate.</dcadesc:subject>
+      <dcadesc:persname>Mark, Saint--Art.</dcadesc:persname>
+      <dcadesc:genre>bone (material)</dcadesc:genre>
+      <dcadesc:genre>carvings (visual works)</dcadesc:genre>
+      <dcadesc:genre>Early Byzantine.</dcadesc:genre>
+      <dcadesc:genre>appliqué (visual works)</dcadesc:genre>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-24.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>Arabic Lectionary.</dc:title>
+      <dc:description>This Arabic lectionary is the earliest dated Christian manuscript in Arabic and its colophon (shown) dates it to 859.</dc:description>
+      <dc:description>Date created: 859.</dc:description>
+      <dc:description>Current location: Monastery of St. Catherine, Sinai, Egypt.</dc:description>
+      <dc:description>Medium: Ink, parchment.</dc:description>
+      <dc:description>Accession Number: 16.8535-24</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0859</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Manuscripts, Arabic--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Lectionaries--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Illumination of books and manuscripts, Early Christian--Egypt.</dcadesc:subject>
+      <dcadesc:subject>Colophons of manuscripts.</dcadesc:subject>
+      <dcadesc:genre>calligraphy (visual works)</dcadesc:genre>
+      <dcadesc:genre>illuminated manuscripts.</dcadesc:genre>
+      <dcadesc:genre>Coptic (culture or style)</dcadesc:genre>
+      <dcadesc:genre>colophons (parts of books)</dcadesc:genre>
+      <dc:temporal>9th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+   <digitalObject>
+      <file>16.8535-25.tif</file>
+      <rel:hasModel>info:fedora/cm:Image.4DS</rel:hasModel>
+      <dc:title>The Attarouthi Treasure.</dc:title>
+      <dc:description>These well-wrought liturgical objects—chalices, censers, a strainer, and a representation of the dove of the Holy Spirit—were among the possessions of a Christian church in the affluent merchant town of Attarouthi in Syria, then one of the richest lands of the Byzantine Empire. The chalices, censers, and strainer were used for the Divine Liturgy, or Eucharist service, in which Christians take consecrated wine and bread in commemoration of the Last Supper and Christ's death. In the early seventh century, Syria fell first to the Sasanian Persians and then to the armies of Islam. These works were probably buried in haste in a protective container at some moment when the Byzantine army was retreating from attacks on the region.</dc:description>
+      <dc:description>Location created: Attarouthi, Syria.</dc:description>
+      <dc:description>Date created: 500-650.</dc:description>
+      <dc:description>Current location: Metropolitan Museum of Art, New York, New York.</dc:description>
+      <dc:description>Medium: Silver, silver-gilt.</dc:description>
+      <dc:description>Accession Number: 16.8535-25</dc:description>
+      <dc:source>Byzantium and Islam</dc:source>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>0650</dc:date.created>
+      <dc:type>Image</dc:type>
+      <dc:format>image/tiff</dc:format>
+      <dcadesc:subject>Silverwork, Sassanid--Syria.</dcadesc:subject>
+      <dcadesc:subject>Silverware--Syria.</dcadesc:subject>
+      <dcadesc:subject>Censers--Syria.</dcadesc:subject>
+      <dcadesc:subject>Chalices--Syria.</dcadesc:subject>
+      <dcadesc:genre>chasing (metalworking)</dcadesc:genre>
+      <dcadesc:genre>repoussé</dcadesc:genre>
+      <dcadesc:genre>Sassanian.</dcadesc:genre>
+      <dcadesc:genre>silverwork.</dcadesc:genre>
+      <dcadesc:genre>chalices (liturgical vessels)</dcadesc:genre>
+      <dcadesc:genre>censers.</dcadesc:genre>
+      <dc:temporal>6th century.</dc:temporal>
+      <dc:temporal>7th century.</dc:temporal>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>ArtBatchTransform: 2016-09-02T08:22:46.962-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>trove</admin:displays>
+      <admin:visibility>authenticated</admin:visibility>
+   </digitalObject>
+</input>

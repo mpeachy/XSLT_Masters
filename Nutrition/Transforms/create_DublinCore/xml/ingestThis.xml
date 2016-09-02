@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+       xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/"
+       xmlns:dcterms="http://purl.org/dc/terms/"
+       xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/"
+       xmlns:ac="http://purl.org/dc/dcmitype/"
+       xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+   <digitalObject>
+      <file>Akoto_HKI Impact of HFP on Nutr Status (based on preliminary findings)_Aug 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Impact of Homestead Food Production on Nutritional Status of Children and Women in Baitadi District, Nepal.</dc:title>
+      <dc:creator>Osei, Akoto K.</dc:creator>
+      <dc:description>This presentation asess the impact of a Homestead Food Production Improvement projust on stunting, nutrition, and food security.</dc:description>
+      <dc:description>Keywords: Scientific Symposium, Helen Keller International.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Akoto_HKI Impact of HFP on Nutr Status (based on preliminary findings)_Aug 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition.</dcadesc:subject>
+      <dcadesc:subject>Food security--Nepal.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Baitadī (Nepal : District)</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Chandyo_SES Food Sec Anemia among Mothers in Bhaktapur_Aug 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Socio economic status, food security and anemia among mothers in Bhaktapur, Nepal.</dc:title>
+      <dc:creator>Chandyo, Ram K.</dc:creator>
+      <dc:description>This presentation covers a follow-up longitudinal study examining food security and anemia among mothers in Bhaktapur Nepal.</dc:description>
+      <dc:description>Keywords: Scientific Symposium, Nutrition Innovation Lab.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Chandyo_SES Food Sec Anemia among Mothers in Bhaktapur_Aug 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition.</dcadesc:subject>
+      <dcadesc:subject>Food security--Nepal--Bhaktapur.</dcadesc:subject>
+      <dcadesc:subject>Anemia.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Bhaktapur (Nepal)</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Ghosh_Symposium PoSHAN Policy Research August 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>PoSHAN Process Research: Understanding Processes that Support Nutrition Program Impacts.</dc:title>
+      <dc:creator>Ghosh, Shibani.</dc:creator>
+      <dc:description>Dr. Ghosh details the PoSHAN panels and research design, discussing the various data points to be collected and their relevance. Keywords: Scientific Symposium, Tufts University.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Ghosh_Symposium PoSHAN Policy Research August 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition--Research--Nepal.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Groopman_Aflatoxin Exposure_Aug 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Prevalance of aflatoxin in mothers and young children in Nepal and Bangladesh: Implications for Assessment and Public Health.</dc:title>
+      <dc:creator>Groopman, John D.</dc:creator>
+      <dc:description>Dr. Groopman details the predominant facts surrounding aflatoxins and their impact on health, nutrition, and infant growth. Keywords: Scientific Symposium, John Hopkins University.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Groopman_Aflatoxin Exposure_Aug 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition.</dcadesc:subject>
+      <dcadesc:subject>Aflatoxins.</dcadesc:subject>
+      <dcadesc:subject>Infants--Nutrition--Nepal.</dcadesc:subject>
+      <dcadesc:subject>Infants--Nutrition--Bangladesh.</dcadesc:subject>
+      <dcadesc:subject>Children--Growth.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcadesc:geogname>Bangladesh.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Joshi_Heifer_Comm Dev and Livestock in Rural Nepal_aug 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Community development and livestock promotion in rural Nepal:effect on child health and growth.</dc:title>
+      <dc:creator>Joshi, Mahesh Prasad.</dc:creator>
+      <dc:description>This presentation explores the effects and impacts of Heifer activities on the health and nutrition status of Nepali children, then makes suggestions for further studies. Keywords: Scientific Symposium, Heifer International.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Joshi_Heifer_Comm Dev and Livestock in Rural Nepal_aug 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition.</dcadesc:subject>
+      <dcadesc:subject>Community development--Nepal.</dcadesc:subject>
+      <dcadesc:subject>Rural development--Nepal.</dcadesc:subject>
+      <dcadesc:subject>Livestock--Nepal.</dcadesc:subject>
+      <dcadesc:subject>Children--Nutrition--Nepal.</dcadesc:subject>
+      <dcadesc:subject>Children--Health and hygiene--Nepal.</dcadesc:subject>
+      <dcadesc:subject>Children--Growth.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Klemm_PoSHAN Community Studies_Aug 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>PoSHAN Community Studies: Finding Pathways to Accelerate Nutritional Impacts.</dc:title>
+      <dc:creator>Klemm, Rolf.</dc:creator>
+      <dc:description>In this presentation Dr. Klemm reviews the data from the first PoSHAN community panel and points out changes that need to be made in the future panels. Keywords: Scientific Symposium, John Hopkins University.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Klemm_PoSHAN Community Studies_Aug 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition--Research--Nepal.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Mebrahtu,_UNICEF_IYCF as associated with child nutrition status_August 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Infant and Young Child Feeding Practices as Associated with Child Nutritional Status in Nepal: Analysis of the 2011 Nepal Demographic Health Survey.</dc:title>
+      <dc:creator>Mebrahtu, Saba.</dc:creator>
+      <dc:description>This presentation devles into an analysis of the 2011 Nepal Demographic Health Survey (DHS) looking at rates of stunting and how they have been improved. Keywords: Scientific Symposium, stunting, 2011 DHS, Nepal DHS, UNICEF.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Mebrahtu,_UNICEF_IYCF as associated with child nutrition status_August 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition.</dcadesc:subject>
+      <dcadesc:subject>Children--Nutrition--Nepal.</dcadesc:subject>
+      <dcadesc:subject>Children--Growth.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Menage_Nepal Thematic Report on Food Sec &amp; Nutr_Aug 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Nepal Thematic Report on Food Security and Nutrition 2013.</dc:title>
+      <dc:creator>Menage, Nicole.</dc:creator>
+      <dc:description>This presentation is a thematic report on food security and nutrition, containing a variety of graphs. Keywords: Scientific Symposium, NeKSAP.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Menage_Nepal Thematic Report on Food Sec &amp; Nutr_Aug 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition.</dcadesc:subject>
+      <dcadesc:subject>Food security--Nepal.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Neupane_FORWARD_HH Consumption of Lentil_Aug 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Household Consumption of Lentils in Selected Terai Districts of Nepal: A Study on Impact of Improved Technologies.</dc:title>
+      <dc:creator>Neupane, Ram Kumar.</dc:creator>
+      <dcterms:contributor>Sharma, A.</dcterms:contributor>
+      <dcterms:contributor>Aryal, D.</dcterms:contributor>
+      <dcterms:contributor>Saha, R.</dcterms:contributor>
+      <dcterms:contributor>Gupta, R.</dcterms:contributor>
+      <dc:description>This presentation looks at a technology intervention designed to increase lentil production which met with great success. Keywords: Scientific Symposium, Suaahara, Forward Nepal.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Neupane_FORWARD_HH Consumption of Lentil_Aug 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition.</dcadesc:subject>
+      <dcadesc:subject>Lentils--Nepal.</dcadesc:subject>
+      <dcadesc:subject>Food industry and trade--Technological innovations.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Tarai (India and Nepal)</dcadesc:geogname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Pandey_Implementation and lessons learned for integrated nutrition programming_Aug 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Suaahara: Lessons learned from an integrated nutrition program.</dc:title>
+      <dc:creator>Pandey, Atmaram.</dc:creator>
+      <dc:description>This presentation covers lessons and take-aways from integrated nutrition programs from Suaahara projects.</dc:description>
+      <dc:description>Keywords: Scientific Symposium, Suaahara.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Pandey_Implementation and lessons learned for integrated nutrition programming_Aug 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition policy--Nepal.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Rai_Total Diet Study (TDS) _Aug 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Total Diet Study on Total Aflatoxins Consumed through Selected Foods from Selected Clusters of Nepal.</dc:title>
+      <dc:creator>Rai, Krishna Prasad.</dc:creator>
+      <dcterms:contributor>Chaudhary, Shiv Sagar.</dcterms:contributor>
+      <dcterms:contributor>Shrestha, Sovita.</dcterms:contributor>
+      <dcterms:contributor>Rijal, Som Kanta.</dcterms:contributor>
+      <dcterms:contributor>Sharma, Bal Kumari.</dcterms:contributor>
+      <dcterms:contributor>Lama, Jiwan P.</dcterms:contributor>
+      <dc:description>This presentation examines exposure to and food contaimination levels of aflatoxins in common crops in Nepal.</dc:description>
+      <dc:description>Keywords: Scientific Symposium Nepal Department of Food Technology and Quality,</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Rai_Total Diet Study (TDS) _Aug 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition.</dcadesc:subject>
+      <dcadesc:subject>Aflatoxins.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Shrestha_No Rice_Aug 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>No Rice in the house: Risk factors and association with Nutritional status of Nepalese 9-13 years olds.</dc:title>
+      <dc:creator>Shrestha, Raman.</dc:creator>
+      <dcterms:contributor>Klemm, Rolf.</dcterms:contributor>
+      <dcterms:contributor>West, Keith.</dcterms:contributor>
+      <dc:description>This presentation examines household food security, focusing on rice stores and the nutritional status of children.</dc:description>
+      <dc:description>Keywords: Scientific Symposium, John Hopkins University.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Shrestha_No Rice_Aug 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition.</dcadesc:subject>
+      <dcadesc:subject>Food security--Nepal.</dcadesc:subject>
+      <dcadesc:subject>Children--Nutrition--Nepal.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Thapa_Analysis of Child &amp; District Level Performance_Aug 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Agriculture and Child Nutrition: An Analysis of Child &amp; District- level Performance in Nepal.</dc:title>
+      <dc:creator>Tapa, Ganesh</dc:creator>
+      <dc:creator>Shively, Gerald.</dc:creator>
+      <dc:description>This presentation covers an analysis of child nutritional status through the lens of various factors, including economic status, caste status, maternal education, and geographic location.</dc:description>
+      <dc:description>Keywords: Scientific Symposium, Purdue University.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Thapa_Analysis of Child &amp; District Level Performance_Aug 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject/>
+      <dcadesc:subject>Nepal.</dcadesc:subject>
+      <dcadesc:subject>Nutrition status.</dcadesc:subject>
+      <dcadesc:subject>analysis.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Thapa_LiBIRD__Aug2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Diversifying Family Nutrition of Smallholder Tribal Farmers through different conservation agriculture crop production systems In the sloping lands of Nepal mid-hills.</dc:title>
+      <dc:creator>Thapaliya, Rahika.</dc:creator>
+      <dcterms:contributor>Thapa, K.</dcterms:contributor>
+      <dcterms:contributor>Paudel, B.</dcterms:contributor>
+      <dcterms:contributor>Tamang, B.B.</dcterms:contributor>
+      <dcterms:contributor>Crow, S.</dcterms:contributor>
+      <dcterms:contributor>Halbrendt, J.</dcterms:contributor>
+      <dcterms:contributor>Chan- Halbrendt, C.</dcterms:contributor>
+      <dcterms:contributor>Radovich, T.</dcterms:contributor>
+      <dcterms:contributor>Khadka, K.</dcterms:contributor>
+      <dcterms:contributor>Chaudhary, P.</dcterms:contributor>
+      <dcterms:contributor>Shrestha, D.N.</dcterms:contributor>
+      <dc:description>This presentation explores an intervention done to increase crop yields on slopping, rural terains.</dc:description>
+      <dc:description>Keywords: Scientific Symposium, crop yields, sloping land, Li-Bird, University of Hawai'I at Manoa.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Thapa_LiBIRD__Aug2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition.</dcadesc:subject>
+      <dcadesc:subject>Crops.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>Webb_Lancet Series 2 Keynote_Aug 2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>What the Lancet Nutrition Series of 2013 tells us (and what it doesn't).</dc:title>
+      <dc:creator>Webb, Patrick, 1959-</dc:creator>
+      <dc:description>A review of what the 2013 Lancet Nutrition Series covers, and what yet needs to be explored in relation to stunting and increasing positive nutrition outcomes.</dc:description>
+      <dc:description>Keywords: Scientific Symposium, Lance, Tufts University.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: Webb_Lancet Series 2 Keynote_Aug 2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>West KP_Proteomics_Aug2013.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>The Plasma Proteome: A New Potential Approach for Assessing Multiple Micronutrient Deficiencies.</dc:title>
+      <dc:creator>West, Keith.</dc:creator>
+      <dc:description>This presentation examines micronutrient deficencies, particularly vitamin A, and more efficient options for assesing micronutrient deficiencies in the population.</dc:description>
+      <dc:description>Keywords: Scientific Symposium, micronutrients, John Hopkins University.</dc:description>
+      <dc:description>Nutrition School: NIL Symposium Presentations, 2013.</dc:description>
+      <dc:description>Accession Number: West KP_Proteomics_Aug2013.pdf</dc:description>
+      <dcterms:bibliographicCitation/>
+      <dcterms:abstract/>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:date.created>2013</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Nutrition.</dcadesc:subject>
+      <dcadesc:subject>Trace elements in nutrition.</dcadesc:subject>
+      <dcadesc:subject>Vitamin A in human nutrition.</dcadesc:subject>
+      <dcadesc:corpname>Feed the Future Innovation Lab for Nutrition.</dcadesc:corpname>
+      <dcadesc:geogname>Nepal.</dcadesc:geogname>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>NutritionBatchTransform: 2016-09-02T11:02:57.994-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+</input>

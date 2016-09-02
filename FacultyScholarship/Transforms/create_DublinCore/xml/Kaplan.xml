@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <Accession>journal_pone_0031598</Accession>
+        <Title>Isolation and Maintenance-Free Culture of Contractile Myotubes from Manduca sexta Embryos</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Baryshyan, Amanda L.|Woods, William|Trimmer, Barry</Creator>
+        <Contributors></Contributors>
+        <Description>Skeletal muscle tissue engineering has the potential to treat tissue loss and degenerative diseases. However, these systems are also applicable for a variety of devices where actuation is needed, such as microelectromechanical systems (MEMS) and robotics. Most current efforts to generate muscle bioactuators are focused on using mammalian cells, which require exacting conditions for survival and function. In contrast, invertebrate cells are more environmentally robust, metabolically adaptable and relatively autonomous. Our hypothesis is that the use of invertebrate muscle cells will obviate many of the limitations encountered when mammalian cells are used for bioactuation. We focus on the tobacco hornworm, Manduca sexta, due to its easy availability, large size and well-characterized muscle contractile properties. Using isolated embryonic cells, we have developed culture conditions to grow and characterize contractile M. sexta muscles. The insect hormone 20-hydroxyecdysone was used to induce differentiation in the system, resulting in cells that stained positive for myosin, contract spontaneously for the duration of the culture, and do not require media changes over periods of more than a month. These cells proliferate under normal conditions, but the application of juvenile hormone induced further proliferation and inhibited differentiation. Cellular metabolism under normal and low glucose conditions was compared for C2C12 mouse and M. sexta myoblast cells. While differentiated C2C12 cells consumed glucose and produced lactate over one week as expected, M. sexta muscle did not consume significant glucose, and lactate production exceeded mammalian muscle production on a per cell basis. Contractile properties were evaluated using index of movement analysis, which demonstrated the potential of these cells to perform mechanical work. The ability of cultured M. sexta muscle to continuously function at ambient conditions without medium replenishment, combined with the interesting metabolic properties, suggests that this cell source is a promising candidate for further investigation toward bioactuator applications.</Description>
+        <bibliographicCitation>Baryshyan AL, Woods W, Trimmer BA, Kaplan DL (2012) Isolation and Maintenance-Free Culture of Contractile Myotubes from Manduca sexta Embryos. PLoS ONE 7(2): e31598. doi:10.1371/journal.pone.0031598</bibliographicCitation>
+        <Date_Created>2012</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Biomedical engineering|Tissue engineering|Invertebrates|Tobacco hornworm</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>materials-03-01833</Accession>
+        <Title>Tissue Equivalents Based on Cell-Seeded Biodegradable Microfluidic Constructs</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Borenstein, Jeffrey|Megley, Katie|Wall, Kimberly|Pritchard, Eleanor M.|Truong, David|Tao, Sarah|Herman, Ira M.</Creator>
+        <Contributors></Contributors>
+        <Description>One of the principal challenges in the field of tissue engineering and regenerative medicine is the formation of functional microvascular networks capable of sustaining tissue constructs. Complex tissues and vital organs require a means to support oxygen and nutrient transport during the development of constructs both prior to and after host integration, and current approaches have not demonstrated robust solutions to this challenge. Here, we present a technology platform encompassing the design, construction, cell seeding and functional evaluation of tissue equivalents for wound healing and other clinical applications. These tissue equivalents are comprised of biodegradable microfluidic scaffolds lined with microvascular cells and designed to replicate microenvironmental cues necessary to generate and sustain cell populations to replace dermal and/or epidermal tissues lost due to trauma or disease. Initial results demonstrate that these biodegradable microfluidic devices promote cell adherence and support basic cell functions. These systems represent a promising pathway towards highly integrated three-dimensional engineered tissue constructs for a wide range of clinical applications.</Description>
+        <bibliographicCitation>Borenstein, J. T., K. Megley, K. Wall, E. M. Pritchard, D. Truong, D. L. Kaplan, S. L. Tao and I. M. Herman (2010). "Tissue equivalents based on cell-seeded biodegradable microfluidic constructs." Materials 3(3): 1833-1844. doi: 10.3390/ma3031833.</bibliographicCitation>
+        <Date_Created>2010</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Biomedical engineering|Tissue engineering|Microfluidics|Microfabrication|Wound healing</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>srep01130</Accession>
+        <Title>Beating the Heat - Fast Scanning Melts Silk Beta Sheet Crystals</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Cebe, Peggy|Hu, Xiao|Zhuravlev, Evgeny|Wurm, Andreas|Arbeiter, Daniela|Schick, Christoph, Prof. Dr.</Creator>
+        <Contributors></Contributors>
+        <Description>Beta-pleated-sheet crystals are among the most stable of protein secondary structures, and are responsible for the remarkable physical properties of many fibrous proteins, such as silk, or proteins forming plaques as in Alzheimer's disease. Previous thinking, and the accepted paradigm, was that beta-pleated-sheet crystals in the dry solid state were so stable they would not melt upon input of heat energy alone. Here we overturn that assumption and demonstrate that beta-pleated-sheet crystals melt directly from the solid state to become random coils, helices, and turns. We use fast scanning chip calorimetry at 2,000 K/s and report the first reversible thermal melting of protein beta-pleated-sheet crystals, exemplified by silk fibroin. The similarity between thermal melting behavior of lamellar crystals of synthetic polymers and beta-pleated-sheet crystals is confirmed. Significance for controlling beta-pleated-sheet content during thermal processing of biomaterials, as well as towards disease therapies, is envisioned based on these new findings.</Description>
+        <bibliographicCitation>Cebe, P. et al. Beating the Heat - Fast Scanning Melts Silk Beta Sheet Crystals. Sci. Rep. 3, 1130; DOI:10.1038/srep01130 (2013).</bibliographicCitation>
+        <Date_Created>2013</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Proteins|Biomedical materials| Biophysics</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>srep13708</Accession>
+        <Title>Robust bioengineered 3D functional human intestinal epithelium</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Chen, Ying|Lin, Yinan|Wang, Qianrui|Rnjak-Kovacina, Jelena|Li, Chunmei|Isberg, Ralph R.|Kumamoto, Carol A.|Mecsas, Joan</Creator>
+        <Contributors></Contributors>
+        <Description>Intestinal functions are central to human physiology, health and disease. Options to study these functions with direct relevance to the human condition remain severely limited when using conventional cell cultures, microfluidic systems, organoids, animal surrogates or human studies. To replicate in vitro the tissue architecture and microenvironments of native intestine, we developed a 3D porous protein scaffolding system, containing a geometrically-engineered hollow lumen, with adaptability to both large and small intestines. These intestinal tissues demonstrated representative human responses by permitting continuous accumulation of mucous secretions on the epithelial surface, establishing low oxygen tension in the lumen, and interacting with gut-colonizing bacteria. The newly developed 3D intestine model enabled months-long sustained access to these intestinal functions in vitro, readily integrable with a multitude of different organ mimics and will therefore ensure a reliable ex vivo tissue system for studies in a broad context of human intestinal diseases and treatments.</Description>
+        <bibliographicCitation>Chen, Y. et al. Robust bioengineered 3D functional human intestinal epithelium. Sci. Rep. 5, 13708; doi: 10.1038/srep13708 (2015).</bibliographicCitation>
+        <Date_Created>2015</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Tissue engineering|Human anatomy--Models|Intestines</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>ncomms8145</Accession>
+        <Title>Carbonization of a stable β-sheet-rich silk protein into a pseudographitic pyroprotein</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Cho, Se Youn|Yun, Young Soo|Lee, Sungho|Jang, Dawon|Park, Kyu-Young|Kim, Jae Kyung|Kim, Byung Hoon|Kang, Kisuk|Jin, Hyoung-Joon</Creator>
+        <Contributors></Contributors>
+        <Description>Silk proteins are of great interest to the scientific community owing to their unique mechanical properties and interesting biological functionality. In addition, the silk proteins are not burned out following heating, rather they are transformed into a carbonaceous solid, pyroprotein; several studies have identified potential carbon precursors for state-of-the-art technologies. However, no mechanism for the carbonization of proteins has yet been reported. Here we examine the structural and chemical changes of silk proteins systematically at temperatures above the onset of thermal degradation. We find that the β-sheet structure is transformed into an sp2-hybridized carbon hexagonal structure by simple heating to 350 °C. The pseudographitic crystalline layers grew to form highly ordered graphitic structures following further heating to 2,800 °C. Our results provide a mechanism for the thermal transition of the protein and demonstrate a potential strategy for designing pyroproteins using a clean system with a catalyst-free aqueous wet process for in vivo applications.</Description>
+        <bibliographicCitation>Cho, S.Y. et al. Carbonization of a stable b-sheet-rich silk protein into a pseudographitic pyroprotein. Nat. Commun. 6:7145 doi: 10.1038/ncomms8145 (2015).</bibliographicCitation>
+        <Date_Created>2015</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Materials science|Proteins|Silk</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0091592</Accession>
+        <Title>Acellular Bi-Layer Silk Fibroin Scaffolds Support Tissue Regeneration in a Rabbit Model of Onlay Urethroplasty</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Chung, Yeun Goo|Tu, Duong|Franck, Debra|Gil, Eun Seok|Algarrahi, Khalid|Adam, Rosalyn M.|Estrada Jr., Carlos R.|Mauney, Joshua R.</Creator>
+        <Contributors></Contributors>
+        <Description>Acellular scaffolds derived from Bombyx mori silk fibroin were investigated for their ability to support functional tissue regeneration in a rabbit model of urethra repair. A bi-layer silk fibroin matrix was fabricated by a solvent-casting/salt leaching process in combination with silk fibroin film casting to generate porous foams buttressed by homogeneous silk fibroin films. Ventral onlay urethroplasty was performed with silk fibroin grafts (Group 1, N = 4) (Width×Length, 1×2 cm2) in adult male rabbits for 3 m of implantation. Parallel control groups consisted of animals receiving small intestinal submucosa (SIS) implants (Group 2, N = 4) or urethrotomy alone (Group 3, N = 3). Animals in all groups exhibited 100% survival prior to scheduled euthanasia and achieved voluntary voiding following 7 d of initial catheterization. Retrograde urethrography of each implant group at 3 m post-op revealed wide urethral calibers and preservation of organ continuity similar to pre-operative and urethrotomy controls with no evidence of contrast extravasation, strictures, fistulas, or stone formation. Histological (hematoxylin and eosin and Masson's trichrome), immunohistochemical, and histomorphometric analyses demonstrated that both silk fibroin and SIS scaffolds promoted similar extents of smooth muscle and epithelial tissue regeneration throughout the original defect sites with prominent contractile protein (α-smooth muscle actin and SM22α) and cytokeratin expression, respectively. De novo innervation and vascularization were also evident in all regenerated tissues indicated by synaptophysin-positive neuronal cells and vessels lined with CD31 expressing endothelial cells. Following 3 m post-op, minimal acute inflammatory reactions were elicited by silk fibroin scaffolds characterized by the presence of eosinophil granulocytes while SIS matrices promoted chronic inflammatory responses indicated by mobilization of mononuclear cell infiltrates. The results of this study demonstrate that bi-layer silk fibroin scaffolds represent promising biomaterials for onlay urethroplasty, capable of promoting similar degrees of tissue regeneration in comparison to conventional SIS scaffolds, but with reduced immunogenicity.</Description>
+        <bibliographicCitation>Chung YG, Tu D, Franck D, Gil ES, Algarrahi K, Adam RM, et al. (2014) Acellular Bi-Layer Silk Fibroin Scaffolds Support Tissue Regeneration in a Rabbit Model of Onlay Urethroplasty. PLoS ONE 9(3): e91592. doi:10.1371/journal.pone.0091592.</bibliographicCitation>
+        <Date_Created>2014</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Tissue engineering|Biomedical materials|Urethroplasty|Urology</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0120097</Accession>
+        <Title>The Effects of Mycoplasma Contamination upon the Ability to Form Bioengineered 3D Kidney Cysts</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|DesRochers, Teresa M.|Kuo, Ivana Y.|Kimmerling, Erica P.|Ehrlich, Barbara E.</Creator>
+        <Contributors></Contributors>
+        <Description>Mycoplasma contamination of cell cultures is a pervasive, often undiagnosed and ignored problem in many laboratories that can result in reduced cell proliferation and changes in gene expression. Unless contamination is specifically suspected, it is often undetected in two dimensional (2D) cultures and the resulting effects of mycoplasma contamination are rarely appreciated and can lead to incorrect conclusions. Three dimensional (3D) tissue cultures are increasingly utilized to explore tissue development and phenotype. However, 3D cultures are more complex than 2D cell cultures and require a more controlled cellular environment in order to generate structures necessary to mimic in vivo responses and are often maintained for longer time periods. Changes to the microenvironment are assumed to have a more extreme effect upon the success of 3D tissue cultures than 2D cell cultures, but the effects of mycoplasma have not been studied. To test this hypothesis, we grew 2D cell cultures and 3D tissues from pig kidney epithelial cells (LLC-PK1) that were contaminated with mycoplasma and the same stock of cells after mycoplasma removal. We did not observe an effect of mycoplasma contamination on proliferation in 2D monolayer cell culture. However, cyst formation in 3D tissues was altered, with effects upon the number, size and structure of cysts formed. These data serve to reinforce the necessity of testing cell stocks for mycoplasma contamination.</Description>
+        <bibliographicCitation>DesRochers, T. M., I. Y. Kuo, E. P. Kimmerling, B. E. Ehrlich and D. L. Kaplan (2015). "The effects of mycoplasma contamination upon the ability to form bioengineered 3D kidney cysts." PLoS ONE 10(3). doi: 10.1371/journal.pone.0120097.</bibliographicCitation>
+        <Date_Created>2015</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Mycoplasma|Biomedical materials</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0059219</Accession>
+        <Title>Bioengineered 3D Human Kidney Tissue, a Platform for the Determination of Nephrotoxicity</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|DesRochers, Teresa M.|Suter, Laura|Roth, Adrian</Creator>
+        <Contributors></Contributors>
+        <Description>The staggering cost of bringing a drug to market coupled with the extremely high failure rate of prospective compounds in early phase clinical trials due to unexpected human toxicity makes it imperative that more relevant human models be developed to better predict drug toxicity. Drug–induced nephrotoxicity remains especially difficult to predict in both pre-clinical and clinical settings and is often undetected until patient hospitalization. Current pre-clinical methods of determining renal toxicity include 2D cell cultures and animal models, both of which are incapable of fully recapitulating the in vivo human response to drugs, contributing to the high failure rate upon clinical trials. We have bioengineered a 3D kidney tissue model using immortalized human renal cortical epithelial cells with kidney functions similar to that found in vivo. These 3D tissues were compared to 2D cells in terms of both acute (3 days) and chronic (2 weeks) toxicity induced by Cisplatin, Gentamicin, and Doxorubicin using both traditional LDH secretion and the pre-clinical biomarkers Kim-1 and NGAL as assessments of toxicity. The 3D tissues were more sensitive to drug-induced toxicity and, unlike the 2D cells, were capable of being used to monitor chronic toxicity due to repeat dosing. The inclusion of this tissue model in drug testing prior to the initiation of phase I clinical trials would allow for better prediction of the nephrotoxic effects of new drugs.</Description>
+        <bibliographicCitation>DesRochers, T. M., L. Suter, A. Roth and D. L. Kaplan (2013). "Bioengineered 3D Human Kidney Tissue, a Platform for the Determination of Nephrotoxicity." PLoS ONE 8(3). doi: 10.1371/journal.pone.0059219.</bibliographicCitation>
+        <Date_Created>2013</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Bioengineering|Tissue engineering|Human anatomy--Models|Biomedical materials|Nephrotoxicology</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0109770</Accession>
+        <Title>Complementary Effects of Two Growth Factors in Multifunctionalized Silk Nanofibers for Nerve Reconstruction</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Dinis, Tony M.|Vidal, Guillaume|Jose, Rodrigo R.|Vigneron, Pascale|Fitzpatrick, Vincent|Marin, Frédéric|Egles, Christophe</Creator>
+        <Contributors></Contributors>
+        <Description>With the aim of forming bioactive guides for peripheral nerve regeneration, silk fibroin was electrospun to obtain aligned nanofibers. These fibers were functionalized by incorporating Nerve Growth Factor (NGF) and Ciliary NeuroTrophic Factor (CNTF) during electrospinning. PC12 cells grown on the fibers confirmed the bioavailability and bioactivity of the NGF, which was not significantly released from the fibers. Primary neurons from rat dorsal root ganglia (DRGs) were grown on the nanofibers and anchored to the fibers and grew in a directional fashion based on the fiber orientation, and as confirmed by growth cone morphology. These biofunctionalized nanofibers led to a 3-fold increase in neurite length at their contact, which was likely due to the NGF. Glial cell growth, alignment and migration were stimulated by the CNTF in the functionalized nanofibers. Organotypic culture of rat fetal DRGs confirmed the complementary effect of both growth factors in multifunctionalized nanofibers, which allowed glial cell migration, alignment and parallel axonal growth in structures resembling the ‘bands of Bungner’ found in situ. Graftable multi-channel conduits based on biofunctionalized aligned silk nanofibers were developed as an organized 3D scaffold. Our bioactive silk tubes thus represent new options for a biological and biocompatible nerve guidance conduit.</Description>
+        <bibliographicCitation>Dinis, T. M., G. Vidal, R. R. Jose, P. Vigneron, D. Bresson, V. Fitzpatrick, F. Marin, D. L. Kaplan and C. Egles (2014). "Complementary effects of two growth factors in multifunctionalized silk nanofibers for nerve reconstruction." PLoS ONE 9(10). doi: 10.1371/journal.pone.0109770.</bibliographicCitation>
+        <Date_Created>2014</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Biomedical materials|Nervous system--Regeneration|Nanostructured materials|Nerves|Silk</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0056237</Accession>
+        <Title>Evaluation of Silk Biomaterials in Combination with Extracellular Matrix Coatings for Bladder Tissue Engineering with Primary and Pluripotent Cells</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Franck, Debra|Gil, Eun Seok|Adam, Rosalind M.|Chung, Yeun Goo|Estrada Jr., Carlos R.|Mauney, Joshua R.</Creator>
+        <Contributors></Contributors>
+        <Description>Silk-based biomaterials in combination with extracellular matrix (ECM) coatings were assessed as templates for cell-seeded bladder tissue engineering approaches. Two structurally diverse groups of silk scaffolds were produced by a gel spinning process and consisted of either smooth, compact multi-laminates (Group 1) or rough, porous lamellar-like sheets (Group 2). Scaffolds alone or coated with collagen types I or IV or fibronectin were assessed independently for their ability to support attachment, proliferation, and differentiation of primary cell lines including human bladder smooth muscle cells (SMC) and urothelial cells as well as pluripotent cell populations, such as murine embryonic stem cells (ESC) and induced pluripotent stem (iPS) cells. AlamarBlue evaluations revealed that fibronectin-coated Group 2 scaffolds promoted the highest degree of primary SMC and urothelial cell attachment in comparison to uncoated Group 2 controls and all Group 1 scaffold variants. Real time RT-PCR and immunohistochemical (IHC) analyses demonstrated that both fibronectin-coated silk groups were permissive for SMC contractile differentiation as determined by significant upregulation of α-actin and SM22α mRNA and protein expression levels following TGFβ1 stimulation. Prominent expression of epithelial differentiation markers, cytokeratins, was observed in urothelial cells cultured on both control and fibronectin-coated groups following IHC analysis. Evaluation of silk matrices for ESC and iPS cell attachment by alamarBlue showed that fibronectin-coated Group 2 scaffolds promoted the highest levels in comparison to all other scaffold formulations. In addition, real time RT-PCR and IHC analyses showed that fibronectin-coated Group 2 scaffolds facilitated ESC and iPS cell differentiation toward both urothelial and smooth muscle lineages in response to all trans retinoic acid as assessed by induction of uroplakin and contractile gene and protein expression. These results demonstrate that silk scaffolds support primary and pluripotent cell responses pertinent to bladder tissue engineering and that scaffold morphology and fibronectin coatings influence these processes.</Description>
+        <bibliographicCitation>Franck, D., E. S. Gil, R. M. Adam, D. L. Kaplan, Y. G. Chung, C. R. Estrada Jr and J. R. Mauney (2013). "Evaluation of Silk Biomaterials in Combination with Extracellular Matrix Coatings for Bladder Tissue Engineering with Primary and Pluripotent Cells." PLoS ONE 8(2). doi: 10.1371/journal.pone.0056237.</bibliographicCitation>
+        <Date_Created>2013</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Biomedical materials|Bladder|Urology|Silk</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0155618</Accession>
+        <Title>A Tunable Silk Hydrogel Device for Studying Limb Regeneration in Adult Xenopus Laevis</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Golding, Anne|Guay, Justin A.|Herrera-Rincon, Celia|Levin, Michael</Creator>
+        <Contributors></Contributors>
+        <Description>In certain amphibian models limb regeneration can be promoted or inhibited by the local wound bed environment. This research introduces a device that can be utilized as an experimental tool to characterize the conditions that promotes limb regeneration in the adult frog (Xenopus laevis) model. In particular, this device was designed to manipulate the local wound environment via a hydrogel insert. Initial characterization of the hydrogel insert revealed that this interaction had a significant influence on mechanical forces to the animal, due to the contraction of the hydrogel. The material and mechanical properties of the hydrogel insert were a factor in the device design in relation to the comfort of the animal and the ability to effectively manipulate the amputation site. The tunable features of the hydrogel were important in determining the pro-regenerative effects in limb regeneration, which was measured by cartilage spike formation and quantified by micro-computed tomography. The hydrogel insert was a factor in the observed morphological outcomes following amputation. Future work will focus on characterizing and optimizing the device’s observed capability to manipulate biological pathways that are essential for limb regeneration. However, the present work provides a framework for the role of a hydrogel in the device and a path forward for more systematic studies.</Description>
+        <bibliographicCitation>Golding, A., J. A. Guay, C. Herrera-Rincon, M. Levin and D. L. Kaplan (2016). "A tunable silk hydrogel device for studying limb regeneration in adult Xenopus laevis." PLoS ONE 11(6). doi: 10.1371/journal.pone.0155618.</bibliographicCitation>
+        <Date_Created>2016</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Xenopus laevis</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>ijms-16-20511</Accession>
+        <Title>Supracolloidal Assemblies as Sacrificial Templates for Porous Silk-Based Biomaterials</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Hardy, John G.| Ghezzi, Chiara E.|Schmidt, Christine E.</Creator>
+        <Contributors></Contributors>
+        <Description>Tissues in the body are hierarchically structured composite materials with tissue-specific properties. Urea self-assembles via hydrogen bonding interactions into crystalline supracolloidal assemblies that can be used to impart macroscopic pores to polymer-based tissue scaffolds. In this communication, we explain the solvent interactions governing the solubility of urea and thereby the scope of compatible polymers. We also highlight the role of solvent interactions on the morphology of the resulting supracolloidal crystals. We elucidate the role of polymer-urea interactions on the morphology of the pores in the resulting biomaterials. Finally, we demonstrate that it is possible to use our urea templating methodology to prepare Bombyx mori silk protein-based biomaterials with pores that human dermal fibroblasts respond to by aligning with the long axis of the pores. This methodology has potential for application in a variety of different tissue engineering niches in which cell alignment is observed, including skin, bone, muscle and nerve.</Description>
+        <bibliographicCitation>Hardy, J. G., C. E. Ghezzi, R. J. Saballos, D. L. Kaplan and C. E. Schmidt (2015). "Supracolloidal assemblies as sacrificial templates for porous silk-based biomaterials." International Journal of Molecular Sciences 16(9): 20511-20522. doi: 10.3390/ijms160920511.</bibliographicCitation>
+        <Date_Created>2015</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Biomedical engineering|Tissue engineering|Biomedical materials|Supramolecular chemistry</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>art_3A10_1186_2F1475-925X-10-9</Accession>
+        <Title>Osteoblastic differentiation and stress response of human mesenchymal stem cells exposed to alternating current electric fields</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Hronik-Tupaj, Marie|Rice, William L.|Cronin-Golomb, Mark|Georgakoudi, Irene</Creator>
+        <Contributors></Contributors>
+        <Description>The purpose of this study was to track the differentiation profile and stress response of human bone marrow derived mesenchymal stem cells (hMSCs) undergoing osteogenic differentiation during exposure to a 20 mV/cm, 60 kHz electric field. Morphological and biochemical changes were imaged using endogenous two-photon excited fluorescence (TPEF) and quantitatively assessed through eccentricity calculations and extraction of the redox ratio from NADH, FAD and lipofuscin contributions. Real time reverse transcriptase-polymerase chain reactions (RT-PCR) were used to track osteogenic differentiation markers, namely alkaline phosphatase (ALP) and collagen type 1 (col1), and stress response markers, such as heat shock protein 27 (hsp27) and heat shock protein 70 (hsp70). Comparisons of collagen deposition between the stimulated hMSCs and controls were examined through second harmonic generation (SHG) imaging.</Description>
+        <bibliographicCitation>Hronik-Tupaj et al.: Osteoblastic differentiation and stress response of human mesenchymal stem cells exposed to alternating current electric fields. BioMedical Engineering OnLine 2011 10:9. doi:10.1186/1475-925X-10-9.</bibliographicCitation>
+        <Date_Created>2011</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Biomedical engineering|Mesenchymal stem cells</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>1-s2_0-S1369702112700913-main</Accession>
+        <Title>Protein-based composite materials</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Hu, Xiao|Cebe, Peggy|Weiss, Anthony S.|Omenetto, Fiorenzo</Creator>
+        <Contributors></Contributors>
+        <Description>Protein-based composite biomaterials have been actively pursued as they can encompass a range of physical properties to accommodate a broader spectrum of functional requirements, such as elasticity to support diverse tissues. By optimizing molecular interfaces between structural proteins, useful composite materials can be fabricated as films, gels, particles, and fibers, as well as for electrical and optical devices. Such systems provide analogies to more traditional synthetic polymers yet with expanded utility due to the material’s tunability, mechanical properties, degradability, biocompatibility, and functionalization, such as for drug delivery, biosensors, and tissue regeneration.</Description>
+        <bibliographicCitation>Hu, X., P. Cebe, A. S. Weiss, F. Omenetto and D. L. Kaplan (2012). "Protein-based composite materials." Materials Today 15(5): 208-215. doi: 10.1016/S1369-7021(12)70091-3.</bibliographicCitation>
+        <Date_Created>2012</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Proteins|Biomedical materials|Composite materials</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>srep03428</Accession>
+        <Title>Stability of Silk and Collagen Protein Materials in Space</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Hu, Xiao|Raja, Waseem K.|An, Bo|Tokareva, Olena|Cebe, Peggy</Creator>
+        <Contributors></Contributors>
+        <Description>Collagen and silk materials, in neat forms and as silica composites, were flown for 18 months on the International Space Station [Materials International Space Station Experiment (MISSE)-6] to assess the impact of space radiation on structure and function. As natural biomaterials, the impact of the space environment on films of these proteins was investigated to understand fundamental changes in structure and function related to the future utility in materials and medicine in space environments. About 15% of the film surfaces were etched by heavy ionizing particles such as atomic oxygen, the major component of the low-Earth orbit space environment. Unexpectedly, more than 80% of the silk and collagen materials were chemically crosslinked by space radiation. These findings are critical for designing next-generation biocompatible materials for contact with living systems in space environments, where the effects of heavy ionizing particles and other cosmic radiation need to be considered.</Description>
+        <bibliographicCitation>Hu, X. et al. Stability of Silk and Collagen Protein Materials in Space. Sci. Rep. 3, 3428; DOI:10.1038/srep03428 (2013).</bibliographicCitation>
+        <Date_Created>2013</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Biomedical materials|Proteins|Outer space|Silk</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>J Tissue Eng-2012-Kim-</Accession>
+        <Title>In vitro chondrogenic differentiation of human adipose-derived stem cells with silk scaffolds</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Kim, Hyeon Joo|Park, Sang-Hyug|Durham, Jennah|Gimble, Jeffrey M.| Dragoo, Jason L.</Creator>
+        <Contributors></Contributors>
+        <Description>Human adipose-derived stem cells have shown chondrogenic differentiation potential in cartilage tissue engineering in combination with natural and synthetic biomaterials. In the present study, we hypothesized that porous aqueous-derived silk protein scaffolds would be suitable for chondrogenic differentiation of human adipose-derived stem cells. Human adipose-derived stem cells were cultured up to 6 weeks, and cell proliferation and chondrogenic differentiation were investigated and compared with those in conventional micromass culture. Cell proliferation, glycosaminoglycan, and collagen levels in aqueous-derived silk scaffolds were significantly higher than in micromass culture. Transcript levels of SOX9 and type II collagen were also upregulated in the cell–silk constructs at 6 weeks. Histological examination revealed that the pores of the silk scaffolds were filled with cells uniformly distributed. In addition, chondrocyte-specific lacunae formation was evident and distributed in the both groups. The results suggest the biodegradable and biocompatible three-dimensional aqueous-derived silk scaffolds provided an improved environment for chondrogenic differentiation compared to micromass culture.</Description>
+        <bibliographicCitation>Kim, H. J., S. H. Park, J. Durham, J. M. Gimble, D. L. Kaplan and J. L. Dragoo (2012). "In vitro chondrogenic differentiation of human adipose-derived stem cells with silk scaffolds." Journal of Tissue Engineering 3(1): 1-8. doi: 10.1177/2041731412466405.</bibliographicCitation>
+        <Date_Created>2012</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Stem cells|Tissue engineering</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license: https://perma.cc/ASP6-G8D2</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>art_3A10_1186_2F1471-2407-14-325</Accession>
+        <Title>Quantitative analysis of castration resistant prostate cancer progression through phosphoproteome signaling</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Lescarbeau, Reynald M.</Creator>
+        <Contributors></Contributors>
+        <Description>Although recent progress has been made in treating castration resistant prostate cancer, the interplay of signaling pathways which enable castration resistant growth is incompletely understood. A data driven, multivariate approach, was used in this study to predict prostate cancer cell survival based on the phosphorylation levels of key proteins in PC3, LNCaP, and MDA-PCa-2b cell lines in response to EGF, IGF1, IL6, TNFα, dihydrotestosterone, and docetaxel treatment.</Description>
+        <bibliographicCitation>Lescarbeau, R. M. and D. L. Kaplan (2014). "Quantitative analysis of castration resistant prostate cancer progression through phosphoproteome signaling." BMC Cancer 14(1). doi: 10.1186/1471-2407-14-325.</bibliographicCitation>
+        <Date_Created>2012</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Prostate--Cancer--Treatment</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0040372</Accession>
+        <Title>In Vitro Model of Metastasis to Bone Marrow Mediates Prostate Cancer Castration Resistant Growth through Paracrine and Extracellular Matrix Factors</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Lescarbeau, Reynald M.|Seib, F. Philipp|Prewitz, Marina|Werner, C. (Carsten)</Creator>
+        <Contributors></Contributors>
+        <Description>The spread of prostate cancer cells to the bone marrow microenvironment and castration resistant growth are key steps in disease progression and significant sources of morbidity. However, the biological significance of mesenchymal stem cells (MSCs) and bone marrow derived extracellular matrix (BM-ECM) in this process is not fully understood. We therefore established an in vitro engineered bone marrow tissue model that incorporates hMSCs and BM-ECM to facilitate mechanistic studies of prostate cancer cell survival in androgen-depleted media in response to paracrine factors and BM-ECM. hMSC-derived paracrine factors increased LNCaP cell survival, which was in part attributed to IGFR and IL6 signaling. In addition, BM-ECM increased LNCaP and MDA-PCa-2b cell survival in androgen-depleted conditions, and induced chemoresistance and morphological changes in LNCaPs. To determine the effect of BM-ECM on cell signaling, the phosphorylation status of 46 kinases was examined. Increases in the phosphorylation of MAPK pathway-related proteins as well as sustained Akt phosphorylation were observed in BM-ECM cultures when compared to cultures grown on plasma-treated polystyrene. Blocking MEK1/2 or the PI3K pathway led to a significant reduction in LNCaP survival when cultured on BM-ECM in androgen-depleted conditions. The clinical relevance of these observations was determined by analyzing Erk phosphorylation in human bone metastatic prostate cancer versus non-metastatic prostate cancer, and increased phosphorylation was seen in the metastatic samples. Here we describe an engineered bone marrow model that mimics many features observed in patients and provides a platform for mechanistic in vitro studies.</Description>
+        <bibliographicCitation>Lescarbeau RM, Seib FP, Prewitz M, Werner C, Kaplan DL (2012) In Vitro Model of Metastasis to Bone Marrow Mediates Prostate Cancer Castration Resistant Growth through Paracrine and Extracellular Matrix Factors. PLoS ONE 7(8): e40372. doi:10.1371/journal.pone.0040372.</bibliographicCitation>
+        <Date_Created>2012</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Tissue engineering|Prostate--Cancer</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>srep21044</Accession>
+        <Title>Bioelectric modulation of macrophage polarization</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Li, Chunmei|Levin, Michael</Creator>
+        <Contributors></Contributors>
+        <Description>Macrophages play a critical role in regulating wound healing and tissue regeneration by changing their polarization state in response to local microenvironmental stimuli. The native roles of polarized macrophages encompass biomaterials and tissue remodeling needs, yet harnessing or directing the polarization response has been largely absent as a potential strategy to exploit in regenerative medicine to date. Recent data have revealed that specific alteration of cells’ resting potential (Vmem) is a powerful tool to direct proliferation and differentiation in a number of complex tissues, such as limb regeneration, craniofacial patterning and tumorigenesis. In this study, we explored the bioelectric modulation of macrophage polarization by targeting ATP sensitive potassium channels (KATP). Glibenclamide (KATP blocker) and pinacidil (KATP opener) treatment not only affect macrophage polarization, but also influence the phenotype of prepolarized macrophages. Furthermore, modulation of cell membrane electrical properties can fine-tune macrophage plasticity. Glibenclamide decreased the secretion and gene expression of selected M1 markers, while pinacidil augmented M1 markers. More interestingly, glibencalmide promoted macrophage alternative activation by enhancing certain M2 markers during M2 polarization. These findings suggest that control of bioelectric properties of macrophages could offer a promising approach to regulate macrophage phenotype as a useful tool in regenerative medicine.</Description>
+        <bibliographicCitation>Li, C. et al. Bioelectric modulation of macrophage polarization. Sci. Rep. 6, 21044; doi: 10.1038/srep21044 (2016).</bibliographicCitation>
+        <Date_Created>2016</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Biomedical engineering|Macrophages|Regenerative medicine</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>819373</Accession>
+        <Title>Binding Quantum Dots to Silk Biomaterials for Optical Sensing</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Lu, Disi|Zheng, Zhaozhu|Guo, Shaozhe|Wang, Cheng|Wang, Xiaoqin</Creator>
+        <Contributors></Contributors>
+        <Description>Quantum dots (QDs), have great potential for fabricating optical sensing devices and imaging biomaterial degradation in vivo. In the present study, 2-mercaptoethylamine- (MEA-) and mercaptopropionic acid- (MPA-) capped CdTe-QDs were physically incorporated in silk films that contained a high content (>30%) of crystalline beta-sheet structure. The beta-sheets were induced by the addition of glycerol, water annealing, glycerol/annealing, or treatment with methanol. Incorporation of QDs did not influence the formation of beta-sheets. When the films were extracted with water, most QDs remained associated with the silk, based on the retention of photoluminescence in the silk films and negligible photoluminescence in the extracts. Compared to the solution state, photoluminescence intensity significantly decreased for MEA-QDs but not for MPA-QDs in the silk films, while the emission maximum blue shifted (≈4 nm) slightly for both. Further film digestion using protease XIV, alpha-chymotrypsin, and the combination of the two proteases suggested that QDs may be bound to the silk beta-sheet regions but not the amorphous regions. QDs photoluminescence in silk films was quenched when the concentration of hydrogen peroxide (H2O2) was above 0.2-0.3 mM, indicating the QDs-incorporated silk films can be used to report oxidation potential in solution.</Description>
+        <bibliographicCitation>Disi Lu, Zhaozhu Zheng, Shaozhe Guo, Cheng Wang, David L. Kaplan, and Xiaoqin Wang, “Binding Quantum Dots to Silk Biomaterials for Optical Sensing,” Journal of Sensors, vol. 2015, Article ID 819373, 10 pages, 2015. doi:10.1155/2015/819373</bibliographicCitation>
+        <Date_Created>2015</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Biomedical materials|Quantum dots</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>srep25263</Accession>
+        <Title>Silk Fibroin as Edible Coating for Perishable Food Preservation</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Marelli, Benedetto|Brenckle, Mark A.|Omenetto, Fiorenzo</Creator>
+        <Contributors></Contributors>
+        <Description>The regeneration of structural biopolymers into micelles or nanoparticles suspended in water has enabled the design of new materials with unique and compelling properties that can serve at the interface between the biotic and the abiotic worlds. In this study, we leveraged silk fibroin quintessential properties (i.e. polymorphism, conformability and hydrophobicity) to design a water-based protein suspension that self-assembles on the surface of food upon dip coating. The water-based post-processing control of the protein polymorphism enables the modulation of the diffusion of gases through the silk fibroin thin membranes (e.g. O2 and CO2 diffusion, water vapour permeability), which is a key parameter to manage food freshness. In particular, an increased beta-sheet content corresponds to a reduction in oxygen diffusion through silk fibroin thin films. By using the dip coating of strawberries and bananas as proof of principle, we have shown that the formation of micrometre-thin silk fibroin membranes around the fruits helps the management of postharvest physiology of the fruits. Thus, silk fibroin coatings enhance fruits’ shelf life at room conditions by reducing cell respiration rate and water evaporation. The water-based processing and edible nature of silk fibroin makes this approach a promising alternative for food preservation with a naturally derived material.</Description>
+        <bibliographicCitation>Marelli, B. et al. Silk Fibroin as Edible Coating for Perishable Food Preservation. Sci. Rep. 6, 25263; doi: 10.1038/srep25263 (2016).</bibliographicCitation>
+        <Date_Created>2016</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Food--Preservation</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>zkucur_et_al-2015-Brain_and_Behavior</Accession>
+        <Title>Membrane potential depolarization causes alterations in neuron arrangement and connectivity in cocultures</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Özkucur, Nurdan|Quinn, Kyle P.|Pang, Jin C.|Du, Chuang|Georgakoudi, Irene|Miller, Eric L.|Levin, Michael</Creator>
+        <Contributors></Contributors>
+        <Description>Background: The disruption of neuron arrangement is associated with several pathologies. In contrast to action potentials, the role of resting potential (Vmem) in regulating connectivity remains unknown. Methods:
+Neuron assemblies were quantified when their Vmem was depolarized using ivermectin (Ivm), a drug that opens chloride channels, for 24 h in cocultures with astrocytes. Cell aggregation was analyzed using automated cluster analysis methods. Neural connectivity was quantified based on the identification of isolated somas in phase-contrast images using image processing. Vmem was measured using voltage-sensitive dyes and whole-cell patch clamping. Immunocytochemistry and Western blotting were used to detect changes in the distribution and production of the proteins. Results: Data show that Vmem regulates cortical tissue shape and connectivity. Automated cluster analysis methods revealed that the degree of neural aggregation was significantly increased (0.26 clustering factor vs. 0.21 in controls, P ≤ 0.01). The number of beta-tubulin III positive neural projections was also significantly increased in the neural aggregates in cocultures with Ivm. Hyperpolarized neuron cells formed fewer connections (33% at 24 h, P ≤ 0.05) compared to control cells in 1-day cultures. Glia cell densities increased (33.3%, P ≤ 0.05) under depolarizing conditions. Conclusion: Vmem can be a useful tool to probe neuronal cells, disease tissues models, and cortical tissue arrangements.</Description>
+        <bibliographicCitation>Özkucur, N., K. P. Quinn, J. C. Pang, C. Du, I. Georgakoudi, E. Miller, M. Levin and D. L. Kaplan (2015). "Membrane potential depolarization causes alterations in neuron arrangement and connectivity in cocultures." Brain and Behavior 5(1): 24-38. doi: 10.1002/brb3.295.</bibliographicCitation>
+        <Date_Created>2015</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Neurons</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0046689</Accession>
+        <Title>Chip-Based Comparison of the Osteogenesis of Human Bone Marrow- and Adipose Tissue-Derived Mesenchymal Stem Cells under Mechanical Stimulation</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Park, Sang-Hyug|Sim, Woo Young|Min, Byoung-Hyun|Yang, Sang Sik|Khademhosseini, Ali</Creator>
+        <Contributors></Contributors>
+        <Description>Adipose tissue-derived stem cells (ASCs) are considered as an attractive stem cell source for tissue engineering and regenerative medicine. We compared human bone marrow-derived mesenchymal stem cells (hMSCs) and hASCs under dynamic hydraulic compression to evaluate and compare osteogenic abilities. A novel micro cell chip integrated with microvalves and microscale cell culture chambers separated from an air-pressure chamber was developed using microfabrication technology. The microscale chip enables the culture of two types of stem cells concurrently, where each is loaded into cell culture chambers and dynamic compressive stimulation is applied to the cells uniformly. Dynamic hydraulic compression (1 Hz, 1 psi) increased the production of osteogenic matrix components (bone sialoprotein, oateopontin, type I collagen) and integrin (CD11b and CD31) expression from both stem cell sources. Alkaline phosphatase and Alrizarin red staining were evident in the stimulated hMSCs, while the stimulated hASCs did not show significant increases in staining under the same stimulation conditions. Upon application of mechanical stimulus to the two types of stem cells, integrin (β1) and osteogenic gene markers were upregulated from both cell types. In conclusion, stimulated hMSCs and hASCs showed increased osteogenic gene expression compared to non-stimulated groups. The hMSCs were more sensitive to mechanical stimulation and more effective towards osteogenic differentiation than the hASCs under these modes of mechanical stimulation.</Description>
+        <bibliographicCitation>Park S-H, Sim WY, Min B-H, Yang SS, Khademhosseini A, et al. (2012) Chip-Based Comparison of the Osteogenesis of Human Bone Marrow- and Adipose Tissue-Derived Mesenchymal Stem Cells under Mechanical Stimulation. PLoS ONE 7(9): e46689. doi:10.1371/journal.pone.0046689.</bibliographicCitation>
+        <Date_Created>2012</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Stem cells|Cell differentiation|Osteogenesis</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>srep03432</Accession>
+        <Title>Quantitative metabolic imaging using endogenous fluorescence to detect stem cell differentiation</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Quinn, Kyle P.|Sridharan, Gautham V.|Hayden, Rebecca S.|Lee, Kyongbum|Georgakoudi, Irene</Creator>
+        <Contributors></Contributors>
+        <Description>The non-invasive high-resolution spatial mapping of cell metabolism within tissues could provide substantial advancements in assessing the efficacy of stem cell therapy and understanding tissue development. Here, using two-photon excited fluorescence microscopy, we elucidate the relationships among endogenous cell fluorescence, cell redox state, and the differentiation of human mesenchymal stem cells into adipogenic and osteoblastic lineages. Using liquid chromatography/mass spectrometry and quantitative PCR, we evaluate the sensitivity of an optical redox ratio of FAD/(NADH + FAD) to metabolic changes associated with stem cell differentiation. Furthermore, we probe the underlying physiological mechanisms, which relate a decrease in the redox ratio to the onset of differentiation. Because traditional assessments of stem cells and engineered tissues are destructive, time consuming, and logistically intensive, the development and validation of a non-invasive, label-free approach to defining the spatiotemporal patterns of cell differentiation can offer a powerful tool for rapid, high-content characterization of cell and tissue cultures.</Description>
+        <bibliographicCitation>Quinn, K. P., G. V. Sridharan, R. S. Hayden, D. L. Kaplan, K. Lee and I. Georgakoudi (2013). "Quantitative metabolic imaging using endogenous fluorescence to detect stem cell differentiation." Scientific Reports 3. doi: 10.1038/srep03432.</bibliographicCitation>
+        <Date_Created>2013</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Biomedical engineering|Stem cells|Cell differentiation|Biotechnology</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0010075</Accession>
+        <Title>Two-Photon Microscopy for Non-Invasive, Quantitative Monitoring of Stem Cell Differentiation</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Rice, William L.|Georgakoudi, Irene</Creator>
+        <Contributors></Contributors>
+        <Description>Background: The engineering of functional tissues is a complex multi-stage process, the success of which depends on the careful control of culture conditions and ultimately tissue maturation. To enable the efficient optimization of tissue development protocols, techniques suitable for monitoring the effects of added stimuli and induced tissue changes are needed. Methodology/Principal Findings: Here, we present the quantitative use of two-photon excited fluorescence (TPEF) and second harmonic generation (SHG) as a noninvasive means to monitor the differentiation of human mesenchymal stem cells (hMSCs) using entirely endogenous sources of contrast. We demonstrate that the individual fluorescence contribution from the intrinsic cellular fluorophores NAD(P)H, flavoproteins and lipofuscin can be extracted from TPEF images and monitored dynamically from the same cell population over time. Using the redox ratio, calculated from the contributions of NAD(P)H and flavoproteins, we identify distinct patterns in the evolution of the metabolic activity of hMSCs maintained in either propagation, osteogenic or adipogenic differentiation media. The differentiation of these cells is mirrored by changes in cell morphology apparent in high resolution TPEF images and by the detection of collagen production via SHG imaging. Finally, we find dramatic increases in lipofuscin levels in hMSCs maintained at 20% oxygen vs. those in 5% oxygen, establishing the use of this chromophore as a potential biomarker for oxidative stress. Conclusions/Significance: In this study we demonstrate that it is possible to monitor the metabolic activity, morphology, ECM production and oxidative stress of hMSCs in a non-invasive manner. This is accomplished using generally available multiphoton microscopy equipment and simple data analysis techniques, such that the method can widely adopted by laboratories with a diversity of comparable equipment. This method therefore represents a powerful tool, which enables researchers to monitor engineered tissues and optimize culture conditions in a near real time manner.</Description>
+        <bibliographicCitation>Rice WL, Kaplan DL, Georgakoudi I (2010) Two-Photon Microscopy for Non-Invasive, Quantitative Monitoring of Stem Cell Differentiation. PLoS ONE 5(4): e10075. doi:10.1371/journal.pone.0010075.</bibliographicCitation>
+        <Date_Created>2010</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Tissue engineering|Stem cells|Cell differentiation|Fluorescence</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>srep18279</Accession>
+        <Title>Comparison of the depolarization response of human mesenchymal stem cells from different donors</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Sundelacruz, Sarah|Levin, Michael</Creator>
+        <Contributors></Contributors>
+        <Description>Bioelectric signaling is currently being explored as a novel regulator of cell processes in non-excitable cells. In particular, stem cells have demonstrated increasing evidence of electrophysiology-mediated regulation of stemness acquisition, proliferation, differentiation, and migration. However, in light of many reports of primary stem cell heterogeneity, it is important to characterize the variability of stem cell response to biophysical manipulations in order to assess the utility of bioelectric modulation as a universal strategy for stem cell control. In this work, human mesenchymal stem cells (hMSCs) from five donors were evaluated for their response to membrane potential (Vmem) depolarization. We compared the inter-donor variability of their osteogenic and adipogenic differentiation potential, as well as their ability to maintain a differentiated phenotype after induction. We identified the markers that responded most consistently across donors and found that calcium deposition and gene expression of bone sialoprotein, lipoprotein lipase, and fatty acid binding protein 4 are the preferred markers for assessing differentiation response to Vmem depolarization. We also note that since there exists variability even among some of these markers, these assays should be performed on any newly acquired hMSC population if their bioelectric properties are to be studied further.</Description>
+        <bibliographicCitation>Sundelacruz, S. et al. Comparison of the depolarization response of human mesenchymal stem cells from different donors. Sci. Rep. 5, 18279; doi: 10.1038/srep18279 (2015).</bibliographicCitation>
+        <Date_Created>2015</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Biophysics|Stem cells</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0016489</Accession>
+        <Title>Single Honeybee Silk Protein Mimics Properties of Multi-Protein Silk</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Sutherland, Tara D.|Church, Jeffrey S.|Hu, Xiao|Huson, Mickey G.|Weisman, Sarah</Creator>
+        <Contributors></Contributors>
+        <Description>Honeybee silk is composed of four fibrous proteins that, unlike other silks, are readily synthesized at full-length and high yield. The four silk genes have been conserved for over 150 million years in all investigated bee, ant and hornet species, implying a distinct functional role for each protein. However, the amino acid composition and molecular architecture of the proteins are similar, suggesting functional redundancy. In this study we compare materials generated from a single honeybee silk protein to materials containing all four recombinant proteins or to natural honeybee silk. We analyse solution conformation by dynamic light scattering and circular dichroism, solid state structure by Fourier Transform Infrared spectroscopy and Raman spectroscopy, and fiber tensile properties by stress-strain analysis. The results demonstrate that fibers artificially generated from a single recombinant silk protein can reproduce the structural and mechanical properties of the natural silk. The importance of the four protein complex found in natural silk may lie in biological silk storage or hierarchical self-assembly. The finding that the functional properties of the mature material can be achieved with a single protein greatly simplifies the route to production for artificial honeybee silk.</Description>
+        <bibliographicCitation>Sutherland TD, Church JS, Hu X, Huson MG, Kaplan DL, Weisman S (2011) Single Honeybee Silk Protein Mimics Properties of Multi-Protein Silk. PLoS ONE 6(2): e16489. doi:10.1371/journal.pone.0016489.</bibliographicCitation>
+        <Date_Created>2011</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Silk|Honeybee|Proteins</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>Tokareva_et_al-2013-Microbial_Biotechnology</Accession>
+        <Title>Recombinant DNA production of spider silk proteins</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Tokareva, Olena|Michalczechen-Lacerda, Valquíria A.|Rech, Elíbio L.</Creator>
+        <Contributors></Contributors>
+        <Description>Spider dragline silk is considered to be the toughest biopolymer on Earth due to an extraordinary combination of strength and elasticity. Moreover, silks are biocompatible and biodegradable protein-based materials. Recent advances in genetic engineering make it possible to produce recombinant silks in heterologous hosts, opening up opportunities for large-scale production of recombinant silks for various biomedical and material science applications. We review the current strategies to produce recombinant spider silks.</Description>
+        <bibliographicCitation>Tokareva, O., V. A. Michalczechen-Lacerda, E. L. Rech and D. L. Kaplan (2013). "Recombinant DNA production of spider silk proteins." Microbial Biotechnology 6(6): 651-663. doi: 10.1111/1751-7915.12081.</bibliographicCitation>
+        <Date_Created>2013</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Silk|Biomedical engineering|Biotechnology</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0055696</Accession>
+        <Title>Noninvasive Metabolic Imaging of Engineered 3D Human Adipose Tissue in a Perfusion Bioreactor</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Ward, Andrew|Quinn, Kyle P.|Bellas, Evangelia|Georgakoudi, Irene</Creator>
+        <Contributors></Contributors>
+        <Description>The efficacy and economy of most in vitro human models used in research is limited by the lack of a physiologically-relevant three-dimensional perfused environment and the inability to noninvasively quantify the structural and biochemical characteristics of the tissue. The goal of this project was to develop a perfusion bioreactor system compatible with two-photon imaging to noninvasively assess tissue engineered human adipose tissue structure and function in vitro. Three-dimensional (3D) vascularized human adipose tissues were engineered in vitro, before being introduced to a perfusion environment and tracked over time by automated quantification of endogenous markers of metabolism using two-photon excited fluorescence (TPEF). Depth-resolved image stacks were analyzed for redox ratio metabolic profiling and compared to prior analyses performed on 3D engineered adipose tissue in static culture. Traditional assessments with H&amp;E staining were used to qualitatively measure extracellular matrix generation and cell density with respect to location within the tissue. The distribution of cells within the tissue and average cellular redox ratios were different between static and perfusion cultures, while the trends of decreased redox ratio and increased cellular proliferation with time in both static and perfusion cultures were similar. These results establish a basis for noninvasive optical tracking of tissue structure and function in vitro, which can be applied to future studies to assess tissue development or drug toxicity screening and disease progression.</Description>
+        <bibliographicCitation>Ward A, Quinn KP, Bellas E, Georgakoudi I, Kaplan DL (2013) Noninvasive Metabolic Imaging of Engineered 3D Human Adipose Tissue in a Perfusion Bioreactor. PLoS ONE 8(2): e55696. doi:10.1371/journal.pone.0055696.</bibliographicCitation>
+        <Date_Created>2013</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Tissue engineering|Fluorescence|Adipose tissues</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>JCI65636</Accession>
+        <Title>Epigenetic changes induced by adenosine augmentation therapy prevent epileptogenesis</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Williams-Karnesky, Rebecca L.|Sandau, Ursula S.|Lusardi, Theresa A.|Lytle, Nikki K.|Farrell, Joseph M.|Pritchard, Eleanor M.|Boison, Detlev</Creator>
+        <Contributors></Contributors>
+        <Description>Epigenetic modifications, including changes in DNA methylation, lead to altered gene expression and thus may underlie epileptogenesis via induction of permanent changes in neuronal excitability. Therapies that could inhibit or reverse these changes may be highly effective in halting disease progression. Here we identify an epigenetic function of the brain’s endogenous anticonvulsant adenosine, showing that this compound induces hypomethylation of DNA via biochemical interference with the transmethylation pathway. We show that inhibition of DNA methylation inhibited epileptogenesis in multiple seizure models. Using a rat model of temporal lobe epilepsy, we identified an increase in hippocampal DNA methylation, which correlates with increased DNA methyltransferase activity, disruption of adenosine homeostasis, and spontaneous recurrent seizures. Finally, we used bioengineered silk implants to deliver a defined dose of adenosine over 10 days to the brains of epileptic rats. This transient therapeutic intervention reversed the DNA hypermethylation seen in the epileptic brain, inhibited sprouting of mossy fibers in the hippocampus, and prevented the progression of epilepsy for at least 3 months. These data demonstrate that pathological changes in DNA methylation homeostasis may underlie epileptogenesis and reversal of these epigenetic changes with adenosine augmentation therapy may halt disease progression.</Description>
+        <bibliographicCitation>Williams-Karnesky, R. L., U. S. Sandau, T. A. Lusardi, N. K. Lytle, J. M. Farrell, E. M. Pritchard, D. L. Kaplan and D. Boison (2013). "Epigenetic changes induced by adenosine augmentation therapy prevent epileptogenesis." Journal of Clinical Investigation 123(8): 3552-3563. doi: 10.1172/JCI65636.</bibliographicCitation>
+        <Date_Created>2013</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Neurosciences|Epilepsy--Treatment|DNA--Methylation</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Open access article, users are allowed to "read, download, copy, distribute, print, search, or link to the full texts of the articles under the "fair use" limitations of US copyright law" https://perma.cc/PK2U-L7UT</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0018099</Accession>
+        <Title>N-acetylglucosamine 6-Phosphate Deacetylase (nagA) Is Required for N-acetyl Glucosamine Assimilation in Gluconacetobacter xylinus</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Yadav, Vikas|Panilaitis, Bruce|Shi, Hai|Numuta, Keiji|Lee, Kyongbum</Creator>
+        <Contributors></Contributors>
+        <Description>Metabolic pathways for amino sugars (N-acetylglucosamine; GlcNAc and glucosamine; Gln) are essential and remain largely conserved in all three kingdoms of life, i.e., microbes, plants and animals. Upon uptake, in the cytoplasm these amino sugars undergo phosphorylation by phosphokinases and subsequently deacetylation by the enzyme N-acetylglucosamine 6-phosphate deacetylase (nagA) to yield glucosamine-6-phosphate and acetate, the first committed step for both GlcNAc assimilation and amino-sugar-nucleotides biosynthesis. Here we report the cloning of a DNA fragment encoding a partial nagA gene and its implications with regard to amino sugar metabolism in the cellulose producing bacterium Glucoacetobacter xylinus (formally known as Acetobacter xylinum). For this purpose, nagA was disrupted by inserting tetracycline resistant gene (nagA::tetr; named as ΔnagA) via homologous recombination. When compared to glucose fed conditions, the UDP-GlcNAc synthesis and bacterial growth (due to lack of GlcNAc utilization) was completely inhibited in nagA mutants. Interestingly, that inhibition occured without compromising cellulose production efficiency and its molecular composition under GlcNAc fed conditions. We conclude that nagA plays an essential role for GlcNAc assimilation by G. xylinus thus is required for the growth and survival for the bacterium in presence of GlcNAc as carbon source. Additionally, G. xylinus appears to possess the same molecular machinery for UDP-GlcNAc biosynthesis from GlcNAc precursors as other related bacterial species.</Description>
+        <bibliographicCitation>Yadav V, Panilaitis B, Shi H, Numuta K, Lee K, Kaplan DL (2011) N-acetylglucosamine 6-Phosphate Deacetylase (nagA) Is Required for N-acetyl Glucosamine Assimilation in Gluconacetobacter xylinus. PLoS ONE 6(6): e18099. doi:10.1371/journal.pone.0018099.</bibliographicCitation>
+        <Date_Created>2011</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Amino sugars</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0064151</Accession>
+        <Title>Functional Characterization of Detergent-Decellularized Equine Tendon Extracellular Matrix for Tissue Engineering Applications</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Youngstrom, Daniel W.|Barrett, Jennifer G.|Jose, Rod R.
+</Creator>
+        <Contributors></Contributors>
+        <Description>Natural extracellular matrix provides a number of distinct advantages for engineering replacement orthopedic tissue due to its intrinsic functional properties. The goal of this study was to optimize a biologically derived scaffold for tendon tissue engineering using equine flexor digitorum superficialis tendons. We investigated changes in scaffold composition and ultrastructure in response to several mechanical, detergent and enzymatic decellularization protocols using microscopic techniques and a panel of biochemical assays to evaluate total protein, collagen, glycosaminoglycan, and deoxyribonucleic acid content. Biocompatibility was also assessed with static mesenchymal stem cell (MSC) culture. Implementation of a combination of freeze/thaw cycles, incubation in 2% sodium dodecyl sulfate (SDS), trypsinization, treatment with DNase-I, and ethanol sterilization produced a non-cytotoxic biomaterial free of appreciable residual cellular debris with no significant modification of biomechanical properties. These decellularized tendon scaffolds (DTS) are suitable for complex tissue engineering applications, as they provide a clean slate for cell culture while maintaining native three-dimensional architecture.</Description>
+        <bibliographicCitation>Youngstrom DW, Barrett JG, Jose RR, Kaplan DL (2013) Functional Characterization of Detergent-Decellularized Equine Tendon Extracellular Matrix for Tissue Engineering Applications. PLoS ONE 8(5): e64151. doi:10.1371/journal.pone.0064151.</bibliographicCitation>
+        <Date_Created>2013</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Tissue engineering|Tendons|Horses</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>journal_pone_0102371</Accession>
+        <Title>Porous Silk Scaffolds for Delivery of Growth Factors and Stem Cells to Enhance Bone Regeneration</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Zhang, Wenjie| Zhu, Chao|Ye, Dongxia|Xu, Ling|Zhang, Xiaochen|Wu, Qianju|Zhang, Xiuli|Jiang, Xinquan</Creator>
+        <Contributors></Contributors>
+        <Description>Stem cell-based tissue engineering shows promise for bone regeneration and requires artificial microenvironments to enhance the survival, proliferation and differentiation of the seeded cells. Silk fibroin, as a natural protein polymer, has unique properties for tissue regeneration. The present study aimed to evaluate the influence of porous silk scaffolds on rat bone marrow stem cells (BMSCs) by lenti-GFP tracking both in vitro and in vivo in cranial bone defects. The number of cells seeded within silk scaffolds in rat cranial bone defects increased from 2 days to 2 weeks after implantation, followed by a decrease at eight weeks. Importantly, the implanted cells survived for 8 weeks in vivo and some of the cells might differentiate into endothelial cells and osteoblasts induced by the presence of VEGF and BMP-2 in the scaffolds to promote angiogenesis and osteogenesis. The results demonstrate that porous silk scaffolds provide a suitable niche to maintain long survival and function of the implanted cells for bone regeneration.</Description>
+        <bibliographicCitation>Zhang W, Zhu C, Ye D, Xu L, Zhang X, Wu Q, et al. (2014) Porous Silk Scaffolds for Delivery of Growth Factors and Stem Cells to Enhance Bone Regeneration. PLoS ONE 9(7): e102371. doi:10.1371/journal.pone.0102371.</bibliographicCitation>
+        <Date_Created>2014</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Tissue engineering|Stem cells|Silk|Bone regeneration</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+    <row>
+        <Accession>materials-09-00221-v2</Accession>
+        <Title>Aqueous-Based Coaxial Electrospinning of Genetically Engineered Silk Elastin Core-Shell Nanofibers</Title>
+        <Alternative_Title></Alternative_Title>
+        <Creator>Kaplan, David, 1953-|Zhu, Jingxin|Huang, Wenwen|Zhang, Qiang|Ling, Shengjie|Chen, Ying</Creator>
+        <Contributors></Contributors>
+        <Description>A nanofabrication method for the production of flexible core-shell structured silk elastin nanofibers is presented, based on an all-aqueous coaxial electrospinning process. In this process, silk fibroin (SF) and silk-elastin-like protein polymer (SELP), both in aqueous solution, with high and low viscosity, respectively, were used as the inner (core) and outer (shell) layers of the nanofibers. The electrospinnable SF core solution served as a spinning aid for the nonelectrospinnable SELP shell solution. Uniform nanofibers with average diameter from 301 ± 108 nm to 408 ± 150 nm were obtained through adjusting the processing parameters. The core-shell structures of the nanofibers were confirmed by fluorescence and electron microscopy. In order to modulate the mechanical properties and provide stability in water, the as-spun SF-SELP nanofiber mats were treated with methanol vapor to induce β-sheet physical crosslinks. FTIR confirmed the conversion of the secondary structure from a random coil to β-sheets after the methanol treatment. Tensile tests of SF-SELP core-shell structured nanofibers showed good flexibility with elongation at break of 5.20% ± 0.57%, compared with SF nanofibers with an elongation at break of 1.38% ± 0.22%. The SF-SELP core-shell structured nanofibers should provide useful options to explore in the field of biomaterials due to the improved flexibility of the fibrous mats and the presence of a dynamic SELP layer on the outer surface.</Description>
+        <bibliographicCitation>Zhu, J., W. Huang, Q. Zhang, S. Ling, Y. Chen and D. L. Kaplan (2016). "Aqueous-based coaxial electrospinning of genetically engineered silk elastin core-shell nanofibers." Materials 9(4). doi: 10.3390/ma9040221.</bibliographicCitation>
+        <Date_Created>2016</Date_Created>
+        <Type>Text</Type>
+        <Format>application/pdf</Format>
+        <Subject>Silk|Electrospinning|Biomedical materials</Subject>
+        <personalNames></personalNames>
+        <corporateNames>Tufts University. Department of Biomedical Engineering</corporateNames>
+        <geographicTerms></geographicTerms>
+        <Genre></Genre>
+        <Century></Century>
+        <Spatial></Spatial>
+        <Rights>Signed TDL deposit license from Kaplan 7/20/16. Article distributed under a Creative Commons license.</Rights>
+        <Heading18></Heading18>
+        <Heading19></Heading19>
+        <Heading20></Heading20>
+        <Heading21></Heading21>
+        <Heading22></Heading22>
+        <Heading23></Heading23>
+        <Heading24></Heading24>
+        <Heading25></Heading25>
+        <Heading26></Heading26>
+        <Heading27></Heading27>
+        <Heading28></Heading28>
+        <Heading29></Heading29>
+        <Heading30></Heading30>
+        <Heading31></Heading31>
+        <Heading32></Heading32>
+        <Heading33></Heading33>
+        <Heading34></Heading34>
+    </row>
+</root>

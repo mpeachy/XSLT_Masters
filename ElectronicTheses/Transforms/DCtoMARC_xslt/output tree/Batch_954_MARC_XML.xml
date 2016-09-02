@@ -1,0 +1,711 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns="http://www.loc.gov/MARC21/slim"
+                 xmlns:rel="info:fedora/fedora-system:def/relations-external#"
+                 xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+                 xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/"
+                 xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <marc:record>
+      <marc:leader>00000nam  2200361Ii 4500</marc:leader>
+      <marc:controlfield tag="006">m|||||o||d |||||||</marc:controlfield>
+      <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+      <marc:controlfield tag="008">130321s2014\\\\xxu\\\\\om\\\\\\\\\\eng\d</marc:controlfield>
+      <marc:datafield tag="040" ind1="" ind2="">
+         <marc:subfield code="a">TFW</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="e">rda</marc:subfield>
+         <marc:subfield code="c">TFW</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1="" ind2="">
+         <marc:subfield code="a">dc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2="">
+         <marc:subfield code="a">Lloyd-Thomas, Sophia C.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Mid-East to West Coast: Implementing Israeli Water Conservation Strategies in California /</marc:subfield>
+         <marc:subfield code="c">Sophia C Lloyd-Thomas.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1="" ind2="1">
+         <marc:subfield code="c">.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1="" ind2="">
+         <marc:subfield code="a">1 online resource.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1="" ind2="">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1="" ind2="">
+         <marc:subfield code="a">computer</marc:subfield>
+         <marc:subfield code="b">c</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1="" ind2="">
+         <marc:subfield code="a">online resource</marc:subfield>
+         <marc:subfield code="b">cr</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1="" ind2="">
+         <marc:subfield code="a"/>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1="" ind2="">
+         <marc:subfield code="a">In its fifth year of severe drought, California needs a change. How can Israeli methods like desalination, water reclamation and recycling, and precision drip irrigation help California quench its thirst? These techniques have allowed Israel to alleviate its notorious water problem and even become an exporter of water in the perpetually drought-stricken Middle East. Serious implementation of these techniques and a change in mindset is necessary for California to be water-secure.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2="0">
+         <marc:subfield code="a">Tufts University. Department of English.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Water conservation</marc:subfield><marc:subfield code="x">California.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Water conservation</marc:subfield><marc:subfield code="x">Israel.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Electronic dissertations.</marc:subfield>
+         <marc:subfield code="2">lcgft</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Tufts dissertations and theses.</marc:subfield>
+         <marc:subfield code="2">local</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="590" ind1="" ind2="">
+         <marc:subfield code="a">Tisch Library Undergraduate Research Award.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="0">
+         <marc:subfield code="z">Full Text -- Tufts Digital Library</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10427/008853</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="910" ind1="" ind2="">
+         <marc:subfield code="a">Title also cataloged in DL.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>00000nam  2200361Ii 4500</marc:leader>
+      <marc:controlfield tag="006">m|||||o||d |||||||</marc:controlfield>
+      <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+      <marc:controlfield tag="008">130321s2014\\\\xxu\\\\\om\\\\\\\\\\eng\d</marc:controlfield>
+      <marc:datafield tag="040" ind1="" ind2="">
+         <marc:subfield code="a">TFW</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="e">rda</marc:subfield>
+         <marc:subfield code="c">TFW</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1="" ind2="">
+         <marc:subfield code="a">dc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2="">
+         <marc:subfield code="a">Magnani, Alexandra G.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">To the Death: Warrior Culture and Defining Mycenaean Identity from the Late Bronze Age through the Bronze Age Collapse /</marc:subfield>
+         <marc:subfield code="c">Alexandra G Magnani.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1="" ind2="1">
+         <marc:subfield code="c">.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1="" ind2="">
+         <marc:subfield code="a">1 online resource.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1="" ind2="">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1="" ind2="">
+         <marc:subfield code="a">computer</marc:subfield>
+         <marc:subfield code="b">c</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1="" ind2="">
+         <marc:subfield code="a">online resource</marc:subfield>
+         <marc:subfield code="b">cr</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1="" ind2="">
+         <marc:subfield code="a"/>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1="" ind2="">
+         <marc:subfield code="a">An analysis of Mycenaean warrior culture using the three primary archaeological forms of evidence, the iconography of lions, the technology of chariotry, and the customs of burial.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2="0">
+         <marc:subfield code="a">Tufts University. Department of Classics.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Civilization, Mycenaean.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Bronze age</marc:subfield><marc:subfield code="x">Greece.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Electronic dissertations.</marc:subfield>
+         <marc:subfield code="2">lcgft</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Tufts dissertations and theses.</marc:subfield>
+         <marc:subfield code="2">local</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="590" ind1="" ind2="">
+         <marc:subfield code="a">Senior honors thesis.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="0">
+         <marc:subfield code="z">Full Text -- Tufts Digital Library</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10427/008852</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="910" ind1="" ind2="">
+         <marc:subfield code="a">Title also cataloged in DL.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>00000nam  2200361Ii 4500</marc:leader>
+      <marc:controlfield tag="006">m|||||o||d |||||||</marc:controlfield>
+      <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+      <marc:controlfield tag="008">130321s2014\\\\xxu\\\\\om\\\\\\\\\\eng\d</marc:controlfield>
+      <marc:datafield tag="040" ind1="" ind2="">
+         <marc:subfield code="a">TFW</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="e">rda</marc:subfield>
+         <marc:subfield code="c">TFW</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1="" ind2="">
+         <marc:subfield code="a">dc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2="">
+         <marc:subfield code="a">Vandewalle, Sarah C.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">"Banned In Boston": Censorship and Self-Censorship in Boston's Federal Theatre Project /</marc:subfield>
+         <marc:subfield code="c">Sarah C Vandewalle.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1="" ind2="1">
+         <marc:subfield code="c">2015.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1="" ind2="">
+         <marc:subfield code="a">1 online resource.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1="" ind2="">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1="" ind2="">
+         <marc:subfield code="a">computer</marc:subfield>
+         <marc:subfield code="b">c</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1="" ind2="">
+         <marc:subfield code="a">online resource</marc:subfield>
+         <marc:subfield code="b">cr</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1="" ind2="">
+         <marc:subfield code="a"/>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1="" ind2="">
+         <marc:subfield code="a">As part of the Works Progress Administration, the Federal Theatre Project created jobs for thousands of theatre artists and entertainment for millions of suffering Americans, through the ingenuity of the federal government and the Roosevelt administration. Boston was conceived as one of five major centers of this project. However, the city's FTP chapter suffered from the longstanding tradition of censorship put in place decades beforehand by conservative upper-class Bostonians and authorities. An early encounter with this censorship apparatus during their first major production, Valley Forge, created a poor reputation for the Boston chapter. Though the national FTP strived to produce plays with social and political importance to the communities they performed in, Boston's company continually failed to do this because of the established system of censorship. This system both restrained the company externally, through outwardly visible legal and social means, and internally, by forcing the company to self-censor themselves.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2="0">
+         <marc:subfield code="a">Tufts University. Department of Drama and Dance.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2="0">
+         <marc:subfield code="a">Federal Theatre Project (U.S.)</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Censorship</marc:subfield><marc:subfield code="x">Massachusetts</marc:subfield><marc:subfield code="x">Boston</marc:subfield><marc:subfield code="x">History.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Electronic dissertations.</marc:subfield>
+         <marc:subfield code="2">lcgft</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Tufts dissertations and theses.</marc:subfield>
+         <marc:subfield code="2">local</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="590" ind1="" ind2="">
+         <marc:subfield code="a">Tisch Library Undergraduate Research Award.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="0">
+         <marc:subfield code="z">Full Text -- Tufts Digital Library</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10427/008842</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="910" ind1="" ind2="">
+         <marc:subfield code="a">Title also cataloged in DL.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>00000nam  2200361Ii 4500</marc:leader>
+      <marc:controlfield tag="006">m|||||o||d |||||||</marc:controlfield>
+      <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+      <marc:controlfield tag="008">130321s2014\\\\xxu\\\\\om\\\\\\\\\\eng\d</marc:controlfield>
+      <marc:datafield tag="040" ind1="" ind2="">
+         <marc:subfield code="a">TFW</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="e">rda</marc:subfield>
+         <marc:subfield code="c">TFW</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1="" ind2="">
+         <marc:subfield code="a">dc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2="">
+         <marc:subfield code="a">Blackstone, Maya D.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Research Into Matsukaze and Ancient Japan /</marc:subfield>
+         <marc:subfield code="c">Maya D Blackstone.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1="" ind2="1">
+         <marc:subfield code="c">2015.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1="" ind2="">
+         <marc:subfield code="a">1 online resource.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1="" ind2="">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1="" ind2="">
+         <marc:subfield code="a">computer</marc:subfield>
+         <marc:subfield code="b">c</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1="" ind2="">
+         <marc:subfield code="a">online resource</marc:subfield>
+         <marc:subfield code="b">cr</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1="" ind2="">
+         <marc:subfield code="a"/>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1="" ind2="">
+         <marc:subfield code="a">A series of papers I completed for my ancient medieval theatre history course about a play called Matsukaze from the 3rd century. The play written by Kanami and Zeami respectively is part of a larger repertoire of Noh theatre. My series of papers focuses on religious history in Japan, performance history and research into the original production and various revivals of the play.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="600" ind1="1" ind2="0">
+         <marc:subfield code="a">Kanʼami, 1333?-1384? Matsukaze.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2="0">
+         <marc:subfield code="a">Tufts University. Department of Drama and Dance.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Nō plays</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Zen Buddhism</marc:subfield><marc:subfield code="x">Japan</marc:subfield><marc:subfield code="x">History.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1="" ind2="0">
+         <marc:subfield code="a">Japan</marc:subfield><marc:subfield code="x">History</marc:subfield><marc:subfield code="x">1333-1600.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Electronic dissertations.</marc:subfield>
+         <marc:subfield code="2">lcgft</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Tufts dissertations and theses.</marc:subfield>
+         <marc:subfield code="2">local</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="590" ind1="" ind2="">
+         <marc:subfield code="a">Tisch Library Undergraduate Research Award.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="0">
+         <marc:subfield code="z">Full Text -- Tufts Digital Library</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10427/008841</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="910" ind1="" ind2="">
+         <marc:subfield code="a">Title also cataloged in DL.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>00000nam  2200361Ii 4500</marc:leader>
+      <marc:controlfield tag="006">m|||||o||d |||||||</marc:controlfield>
+      <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+      <marc:controlfield tag="008">130321s2014\\\\xxu\\\\\om\\\\\\\\\\eng\d</marc:controlfield>
+      <marc:datafield tag="040" ind1="" ind2="">
+         <marc:subfield code="a">TFW</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="e">rda</marc:subfield>
+         <marc:subfield code="c">TFW</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1="" ind2="">
+         <marc:subfield code="a">dc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2="">
+         <marc:subfield code="a">Newman, Chelsea D.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Controlling the Present, Reframing the Future: Chronic Illness, Adolescent Art, and an Integrated Approach to Therapy /</marc:subfield>
+         <marc:subfield code="c">Chelsea D Newman.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1="" ind2="1">
+         <marc:subfield code="c">2015.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1="" ind2="">
+         <marc:subfield code="a">1 online resource.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1="" ind2="">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1="" ind2="">
+         <marc:subfield code="a">computer</marc:subfield>
+         <marc:subfield code="b">c</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1="" ind2="">
+         <marc:subfield code="a">online resource</marc:subfield>
+         <marc:subfield code="b">cr</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1="" ind2="">
+         <marc:subfield code="a"/>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1="" ind2="">
+         <marc:subfield code="a">There is a considerable body of literature detailing the practice of medical art therapy with adults and children. Less is written, however, about the unique potential benefits of art therapy and art making with adolescents. I address this lack of research about art-making with adolescents— specifically adolescents with chronic illness— by offering an analysis of the existing literature on art therapy frameworks, coping theories, and the concept of adolescent identity. Because almost no research has been done on adolescents who engage in therapeutic art outside of an art therapy context, this paper presents original qualitative data on the way chronically ill adolescents use their own art making to cope with illness. I ultimately argue for a radical reframing of coping mechanisms and the use of art as an effective primary treatment to be recommended by healthcare providers. I also suggest a model of art therapy that integrates aesthetic appreciation, art making, and a regard for adolescent autonomy to create a developmentally appropriate intervention.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2="0">
+         <marc:subfield code="a">Tufts University. Eliot-Pearson Department of Child Development.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Art therapy for youth.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Chronic diseases in adolescence</marc:subfield><marc:subfield code="x">Psychological aspects.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Electronic dissertations.</marc:subfield>
+         <marc:subfield code="2">lcgft</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Tufts dissertations and theses.</marc:subfield>
+         <marc:subfield code="2">local</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="590" ind1="" ind2="">
+         <marc:subfield code="a">Tisch Library Undergraduate Research Award.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="0">
+         <marc:subfield code="z">Full Text -- Tufts Digital Library</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10427/008823</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="910" ind1="" ind2="">
+         <marc:subfield code="a">Title also cataloged in DL.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>00000nam  2200361Ii 4500</marc:leader>
+      <marc:controlfield tag="006">m|||||o||d |||||||</marc:controlfield>
+      <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+      <marc:controlfield tag="008">130321s2014\\\\xxu\\\\\om\\\\\\\\\\eng\d</marc:controlfield>
+      <marc:datafield tag="040" ind1="" ind2="">
+         <marc:subfield code="a">TFW</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="e">rda</marc:subfield>
+         <marc:subfield code="c">TFW</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1="" ind2="">
+         <marc:subfield code="a">dc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2="">
+         <marc:subfield code="a">Schoen, Zoe</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Supermax As a Safety Measure /</marc:subfield>
+         <marc:subfield code="c">Zoe Schoen.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1="" ind2="1">
+         <marc:subfield code="c">2015.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1="" ind2="">
+         <marc:subfield code="a">1 online resource.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1="" ind2="">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1="" ind2="">
+         <marc:subfield code="a">computer</marc:subfield>
+         <marc:subfield code="b">c</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1="" ind2="">
+         <marc:subfield code="a">online resource</marc:subfield>
+         <marc:subfield code="b">cr</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1="" ind2="">
+         <marc:subfield code="a"/>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1="" ind2="">
+         <marc:subfield code="a">This essay looks at the popular notion of the supermax prison as an institution that maintains safety and order in America's prisons. Focusing specifically on the disproportionate number of mentally ill prisoners housed in supermaximum facilities, and drawing from a body of research documenting the harmful psychological effects of sensory deprivation in solitary confinement cells, I argue that the notion of the supermax prison as a safety measure is a myth.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2="0">
+         <marc:subfield code="a">Tufts University. Department of English.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Prisons</marc:subfield><marc:subfield code="x">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Solitary confinement</marc:subfield><marc:subfield code="x">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Mentally ill offenders</marc:subfield><marc:subfield code="x">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Prisoners</marc:subfield><marc:subfield code="x">Mental health</marc:subfield><marc:subfield code="x">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Electronic dissertations.</marc:subfield>
+         <marc:subfield code="2">lcgft</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Tufts dissertations and theses.</marc:subfield>
+         <marc:subfield code="2">local</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="590" ind1="" ind2="">
+         <marc:subfield code="a">Tisch Library Undergraduate Research Award.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="0">
+         <marc:subfield code="z">Full Text -- Tufts Digital Library</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10427/008826</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="910" ind1="" ind2="">
+         <marc:subfield code="a">Title also cataloged in DL.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>00000nam  2200361Ii 4500</marc:leader>
+      <marc:controlfield tag="006">m|||||o||d |||||||</marc:controlfield>
+      <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+      <marc:controlfield tag="008">130321s2014\\\\xxu\\\\\om\\\\\\\\\\eng\d</marc:controlfield>
+      <marc:datafield tag="040" ind1="" ind2="">
+         <marc:subfield code="a">TFW</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="e">rda</marc:subfield>
+         <marc:subfield code="c">TFW</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1="" ind2="">
+         <marc:subfield code="a">dc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2="">
+         <marc:subfield code="a">Oeur, Freeden</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Recognizing Dignity: Young Black Men Growing Up in an Era of Surveillance /</marc:subfield>
+         <marc:subfield code="c">Freeden Oeur.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1="" ind2="1">
+         <marc:subfield code="c">2016.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1="" ind2="">
+         <marc:subfield code="a">1 online resource.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1="" ind2="">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1="" ind2="">
+         <marc:subfield code="a">computer</marc:subfield>
+         <marc:subfield code="b">c</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1="" ind2="">
+         <marc:subfield code="a">online resource</marc:subfield>
+         <marc:subfield code="b">cr</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1="" ind2="">
+         <marc:subfield code="a"/>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1="" ind2="">
+         <marc:subfield code="a">An enduring finding is that marginalized young men of color aggressively seek "respect," or masculine status. Drawing on ethnographic fieldwork at an all-boys public high school, the author found that respect—a desire to "be known"—offers an incomplete explanation for how young black men claim recognition in an era of surveillance. These findings reveal an alternative and more complex portrait of criminalized young black men in search of multiple dignities. With the help of adults, the young men in this study made claims to the right to grow as individuals. They also continued to yearn for a form of respect that rejected a sexually victimized identity, in a manner rarely captured in previous research. Their yearnings also highlight claims to a third form of dignity: to "be unknown," or the privilege of anonymity.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2="0">
+         <marc:subfield code="a">Tufts University. Department of Sociology.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">African American men</marc:subfield><marc:subfield code="x">Social conditions</marc:subfield><marc:subfield code="x">21st century.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Dignity.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Single-sex schools.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Electronic dissertations.</marc:subfield>
+         <marc:subfield code="2">lcgft</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Tufts dissertations and theses.</marc:subfield>
+         <marc:subfield code="2">local</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="590" ind1="" ind2="">
+         <marc:subfield code="a">Tufts published scholarship.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="0">
+         <marc:subfield code="z">Full Text -- Tufts Digital Library</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10427/008825</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="910" ind1="" ind2="">
+         <marc:subfield code="a">Title also cataloged in DL.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>00000nam  2200361Ii 4500</marc:leader>
+      <marc:controlfield tag="006">m|||||o||d |||||||</marc:controlfield>
+      <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+      <marc:controlfield tag="008">130321s2014\\\\xxu\\\\\om\\\\\\\\\\eng\d</marc:controlfield>
+      <marc:datafield tag="040" ind1="" ind2="">
+         <marc:subfield code="a">TFW</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="e">rda</marc:subfield>
+         <marc:subfield code="c">TFW</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1="" ind2="">
+         <marc:subfield code="a">dc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2="">
+         <marc:subfield code="a">Fernandez, Aaron B.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Bridging the Gap: The Role of University Career Centers in Social Mobility /</marc:subfield>
+         <marc:subfield code="c">Aaron B Fernandez.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1="" ind2="1">
+         <marc:subfield code="c">2015.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1="" ind2="">
+         <marc:subfield code="a">1 online resource.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1="" ind2="">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1="" ind2="">
+         <marc:subfield code="a">computer</marc:subfield>
+         <marc:subfield code="b">c</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1="" ind2="">
+         <marc:subfield code="a">online resource</marc:subfield>
+         <marc:subfield code="b">cr</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1="" ind2="">
+         <marc:subfield code="a"/>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1="" ind2="">
+         <marc:subfield code="a">Using interviews and ethnographic observations, this study analyzes the ways the Tufts University career center engages with and understands issues of social mobility. Sociological literature shows that higher education and job markets often perpetuate social inequality, rather than operating purely on merit. As a prominent institution facilitating the transition between these realms, career centers play an important, but unexplored role in creating unequal social outcomes. I found that, while the Tufts center did not actively exclude students, it facilitates a broad system of passive exclusion. By largely ignoring differences among students, the career center furthered the advantages of students coming in with more social and cultural capital. This passive exclusion manifested itself in the ability to access the career center, the skills promoted by the center, and the language the center's staff used. I conclude by examining the ways this system decreases social mobility and its impacts on systematic inequality.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2="0">
+         <marc:subfield code="a">Tufts University. Department of Sociology.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2="0">
+         <marc:subfield code="a">Tufts University. Career Center.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2="0">
+         <marc:subfield code="a">Tufts University. Students.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">College students</marc:subfield><marc:subfield code="x">Employment.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Electronic dissertations.</marc:subfield>
+         <marc:subfield code="2">lcgft</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Tufts dissertations and theses.</marc:subfield>
+         <marc:subfield code="2">local</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="590" ind1="" ind2="">
+         <marc:subfield code="a">Tisch Library Undergraduate Research Award.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="0">
+         <marc:subfield code="z">Full Text -- Tufts Digital Library</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10427/008824</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="910" ind1="" ind2="">
+         <marc:subfield code="a">Title also cataloged in DL.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>00000nam  2200361Ii 4500</marc:leader>
+      <marc:controlfield tag="006">m|||||o||d |||||||</marc:controlfield>
+      <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+      <marc:controlfield tag="008">130321s2014\\\\xxu\\\\\om\\\\\\\\\\eng\d</marc:controlfield>
+      <marc:datafield tag="040" ind1="" ind2="">
+         <marc:subfield code="a">TFW</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="e">rda</marc:subfield>
+         <marc:subfield code="c">TFW</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="042" ind1="" ind2="">
+         <marc:subfield code="a">dc</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2="">
+         <marc:subfield code="a">Quinn, Randall M.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Conflict and Disease: An Analysis of Endemic Polio in Northern Pakistan /</marc:subfield>
+         <marc:subfield code="c">Randall M Quinn.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1="" ind2="1">
+         <marc:subfield code="c">2015.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1="" ind2="">
+         <marc:subfield code="a">1 online resource.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1="" ind2="">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1="" ind2="">
+         <marc:subfield code="a">computer</marc:subfield>
+         <marc:subfield code="b">c</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1="" ind2="">
+         <marc:subfield code="a">online resource</marc:subfield>
+         <marc:subfield code="b">cr</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1="" ind2="">
+         <marc:subfield code="a"/>
+      </marc:datafield>
+      <marc:datafield tag="520" ind1="" ind2="">
+         <marc:subfield code="a">Submitted in partial fulfillment of the degree Master of Arts in Law and Diplomacy at the Fletcher School of Law and Diplomacy. Abstract: Polio is a disease that held a profound impact on much of the world's population for the first half of the 20th Century. Today it is barely an afterthought throughout the developed world, as vaccines invented in the 1950's greatly reduced the disease burden, gradually at first and then precipitously with the onset of the Global Polio Eradication Initiative in 1988. Despite great progress, there is one remaining reservoir of wild poliovirus that remains in the world today and prevents any declaration of victory against the disease. The reservoir is centered in northern Pakistan and frequently infects populations on both sides of the Afghanistan-Pakistan border. A number of factors have contributed to this being the last global holdout. This paper aims to explore those factors and project potential policy solutions. Given the highly infectious nature of the disease and the frequent movement of people in and through this region, all of the elements are there for a global resurgence, highlighting the importance of resolving the issue as quickly and efficiently as possible.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2="0">
+         <marc:subfield code="a">Fletcher School of Law and Diplomacy.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">Poliomyelitis</marc:subfield><marc:subfield code="x">Pakistan.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1="" ind2="0">
+         <marc:subfield code="a">War</marc:subfield><marc:subfield code="x">Medical aspects.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Electronic dissertations.</marc:subfield>
+         <marc:subfield code="2">lcgft</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1="" ind2="7">
+         <marc:subfield code="a">Tufts dissertations and theses.</marc:subfield>
+         <marc:subfield code="2">local</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="590" ind1="" ind2="">
+         <marc:subfield code="a">MALD thesis.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="0">
+         <marc:subfield code="z">Full Text -- Tufts Digital Library</marc:subfield>
+         <marc:subfield code="u">http://hdl.handle.net/10427/008412</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="910" ind1="" ind2="">
+         <marc:subfield code="a">Title also cataloged in DL.</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+</marc:collection>

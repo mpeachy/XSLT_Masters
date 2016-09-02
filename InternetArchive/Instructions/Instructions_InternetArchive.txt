@@ -1,0 +1,55 @@
+1. Create a folder named “Files” on your computer Desktop. This is where the downloaded where files will go. 
+
+2. Create a file with the list of identifiers
+
+You’ll need a text file with the list of archive.org item identifiers from which you want to download files. This file will be used by the wget to download the files.
+
+If you already have a list of identifiers you can paste or type the identifiers into a file. There should be one identifier per line. The other option is to use the archive.org search engine to create a list based on a query.  To do this we will use advanced search to create the list and then download the list in a file.
+
+Currently, Kris Thomas sends us a list of completed titles via a .csv, which has the list of identifiers.  
+
+If, however, you need to create a list on the fly:
+
+Determine your search query using the search engine.  In this example, I am looking for items in the Tisch Library collection, ie, collection:tischlibrary.  Once you’ve figured out your query:
+
+* Go to the advanced search page on archive.org. Use the “Advanced Search returning JSON, XML, and more.” section to create a query.  Once you have a query that delivers the results you want click the back button to go back to the advanced search page.
+*  Select “identifier” from the “Fields to return” list.
+*  Optionally sort the results (sorting by "addeddate asc" and “identifier asc” is handy for arranging the most recent digitized items in alphabetical order.)
+*  Enter the number of results from step 1 into the “Number of results” box that matches (or is higher than) the number of results your query returns.
+*  Choose the “CSV format” radio button.
+*  Click the search button (may take a while depending on how many results you have.) An alert box will ask if you want your results – click “OK” to proceed.  You’ll then see a prompt to download the “search.csv” file to your computer.  The downloaded file will be in your default download location (often your Desktop or your Downloads folder).
+*  Rename the “search.csv” file “itemlist.txt” (no quotes.)
+*  Drag or move the itemlist.txt file into your “Files” folder that you previously created
+*  Open the file in a text program such as TextEdit (Mac) or Notepad (Windows). Delete the first line of copy which reads “identifier”. Be sure you deleted the entire line and that the first line is not a blank line. Now remove all the quotes by doing a search and replace replacing the ” with nothing.
+
+3. Create a wget command
+
+The wget command uses unix terminology. Each symbol, letter or word represents different options that the wget will execute.
+
+wget -r -H -nc -np -nH --cut-dirs=2 -A .pdf,_marc.xml,_meta.xml -e robots=off -l1 -i ./itemlist.txt -B 'http://archive.org/download/'
+
+4. Run the command
+
+Open your terminal emulator (Terminal or Cygwin)
+In your terminal emulator window, move into your folder/directory. i.e.
+
+cd C:/Users/amay02/Desktop/Files
+
+Enter into the terminal the following line:
+
+wget -r -H -nc -np -nH --cut-dirs=2 -A .pdf -e robots=off -l1 -i ./itemlist.txt -B 'http://archive.org/download/'
+
+When you have your files:
+Move them onto the R drive into the apropriate pdf folder.
+
+5. Transform for ingest
+
+Irina will provide a .mrc file from which she derived e-resource records for the catalog
+
+Transform it to MARCXML via MARCEdit
+
+Open the XSLT from XSLT_Masters/InternetArchive/Transforms/InternetArchive_RunThis and associate it with the xml you are transforming (Use the Wrench icon)  
+
+(NB: Do not make the xml you are transforming 'human readable' as this introduces spacing and other issues.) 
+ 
+ 

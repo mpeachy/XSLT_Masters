@@ -1,0 +1,53 @@
+Process for ingesting MHF images and associated metadata into MIRA 
+
+First you must determine whether it is a collated batch that you are ingesting (several catalogers sent you their small batch of a larger Excel sheet), or if a single cataloger sent you a single Excel sheet.
+Excel files and xml should stay in the apropriate folders:
+
+Transforms/collatedBatches...
+Transforms/singleBatch...
+
+Also, catalogers occasionally change the field names in the Excel sheet.  If this has occured, a copy of the existing names is avilable in the 'Instructions' folder.  Just copy and paste.
+Then you can move your Excel file(s) to the apropriate folder, and work through the next steps:
+
+1.	From oXygen, select File/Import/Ms Excel Files:
+
+2.	Navigate to the Excel file that needs to be imported.  Make sure it is an Excel 97-2003 Workbook (.xls)
+
+3.	Open it, and select:
+                a.	Next -->
+
+4.	In Import criteria select: 
+		a.	First row contains field names
+		b.	Open in Editor
+
+5.	In your new xml, clean up the students use of the pipe either individually if this is a single batch ingest, or by using Find/Replace in Files if you are working with a number of files
+		a.	 Select Find/Replace: 
+			i.	Select Regular expression and enter in Text to find:
+			ii.	(\s\|\s)|(\|)|(\s\|)|(\|\s)
+			iii.	Replace with:|
+
+6.	Save this file as TransformThis_ChXX.xml if a single ingest, or by each cataloger's first name if a batch ingest, i.e. 'Alex.xml'
+
+7.	Open MHF_RunThis_SingleBatch.xslt or MHF_RunThis_ForCollatedBatches.xslt as apropriate
+
+8.      Associate your input xml and your output xml (Wrench button)
+                a. Select your xslt (if there is no xslt, you will make a new one, and then follow from b), and select edit.
+                b. From xslt tab, browse (folder) to your xml. NOTE: if this is for a collated batch, you need to associate it with the 'collection.xml' file
+                c. From output tab, browse (folder) to where you want to save your new xml
+
+9.	Select Apply transformation scenario (Play button)
+
+10.	Save your new xml as IngestThis.xml
+
+11.     In your new xml, clean up issues by limiting a regex to an xpath, for instance, look for use of possesives in a title
+                a. Select Find/Replace:
+                        i. Select Regular expression and in Text to find:
+                        ii. '\w
+                        iii. In the xpath field enter: /input/digitalObject/*[namespace-uri()='http://purl.org/dc/elements/1.1/' and local-name()='title'] | /input/digitalObject/*[namespace-uri()='http://purl.org/dc/terms/' and local-name()='alternative']
+                             This limits your search to the title and alternative title fields
+                        iv. Make changes to any possesive that seems off
+
+12.	Review xml for other preprossing errors, and then from MIRA start a Batch XML ingest.
+		a.	Select IngestThis.xml and then select Next
+		b.	Associate requested images
+		c.	Review batch status

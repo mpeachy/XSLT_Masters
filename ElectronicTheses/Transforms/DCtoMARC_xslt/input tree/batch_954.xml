@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><items><digitalObject><pid>draft:sd.0000371</pid><datastream id="DCA-META"><dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dc:format>application/pdf</dc:format>
+  <dc:publisher>Tufts University. Digital Collections and Archives.</dc:publisher>
+  <dc:rights>http://dca.tufts.edu/ua/access/rights-creator.html</dc:rights>
+  <dc:date.available>2016-03-27 23:30:22 -0400</dc:date.available>
+  <dc:title>Mid-East to West Coast: Implementing Israeli Water Conservation Strategies in California</dc:title>
+  <dc:description>In its fifth year of severe drought, California needs a change. How can Israeli methods like desalination, water reclamation and recycling, and precision drip irrigation help California quench its thirst? These techniques have allowed Israel to alleviate its notorious water problem and even become an exporter of water in the perpetually drought-stricken Middle East. Serious implementation of these techniques and a change in mindset is necessary for California to be water-secure.</dc:description>
+  <dc:creator>Lloyd-Thomas, Sophia C.</dc:creator>
+<dc:type>Text</dc:type><dcadesc:corpname>Tufts University. Department of English.</dcadesc:corpname><dcadesc:subject>Water conservation--California.</dcadesc:subject><dcadesc:subject>Water conservation--Israel.</dcadesc:subject><dc:identifier>http://hdl.handle.net/10427/008853</dc:identifier></dc></datastream><datastream id="DC-DETAIL-META"><dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/d/terms/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dcterms:dateSubmitted>2016-03-27 23:30:22 -0400</dcterms:dateSubmitted>
+  <dcterms:license>Tufts Non-Exclusive Deposit License v1.0</dcterms:license>
+<dcterms:isPartOf>Tisch Library Undergraduate Research Award.</dcterms:isPartOf></dc></datastream><datastream id="DCA-ADMIN"><admin xmlns:local="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/">
+  <local:createdby>selfdep</local:createdby>
+  <local:steward>tisch</local:steward>
+  <local:displays>dl</local:displays>
+  <local:note>Lloyd-Thomas, Sophia C. self-deposited on 2016-03-27 at 23:30:22 EDT using the Deposit Form for the Tufts Digital Library</local:note>
+  <local:editedAt>2016-03-29T15:49:36Z</local:editedAt>
+<local:creatordept/><local:publishedAt>2016-03-29T15:49:36Z</local:publishedAt><local:batchID>954</local:batchID></admin></datastream><datastream id="RELS-EXT">
+<rdf:RDF xmlns:ns0="http://www.openarchives.org/OAI/2.0/" xmlns:ns1="info:fedora/fedora-system:def/model#" xmlns:ns2="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/draft:sd.0000371">
+    <ns0:itemID>oai:draft:sd.0000371</ns0:itemID>
+    <ns1:hasModel rdf:resource="info:fedora/cm:Text.PDF"></ns1:hasModel>
+    <ns2:hasDescription rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:hasDescription>
+    <ns2:isMemberOf rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:isMemberOf>
+  </rdf:Description>
+</rdf:RDF>
+</datastream></digitalObject><digitalObject><pid>draft:sd.0000370</pid><datastream id="DCA-META"><dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dc:format>application/pdf</dc:format>
+  <dc:publisher>Tufts University. Digital Collections and Archives.</dc:publisher>
+  <dc:rights>http://dca.tufts.edu/ua/access/rights-creator.html</dc:rights>
+  <dc:date.available>2016-03-24 12:23:38 -0400</dc:date.available>
+  <dc:title>To the Death: Warrior Culture and Defining Mycenaean Identity from the Late Bronze Age through the Bronze Age Collapse</dc:title>
+  <dc:description>An analysis of Mycenaean warrior culture using the three primary archaeological forms of evidence, the iconography of lions, the technology of chariotry, and the customs of burial. </dc:description>
+  <dc:creator>Magnani, Alexandra G.</dc:creator>
+  <dcadesc:subject>Civilization, Mycenaean.</dcadesc:subject>
+<dcadesc:corpname>Tufts University. Department of Classics.</dcadesc:corpname><dcadesc:subject>Bronze age--Greece.</dcadesc:subject><dc:identifier>http://hdl.handle.net/10427/008852</dc:identifier></dc></datastream><datastream id="DC-DETAIL-META"><dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/d/terms/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dcterms:dateSubmitted>2016-03-24 12:23:38 -0400</dcterms:dateSubmitted>
+  <dcterms:license>Tufts Non-Exclusive Deposit License v1.0</dcterms:license>
+<dcterms:isPartOf>Senior honors thesis.</dcterms:isPartOf></dc></datastream><datastream id="DCA-ADMIN"><admin xmlns:local="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/">
+  <local:createdby>selfdep</local:createdby>
+  <local:steward>dca</local:steward>
+  <local:displays>dl</local:displays>
+  <local:note>Magnani, Alexandra G. self-deposited on 2016-03-24 at 12:23:38 EDT using the Deposit Form for the Tufts Digital Library</local:note>
+  <local:creatordept>UA005.025</local:creatordept>
+  <local:editedAt>2016-03-24T18:12:12Z</local:editedAt>
+<local:publishedAt>2016-03-24T18:12:12Z</local:publishedAt><local:batchID>954</local:batchID></admin></datastream><datastream id="RELS-EXT">
+<rdf:RDF xmlns:ns0="http://www.openarchives.org/OAI/2.0/" xmlns:ns1="info:fedora/fedora-system:def/model#" xmlns:ns2="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/draft:sd.0000370">
+    <ns0:itemID>oai:draft:sd.0000370</ns0:itemID>
+    <ns1:hasModel rdf:resource="info:fedora/cm:Text.PDF"></ns1:hasModel>
+    <ns2:hasDescription rdf:resource="info:fedora/tufts:UA069.001.DO.UA005"></ns2:hasDescription>
+    <ns2:isMemberOf rdf:resource="info:fedora/tufts:UA069.001.DO.UA005"></ns2:isMemberOf>
+  </rdf:Description>
+</rdf:RDF>
+</datastream></digitalObject><digitalObject><pid>draft:sd.0000369</pid><datastream id="DCA-META"><dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dc:format>application/pdf</dc:format>
+  <dc:publisher>Tufts University. Digital Collections and Archives.</dc:publisher>
+  <dc:rights>http://dca.tufts.edu/ua/access/rights-creator.html</dc:rights>
+  <dc:date.available>2016-03-18 15:42:18 -0400</dc:date.available>
+  <dc:title>"Banned In Boston": Censorship and Self-Censorship in Boston's Federal Theatre Project</dc:title>
+  <dc:description>As part of the Works Progress Administration, the Federal Theatre Project created jobs for thousands of theatre artists and entertainment for millions of suffering Americans, through the ingenuity of the federal government and the Roosevelt administration. Boston was conceived as one of five major centers of this project. However, the city&#x2019;s FTP chapter suffered from the longstanding tradition of censorship put in place decades beforehand by conservative upper-class Bostonians and authorities. An early encounter with this censorship apparatus during their first major production, Valley Forge, created a poor reputation for the Boston chapter. Though the national FTP strived to produce plays with social and political importance to the communities they performed in, Boston&#x2019;s company continually failed to do this because of the established system of censorship. This system both restrained the company externally, through outwardly visible legal and social means, and internally, by forcing the company to self-censor themselves. </dc:description>
+  <dc:creator>Vandewalle, Sarah C.</dc:creator>
+<dc:type>Text</dc:type><dcadesc:corpname>Tufts University. Department of Drama and Dance.</dcadesc:corpname><dcadesc:corpname>Federal Theatre Project (U.S.)</dcadesc:corpname><dcadesc:subject>Censorship--Massachusetts--Boston--History.</dcadesc:subject><dc:identifier>http://hdl.handle.net/10427/008842</dc:identifier><dc:date.created>2015</dc:date.created></dc></datastream><datastream id="DC-DETAIL-META"><dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/d/terms/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dcterms:dateSubmitted>2016-03-18 15:42:18 -0400</dcterms:dateSubmitted>
+  <dcterms:license>Tufts Non-Exclusive Deposit License v1.0</dcterms:license>
+<dcterms:isPartOf>Tisch Library Undergraduate Research Award.</dcterms:isPartOf></dc></datastream><datastream id="DCA-ADMIN"><admin xmlns:local="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/">
+  <local:createdby>selfdep</local:createdby>
+  <local:steward>tisch</local:steward>
+  <local:displays>dl</local:displays>
+  <local:note>Vandewalle, Sarah C. self-deposited on 2016-03-18 at 15:42:18 EDT using the Deposit Form for the Tufts Digital Library</local:note>
+  <local:editedAt>2016-03-21T18:32:04Z</local:editedAt>
+<local:creatordept/><local:publishedAt>2016-03-21T18:32:04Z</local:publishedAt><local:batchID>954</local:batchID></admin></datastream><datastream id="RELS-EXT">
+<rdf:RDF xmlns:ns0="http://www.openarchives.org/OAI/2.0/" xmlns:ns1="info:fedora/fedora-system:def/model#" xmlns:ns2="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/draft:sd.0000369">
+    <ns0:itemID>oai:draft:sd.0000369</ns0:itemID>
+    <ns1:hasModel rdf:resource="info:fedora/cm:Text.PDF"></ns1:hasModel>
+    <ns2:hasDescription rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:hasDescription>
+    <ns2:isMemberOf rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:isMemberOf>
+  </rdf:Description>
+</rdf:RDF>
+</datastream></digitalObject><digitalObject><pid>draft:sd.0000368</pid><datastream id="DCA-META"><dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dc:format>application/pdf</dc:format>
+  <dc:publisher>Tufts University. Digital Collections and Archives.</dc:publisher>
+  <dc:rights>http://dca.tufts.edu/ua/access/rights-creator.html</dc:rights>
+  <dc:date.available>2016-03-16 02:09:23 -0400</dc:date.available>
+  <dc:title>Research Into Matsukaze and Ancient Japan</dc:title>
+  <dc:description>A series of papers I completed for my ancient medieval theatre history course about a play called Matsukaze from the 3rd century. The play written by Kanami and Zeami respectively is part of a larger repertoire of Noh theatre. My series of papers focuses on religious history in Japan, performance history and research into the original production and various revivals of the play. </dc:description>
+  <dc:creator>Blackstone, Maya D.</dc:creator>
+<dcadesc:corpname>Tufts University. Department of Drama and Dance.</dcadesc:corpname><dc:type>Text</dc:type><dcadesc:persname>Kan&#x2BC;ami, 1333?-1384? Matsukaze.</dcadesc:persname><dcadesc:geogname>Japan--History--1333-1600.</dcadesc:geogname><dcadesc:subject>No&#x304; plays</dcadesc:subject><dcadesc:subject>Zen Buddhism--Japan--History.</dcadesc:subject><dc:identifier>http://hdl.handle.net/10427/008841</dc:identifier><dc:date.created>2015</dc:date.created></dc></datastream><datastream id="DC-DETAIL-META"><dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/d/terms/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dcterms:dateSubmitted>2016-03-16 02:09:23 -0400</dcterms:dateSubmitted>
+  <dcterms:license>Tufts Non-Exclusive Deposit License v1.0</dcterms:license>
+<dcterms:isPartOf>Tisch Library Undergraduate Research Award.</dcterms:isPartOf></dc></datastream><datastream id="DCA-ADMIN"><admin xmlns:local="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/">
+  <local:createdby>selfdep</local:createdby>
+  <local:steward>tisch</local:steward>
+  <local:displays>dl</local:displays>
+  <local:note>Blackstone, Maya D. self-deposited on 2016-03-16 at 02:09:23 EDT using the Deposit Form for the Tufts Digital Library</local:note>
+  <local:editedAt>2016-03-21T18:28:18Z</local:editedAt>
+<local:creatordept/><local:publishedAt>2016-03-21T18:28:18Z</local:publishedAt><local:batchID>954</local:batchID></admin></datastream><datastream id="RELS-EXT">
+<rdf:RDF xmlns:ns0="http://www.openarchives.org/OAI/2.0/" xmlns:ns1="info:fedora/fedora-system:def/model#" xmlns:ns2="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/draft:sd.0000368">
+    <ns0:itemID>oai:draft:sd.0000368</ns0:itemID>
+    <ns1:hasModel rdf:resource="info:fedora/cm:Text.PDF"></ns1:hasModel>
+    <ns2:hasDescription rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:hasDescription>
+    <ns2:isMemberOf rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:isMemberOf>
+  </rdf:Description>
+</rdf:RDF>
+</datastream></digitalObject><digitalObject><pid>draft:sd.0000367</pid><datastream id="DCA-META"><dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dc:format>application/pdf</dc:format>
+  <dc:publisher>Tufts University. Digital Collections and Archives.</dc:publisher>
+  <dc:rights>http://dca.tufts.edu/ua/access/rights-creator.html</dc:rights>
+  <dc:date.available>2016-03-08 11:31:09 -0500</dc:date.available>
+  <dc:title>Controlling the Present, Reframing the Future: Chronic Illness, Adolescent Art, and an Integrated Approach to Therapy</dc:title>
+  <dc:description>There is a considerable body of literature detailing the practice of medical art therapy with adults and children. Less is written, however, about the unique potential benefits of art therapy and art making with adolescents. I address this lack of research about art-making with adolescents&#x2014; specifically adolescents with chronic illness&#x2014; by offering an analysis of the existing literature on art therapy frameworks, coping theories, and the concept of adolescent identity. Because almost no research has been done on adolescents who engage in therapeutic art outside of an art therapy context, this paper presents original qualitative data on the way chronically ill adolescents use their own art making to cope with illness. I ultimately argue for a radical reframing of coping mechanisms and the use of art as an effective primary treatment to be recommended by healthcare providers. I also suggest a model of art therapy that integrates aesthetic appreciation, art making, and a regard for adolescent autonomy to create a developmentally appropriate intervention.</dc:description>
+  <dc:creator>Newman, Chelsea D.</dc:creator>
+<dcadesc:corpname>Tufts University. Eliot-Pearson Department of Child Development.</dcadesc:corpname><dcadesc:subject>Art therapy for youth.</dcadesc:subject><dcadesc:subject>Chronic diseases in adolescence--Psychological aspects.</dcadesc:subject><dc:identifier>http://hdl.handle.net/10427/008823</dc:identifier><dc:date.created>2015</dc:date.created><dc:type>Text</dc:type></dc></datastream><datastream id="DC-DETAIL-META"><dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/d/terms/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dcterms:dateSubmitted>2016-03-08 11:31:09 -0500</dcterms:dateSubmitted>
+  <dcterms:license>Tufts Non-Exclusive Deposit License v1.0</dcterms:license>
+<dcterms:isPartOf>Tisch Library Undergraduate Research Award.</dcterms:isPartOf><dcterms:date/></dc></datastream><datastream id="DCA-ADMIN"><admin xmlns:local="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/">
+  <local:createdby>selfdep</local:createdby>
+  <local:steward>tisch</local:steward>
+  <local:displays>dl</local:displays>
+  <local:note>Newman, Chelsea D. self-deposited on 2016-03-08 at 11:31:09 EST using the Deposit Form for the Tufts Digital Library</local:note>
+  <local:editedAt>2016-03-21T20:22:49Z</local:editedAt>
+<local:creatordept/><local:publishedAt>2016-03-21T20:22:49Z</local:publishedAt><local:batchID>954</local:batchID></admin></datastream><datastream id="RELS-EXT">
+<rdf:RDF xmlns:ns0="http://www.openarchives.org/OAI/2.0/" xmlns:ns1="info:fedora/fedora-system:def/model#" xmlns:ns2="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/draft:sd.0000367">
+    <ns0:itemID>oai:draft:sd.0000367</ns0:itemID>
+    <ns1:hasModel rdf:resource="info:fedora/cm:Text.PDF"></ns1:hasModel>
+    <ns2:hasDescription rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:hasDescription>
+    <ns2:isMemberOf rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:isMemberOf>
+  </rdf:Description>
+</rdf:RDF>
+</datastream></digitalObject><digitalObject><pid>draft:sd.0000366</pid><datastream id="DCA-META"><dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dc:format>application/pdf</dc:format>
+  <dc:publisher>Tufts University. Digital Collections and Archives.</dc:publisher>
+  <dc:rights>http://dca.tufts.edu/ua/access/rights-creator.html</dc:rights>
+  <dc:date.available>2016-03-07 22:41:57 -0500</dc:date.available>
+  <dc:title>Supermax As a Safety Measure</dc:title>
+  <dc:description>This essay looks at the popular notion of the supermax prison as an institution that maintains safety and order in America's prisons. Focusing specifically on the disproportionate number of mentally ill prisoners housed in supermaximum facilities, and drawing from a body of research documenting the harmful psychological effects of sensory deprivation in solitary confinement cells, I argue that the notion of the supermax prison as a safety measure is a myth.</dc:description>
+  <dc:creator>Schoen, Zoe</dc:creator>
+<dc:date.created>2015</dc:date.created><dcadesc:corpname>Tufts University. Department of English.</dcadesc:corpname><dcadesc:subject>Prisons--United States.</dcadesc:subject><dcadesc:subject>Solitary confinement--United States.</dcadesc:subject><dcadesc:subject>Mentally ill offenders--United States.</dcadesc:subject><dcadesc:subject>Prisoners--Mental health--United States.</dcadesc:subject><dc:identifier>http://hdl.handle.net/10427/008826</dc:identifier><dc:type>Text</dc:type></dc></datastream><datastream id="DC-DETAIL-META"><dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/d/terms/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dcterms:dateSubmitted>2016-03-07 22:41:57 -0500</dcterms:dateSubmitted>
+  <dcterms:license>Tufts Non-Exclusive Deposit License v1.0</dcterms:license>
+<dcterms:isPartOf>Tisch Library Undergraduate Research Award.</dcterms:isPartOf></dc></datastream><datastream id="DCA-ADMIN"><admin xmlns:local="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/">
+  <local:createdby>selfdep</local:createdby>
+  <local:steward>tisch</local:steward>
+  <local:displays>dl</local:displays>
+  <local:note>Schoen, Zoe self-deposited on 2016-03-07 at 22:41:57 EST using the Deposit Form for the Tufts Digital Library</local:note>
+  <local:editedAt>2016-03-21T20:23:10Z</local:editedAt>
+<local:creatordept/><local:publishedAt>2016-03-21T20:23:10Z</local:publishedAt><local:batchID>954</local:batchID></admin></datastream><datastream id="RELS-EXT">
+<rdf:RDF xmlns:ns0="http://www.openarchives.org/OAI/2.0/" xmlns:ns1="info:fedora/fedora-system:def/model#" xmlns:ns2="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/draft:sd.0000366">
+    <ns0:itemID>oai:draft:sd.0000366</ns0:itemID>
+    <ns1:hasModel rdf:resource="info:fedora/cm:Text.PDF"></ns1:hasModel>
+    <ns2:hasDescription rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:hasDescription>
+    <ns2:isMemberOf rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:isMemberOf>
+  </rdf:Description>
+</rdf:RDF>
+</datastream></digitalObject><digitalObject><pid>draft:sd.0000365</pid><datastream id="DCA-META"><dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dc:format>application/pdf</dc:format>
+  <dc:publisher>Tufts University. Digital Collections and Archives.</dc:publisher>
+  <dc:rights>http://dca.tufts.edu/ua/access/rights-creator.html</dc:rights>
+  <dc:date.available>2016-03-07 08:43:46 -0500</dc:date.available>
+  <dc:title>Recognizing Dignity: Young Black Men Growing Up in an Era of Surveillance</dc:title>
+  <dc:description>An enduring finding is that marginalized young men of color aggressively seek &#x201C;respect,&#x201D; or masculine status. Drawing on ethnographic fieldwork at an all-boys public high school, the author found that respect&#x2014;a desire to &#x201C;be known&#x201D;&#x2014;offers an incomplete explanation for how young black men claim recognition in an era of surveillance. These findings reveal an alternative and more complex portrait of criminalized young black men in search of multiple dignities. With the help of adults, the young men in this study made claims to the right to grow as individuals. They also continued to yearn for a form of respect that rejected a sexually victimized identity, in a manner rarely captured in previous research. Their yearnings also highlight claims to a third form of dignity: to &#x201C;be unknown,&#x201D; or the privilege of anonymity.</dc:description>
+  
+  <dc:bibliographicCitation>Oeur, Freeden. 2016. Recognizing Dignity: Young Black Men Growing Up in an Era of Surveillance. Socius 2:1-15. DOI: 10.1177/2378023116633712</dc:bibliographicCitation>
+  <dc:creator>Oeur, Freeden</dc:creator>
+<dc:date.created>2016</dc:date.created><dcadesc:subject>African American men--Social conditions--21st century.</dcadesc:subject><dcadesc:subject>Dignity.</dcadesc:subject><dcadesc:subject>Single-sex schools.</dcadesc:subject><dc:identifier>http://hdl.handle.net/10427/008825</dc:identifier><dc:type>Text</dc:type><dcadesc:corpname>Tufts University. Department of Sociology.</dcadesc:corpname></dc></datastream><datastream id="DC-DETAIL-META"><dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/d/terms/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dcterms:dateSubmitted>2016-03-07 08:43:46 -0500</dcterms:dateSubmitted>
+  <dcterms:license>Tufts Non-Exclusive Deposit License v1.0</dcterms:license>
+<dcterms:isPartOf>Tufts published scholarship.</dcterms:isPartOf></dc></datastream><datastream id="DCA-ADMIN"><admin xmlns:local="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/">
+  <local:createdby>selfdep</local:createdby>
+  <local:steward>tisch</local:steward>
+  <local:displays>dl</local:displays>
+  <local:note>Oeur, Freeden self-deposited on 2016-03-07 at 08:43:46 EST using the Deposit Form for the Tufts Digital Library</local:note>
+  <local:editedAt>2016-03-30T17:17:55Z</local:editedAt>
+<local:creatordept/><local:publishedAt>2016-03-30T17:17:55Z</local:publishedAt><local:batchID>954</local:batchID></admin></datastream><datastream id="RELS-EXT">
+<rdf:RDF xmlns:ns0="http://www.openarchives.org/OAI/2.0/" xmlns:ns1="info:fedora/fedora-system:def/model#" xmlns:ns2="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/draft:sd.0000365">
+    <ns0:itemID>oai:draft:sd.0000365</ns0:itemID>
+    <ns1:hasModel rdf:resource="info:fedora/cm:Text.PDF"></ns1:hasModel>
+    <ns2:hasDescription rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:hasDescription>
+    <ns2:isMemberOf rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:isMemberOf>
+  </rdf:Description>
+</rdf:RDF>
+</datastream></digitalObject><digitalObject><pid>draft:sd.0000364</pid><datastream id="DCA-META"><dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dc:format>application/pdf</dc:format>
+  <dc:publisher>Tufts University. Digital Collections and Archives.</dc:publisher>
+  <dc:rights>http://dca.tufts.edu/ua/access/rights-creator.html</dc:rights>
+  <dc:date.available>2016-03-05 14:54:47 -0500</dc:date.available>
+  <dc:title>Bridging the Gap: The Role of University Career Centers in Social Mobility</dc:title>
+  <dc:description>Using interviews and ethnographic observations, this study analyzes the ways the Tufts University career center engages with and understands issues of social mobility. Sociological literature shows that higher education and job markets often perpetuate social inequality, rather than operating purely on merit. As a prominent institution facilitating the transition between these realms, career centers play an important, but unexplored role in creating unequal social outcomes. I found that, while the Tufts center did not actively exclude students, it facilitates a broad system of passive exclusion. By largely ignoring differences among students, the career center furthered the advantages of students coming in with more social and cultural capital. This passive exclusion manifested itself in the ability to access the career center, the skills promoted by the center, and the language the center&#x2019;s staff used. I conclude by examining the ways this system decreases social mobility and its impacts on systematic inequality.</dc:description>
+  <dc:creator>Fernandez, Aaron B.</dc:creator>
+<dc:date.created>2015</dc:date.created><dcadesc:corpname>Tufts University. Department of Sociology.</dcadesc:corpname><dcadesc:corpname>Tufts University. Career Center.</dcadesc:corpname><dcadesc:corpname> Tufts University. Students.</dcadesc:corpname><dcadesc:subject>College students--Employment.</dcadesc:subject><dc:identifier>http://hdl.handle.net/10427/008824</dc:identifier><dc:type>Text</dc:type></dc></datastream><datastream id="DC-DETAIL-META"><dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/d/terms/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dcterms:dateSubmitted>2016-03-05 14:54:47 -0500</dcterms:dateSubmitted>
+  <dcterms:license>Tufts Non-Exclusive Deposit License v1.0</dcterms:license>
+<dcterms:isPartOf>Tisch Library Undergraduate Research Award.</dcterms:isPartOf></dc></datastream><datastream id="DCA-ADMIN"><admin xmlns:local="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/">
+  <local:createdby>selfdep</local:createdby>
+  <local:steward>tisch</local:steward>
+  <local:displays>dl</local:displays>
+  <local:note>Fernandez, Aaron B. self-deposited on 2016-03-05 at 14:54:47 EST using the Deposit Form for the Tufts Digital Library</local:note>
+  <local:editedAt>2016-03-21T20:23:57Z</local:editedAt>
+<local:creatordept/><local:publishedAt>2016-03-21T20:23:57Z</local:publishedAt><local:batchID>954</local:batchID></admin></datastream><datastream id="RELS-EXT">
+<rdf:RDF xmlns:ns0="http://www.openarchives.org/OAI/2.0/" xmlns:ns1="info:fedora/fedora-system:def/model#" xmlns:ns2="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/draft:sd.0000364">
+    <ns0:itemID>oai:draft:sd.0000364</ns0:itemID>
+    <ns1:hasModel rdf:resource="info:fedora/cm:Text.PDF"></ns1:hasModel>
+    <ns2:hasDescription rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:hasDescription>
+    <ns2:isMemberOf rdf:resource="info:fedora/tufts:UA069.001.DO.PB"></ns2:isMemberOf>
+  </rdf:Description>
+</rdf:RDF>
+</datastream></digitalObject><digitalObject><pid>draft:sd.0000363</pid><datastream id="DCA-META"><dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dc:format>application/pdf</dc:format>
+  <dc:publisher>Tufts University. Digital Collections and Archives.</dc:publisher>
+  <dc:rights>http://dca.tufts.edu/ua/access/rights-creator.html</dc:rights>
+  <dc:date.available>2016-01-28 22:14:24 -0500</dc:date.available>
+  <dc:title>Conflict and Disease: An Analysis of Endemic Polio in Northern Pakistan</dc:title>
+  <dc:creator>Quinn, Randall M.</dc:creator>
+  <dc:description>Submitted in partial fulfillment of the degree Master of Arts in Law and Diplomacy at the Fletcher School of Law and Diplomacy. Abstract: Polio is a disease that held a profound impact on much of the world&#x2019;s population for the first half of the 20th Century.  Today it is barely an afterthought throughout the developed world, as vaccines invented in the 1950&#x2019;s greatly reduced the disease burden, gradually at first and then precipitously with the onset of the Global Polio Eradication Initiative in 1988.  Despite great progress, there is one remaining reservoir of wild poliovirus that remains in the world today and prevents any declaration of victory against the disease.  The reservoir is centered in northern Pakistan and frequently infects populations on both sides of the Afghanistan-Pakistan border.  A number of factors have contributed to this being the last global holdout.  This paper aims to explore those factors and project potential policy solutions.  Given the highly infectious nature of the disease and the frequent movement of people in and through this region, all of the elements are there for a global resurgence, highlighting the importance of resolving the issue as quickly and efficiently as possible. </dc:description>
+  <dcadesc:subject>Poliomyelitis--Pakistan.</dcadesc:subject>
+<dcadesc:corpname>Fletcher School of Law and Diplomacy.</dcadesc:corpname><dcadesc:subject>War--Medical aspects.</dcadesc:subject><dc:identifier>http://hdl.handle.net/10427/008412</dc:identifier><dc:date.created>2015</dc:date.created><dc:type>Text</dc:type></dc></datastream><datastream id="DC-DETAIL-META"><dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/" xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/" xmlns:dcterms="http://purl.org/d/terms/" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.1">
+  <dcterms:dateSubmitted>2016-01-28 22:14:24 -0500</dcterms:dateSubmitted>
+  <dcterms:license>Tufts Non-Exclusive Deposit License: Fletcher v1.0</dcterms:license>
+<dcterms:isPartOf>MALD thesis.</dcterms:isPartOf><dcterms:date/></dc></datastream><datastream id="DCA-ADMIN"><admin xmlns:local="http://nils.lib.tufts.edu/dcaadmin/" xmlns:ac="http://purl.org/dc/dcmitype/">
+  <local:createdby>selfdep</local:createdby>
+  <local:steward>dca</local:steward>
+  <local:displays>dl</local:displays>
+  <local:note>Quinn, Randall M. self-deposited on 2016-01-28 at 22:14:24 EST using the Deposit Form for the Tufts Digital Library</local:note>
+  <local:editedAt>2016-03-21T20:24:25Z</local:editedAt>
+<local:creatordept/><local:publishedAt>2016-03-21T20:24:25Z</local:publishedAt><local:batchID>954</local:batchID></admin></datastream><datastream id="RELS-EXT">
+<rdf:RDF xmlns:ns0="http://www.openarchives.org/OAI/2.0/" xmlns:ns1="info:fedora/fedora-system:def/model#" xmlns:ns2="info:fedora/fedora-system:def/relations-external#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/draft:sd.0000363">
+    <ns0:itemID>oai:draft:sd.0000363</ns0:itemID>
+    <ns1:hasModel rdf:resource="info:fedora/cm:Text.PDF"></ns1:hasModel>
+    <ns2:hasDescription rdf:resource="info:fedora/tufts:UA069.001.DO.UA015"></ns2:hasDescription>
+    <ns2:isMemberOf rdf:resource="info:fedora/tufts:UA069.001.DO.UA015"></ns2:isMemberOf>
+  </rdf:Description>
+</rdf:RDF>
+</datastream></digitalObject></items>

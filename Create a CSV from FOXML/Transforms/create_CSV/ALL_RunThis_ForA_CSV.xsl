@@ -29,7 +29,8 @@ This stylesheet converts the Fedora Object XML (FOXML) to a comma delimited file
         <xsl:output-character character="&#x201D;" string="'"/>  
         <xsl:output-character character="&quot;" string="'"/>  
     </xsl:character-map>
-    <xsl:template match="/">**pid**&#009;**Title**&#009;**Alternative_Title**&#009;**Creator**&#009;**Contributors**&#009;**Description**&#009;**Source**&#009;**Date_Created**&#009;**Type**&#009;**Format**&#009;**Subject**&#009;**personalNames**&#009;**corporateNames**&#009;**geographicTerms**&#009;**Genre**&#009;**Century**&#009;**Spatial**&#xD;<xsl:for-each select="/items/digitalObject">**<xsl:for-each select=".//pid"
+    <xsl:template match="/">**handle**&#009;**pid**&#009;**Title**&#009;**Alternative_Title**&#009;**Creator**&#009;**Contributors**&#009;**Description**&#009;**Source**&#009;**Date_Created**&#009;**Type**&#009;**Format**&#009;**Subject**&#009;**personalNames**&#009;**corporateNames**&#009;**geographicTerms**&#009;**Genre**&#009;**Century**&#009;**Spatial**&#xD;<xsl:for-each select="/items/digitalObject">**<xsl:for-each select=".//dc:identifier"
+        ><xsl:value-of select="."/></xsl:for-each>**<xsl:for-each select=".//pid"
             ><xsl:value-of select="."/></xsl:for-each>**&#009;**<xsl:for-each
                 select=".//dc:title"><xsl:value-of select="."/></xsl:for-each>**&#009;<xsl:choose>
 

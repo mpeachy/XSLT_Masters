@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+       xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/"
+       xmlns:dcterms="http://purl.org/dc/terms/"
+       xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/"
+       xmlns:ac="http://purl.org/dc/dcmitype/"
+       xmlns:rel="info:fedora/fedora-system:def/relations-external#"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <digitalObject>
+      <file>12977_2016_Article_298.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>The HIV-1 late domain-2 S40A polymorphism in antiretroviral (or ART)-exposed individuals influences protease inhibitor susceptibility.</dc:title>
+      <dc:creator>Watanabe, Susan M.</dc:creator>
+      <dc:creator>Simon, Viviana.</dc:creator>
+      <dc:creator>Durham, Natasha D.</dc:creator>
+      <dc:creator>Kemp, Brittney R.</dc:creator>
+      <dc:creator>Machihara, Satoshi.</dc:creator>
+      <dc:creator>Kemal, Kimdar Sherefa.</dc:creator>
+      <dc:creator>Shi, Binshan.</dc:creator>
+      <dc:creator>Foley, Brian.</dc:creator>
+      <dc:creator>Li, Hongru.</dc:creator>
+      <dc:creator>Chen, Benjamin K.</dc:creator>
+      <dc:creator>Weiser, Barbara.</dc:creator>
+      <dc:creator>Burger, Harold.</dc:creator>
+      <dc:creator>Anastos, Kathryn.</dc:creator>
+      <dc:creator>Chen, Chaoping.</dc:creator>
+      <dc:creator>Carter, Carol A.</dc:creator>
+      <dc:description>Background: The p6 region of the HIV-1 structural precursor polyprotein, Gag, contains two motifs, P7TAP11 and L35YPLXSL41, designated as late (L) domain-1 and -2, respectively. These motifs bind the ESCRT-I factor Tsg101 and the ESCRT adaptor Alix, respectively, and are critical for efficient budding of virus particles from the plasma membrane. L domain-2 is thought to be functionally redundant to PTAP. To identify possible other functions of L domain-2, we examined this motif in dominant viruses that emerged in a group of 14 women who had detectable levels of HIV-1 in both plasma and genital tract despite a history of current or previous antiretroviral therapy.</dc:description>
+      <dc:description>Keywords: HIV Gag, HIV protease, Protease inhibitors, Late domain, Anti-retroviral drugs, ESCRT.</dc:description>
+      <dc:description>Springer Open.</dc:description>
+      <dc:bibliographicCitation>Watanabe, Susan, Viviana Simon, Natasha D. Durham, Brittney R. Kemp, Satoshi Machihara, Kimdar Sherefa. Kemal, Binshan Shi, Brian Foley, Hongru Li, Benjamin K. Chen, Barbara Weiser, Harold Burger, Kathryn Anastos, Chaoping Chen, and Carol A. Carter. "The HIV-1 late domain-2 S40A polymorphism in antiretroviral (or ART)-exposed individuals influences protease inhibitor susceptibility."<em>Retrovirology</em>13, no. 1(12, 2016): 1-14.</dc:bibliographicCitation>
+      <dcterms:isPartOf>Tufts University faculty scholarship.</dcterms:isPartOf>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <ac:name>amay02</ac:name>
+      <ac:comment>SpringerBatchTransform: 2016-09-12T11:24:43.368-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+</input>

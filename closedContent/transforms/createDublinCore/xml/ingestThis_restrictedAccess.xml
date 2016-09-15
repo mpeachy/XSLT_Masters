@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:dcadesc="http://nils.lib.tufts.edu/dcadesc/"
+       xmlns:dcatech="http://nils.lib.tufts.edu/dcatech/"
+       xmlns:dcterms="http://purl.org/dc/terms/"
+       xmlns:admin="http://nils.lib.tufts.edu/dcaadmin/"
+       xmlns:ac="http://purl.org/dc/dcmitype/"
+       xmlns:rel="info:fedora/fedora-system:def/relations-external#"
+       xmlns:marc="http://www.loc.gov/MARC21/slim"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <digitalObject>
+      <file>b19690034.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Liquid cooling guidelines for datacom equipment centers.</dc:title>
+      <dc:description>1 online resource (viii, 92 pages) : illustrations (some color).</dc:description>
+      <dc:description>Series: ASHRAE datacom series.</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Original print publication: Atlanta, GA :American Society of Heating, Refrigerating and Air-Conditioning Engineers,©2006.</dc:source>
+      <dc:source>TH7688.C64L57 2006eb</dc:source>
+      <dc:date.created>2006</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Data processing service centers--Cooling.</dcadesc:subject>
+      <dcadesc:subject>Electronic data processing departments--Equipment and supplies--Protection.</dcadesc:subject>
+      <dcadesc:subject>Hydronics.</dcadesc:subject>
+      <dcadesc:subject>Electronic apparatus and appliances--Cooling.</dcadesc:subject>
+      <dcadesc:subject>Electronic digital computers--Cooling.</dcadesc:subject>
+      <dcadesc:subject>Buildings--Environmental engineering.</dcadesc:subject>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:contributor>American Society of Heating, Refrigerating and Air-Conditioning Engineers.</dcterms:contributor>
+      <dcterms:language>eng</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <admin:visibility>authenticated</admin:visibility>
+      <ac:name>amay02</ac:name>
+      <ac:comment>closedContentBatchTransform: 2016-09-12T09:55:21.791-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>b20561763.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>The college of 2020 : students / Martin van der Werf and Grant Sabatier.</dc:title>
+      <dc:creator>Van der Werf, Martin.</dc:creator>
+      <dc:description>1 online resource (58 p.) : ill.</dc:description>
+      <dc:description>"June 2009."</dc:description>
+      <dc:description>Title from PDF of title page (viewed Aug. 13, 2009).</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: College of 2020 : students. Washington, D. C. : Chronicle Research Services, c2009.</dc:source>
+      <dc:source>(OCoLC)421037181</dc:source>
+      <dc:source>LA229.W47 2009</dc:source>
+      <dc:date.created>2009</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>College students--United States.</dcadesc:subject>
+      <dcadesc:subject>Education, Higher--United States--Forecasting.</dcadesc:subject>
+      <dcadesc:subject>Distance education--United States--Forecasting.</dcadesc:subject>
+      <dcadesc:subject>Education, Higher--United States--Costs--Forecasting.</dcadesc:subject>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:contributor>Sabatier, Grant.</dcterms:contributor>
+      <dcterms:language>eng</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <admin:visibility>authenticated</admin:visibility>
+      <ac:name>amay02</ac:name>
+      <ac:comment>closedContentBatchTransform: 2016-09-12T09:55:21.791-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>b24200098.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>APA style guide to electronic references.</dc:title>
+      <dc:description>6th ed.</dc:description>
+      <dc:description>1 electronic resource (vi, 35 p.) : digital, PDF file.</dc:description>
+      <dc:description>"... adapted from the sixth edition of the Publication manual of the American Psychological Association (American Psychological Association [APA] , 2010), Chapters 6 and 7."--P. 1.</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Print version: APA style guide to electronic referencesWashington, DC : American Psychological Association, 201297814338070461433807041.</dc:source>
+      <dc:source>(OCoLC)796116046</dc:source>
+      <dc:source>BF76.7.P84 2012eb</dc:source>
+      <dc:date.created>2012</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Citation of electronic information resources.</dcadesc:subject>
+      <dcadesc:subject>Social sciences--Authorship--Style manuals.</dcadesc:subject>
+      <dcadesc:subject>Internet.</dcadesc:subject>
+      <dcadesc:subject>Information Storage and Retrieval.</dcadesc:subject>
+      <dcadesc:subject>Documentation.</dcadesc:subject>
+      <dcadesc:subject>Databases, Bibliographic.</dcadesc:subject>
+      <dcadesc:subject>Data Collection.</dcadesc:subject>
+      <dcadesc:subject>Bibliography as Topic.</dcadesc:subject>
+      <dcadesc:genre>Resource Guides.</dcadesc:genre>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:contributor>American Psychological Association.</dcterms:contributor>
+      <dcterms:abstract>Adapted from the sixth edition of the Publication Manual of the American Psychological Association, this comprehensive guide offers up-to-date information on formatting electronic references in APA Style. It outlines the key elements to include when referencing electronic sources, with an emphasis on using the digital object identifier (DOI) to locate web-based information reliably. Most important, it provides a wealth of examples for readers to model for everything from online journal articles to supplemental data sets and measurement instruments to books, videos, apps, websites, podcasts, blog posts, and social media. Approximately 70 examples are provided for readers to consider as they learn how to create reliable references for electronic sources.--Publisher description.</dcterms:abstract>
+      <dcterms:language>eng</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <admin:visibility>authenticated</admin:visibility>
+      <ac:name>amay02</ac:name>
+      <ac:comment>closedContentBatchTransform: 2016-09-12T09:55:21.791-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   
+   <digitalObject>
+      <file>953488333.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Everyday tonality II : towards a tonal theory of what most people hear / by Philip Tagg.</dc:title>
+      <dc:creator>Tagg, Philip, 1944- author.</dc:creator>
+      <dc:description>version 2.6.1</dc:description>
+      <dc:description>1 online resource (600 pages) : charts, music.</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Original print publication: </dc:source>
+      <dc:source>MT7.T34 2016</dc:source>
+      <dc:date.created>2016</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Music theory.</dcadesc:subject>
+      <dcadesc:subject>Tonality.</dcadesc:subject>
+      <dcadesc:subject>Music--Instruction and study.</dcadesc:subject>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:language>eng</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <admin:visibility>authenticated</admin:visibility>
+      <ac:name>amay02</ac:name>
+      <ac:comment>closedContentBatchTransform: 2016-09-12T09:55:21.791-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+   <digitalObject>
+      <file>953800917.pdf</file>
+      <rel:hasModel>info:fedora/cm:Text.PDF</rel:hasModel>
+      <dc:title>Mbira song book 1 / Fungai Gahadzikwa ; produced by Andy Fowler.</dc:title>
+      <dc:creator>Gahadzikwa, Fungai.</dc:creator>
+      <dc:description>1 online resource : illustrations (some color)</dc:description>
+      <dc:publisher>Tufts University. Tisch Library.</dc:publisher>
+      <dc:source>Original print publication: </dc:source>
+      <dc:source>M142.M3G34 2016</dc:source>
+      <dc:date.created>2016</dc:date.created>
+      <dc:type>Text</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dcadesc:subject>Mbira music.</dcadesc:subject>
+      <dcadesc:subject>Mbira--Chord diagrams.</dcadesc:subject>
+      <dcadesc:subject>Mbira--Instruction and study.</dcadesc:subject>
+      <dcadesc:subject>Mbira--Methods.</dcadesc:subject>
+      <dcadesc:genre>Electronic books.</dcadesc:genre>
+      <dcterms:contributor>Fowler, Andy.</dcterms:contributor>
+      <dcterms:language>eng</dcterms:language>
+      <dc:rights>http://sites.tufts.edu/dca/research-help/copyright-and-citations/</dc:rights>
+      <admin:steward>tisch</admin:steward>
+      <admin:visibility>authenticated</admin:visibility>
+      <ac:name>amay02</ac:name>
+      <ac:comment>closedContentBatchTransform: 2016-09-12T09:55:21.791-04:00</ac:comment>
+      <admin:createdby>externalXSLT</admin:createdby>
+      <admin:displays>dl</admin:displays>
+   </digitalObject>
+</input>

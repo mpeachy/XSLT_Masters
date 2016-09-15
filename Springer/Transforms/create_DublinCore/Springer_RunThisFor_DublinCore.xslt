@@ -93,7 +93,7 @@ This stylesheet converts Springer metadata to qualified Dublin Core based on the
                         <xsl:text>"</xsl:text><xsl:value-of
                             select="normalize-space(//ArticleTitle)"
                         /><xsl:text>."</xsl:text>
-                       <em><xsl:value-of select=".//JournalTitle"/></em>  <xsl:value-of
+                       <em><xsl:value-of select=".//JournalTitle"/></em><xsl:text> </xsl:text><xsl:value-of
                            select=".//VolumeInfo/VolumeIDStart"/><xsl:text>, no. </xsl:text><xsl:value-of select=".//VolumeIssueCount"/><xsl:text>(</xsl:text><xsl:value-of select=".//CoverDate/Month"/><xsl:text>, </xsl:text> <xsl:value-of select=".//CoverDate/Year"/><xsl:text>): </xsl:text> <xsl:value-of select=".//ArticleInfo/ArticleFirstPage"/><xsl:text>-</xsl:text><xsl:value-of select=".//ArticleInfo/ArticleLastPage"/><xsl:text>.</xsl:text>
                     </dc:bibliographicCitation>
                     <!-- this portion crosswalks the Excel element source to the dc:source element -->

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Publisher
+  PUBLIC "-//Springer-Verlag//DTD A++ V2.4//EN" "http://devel.springer.de/A++/V2.4/DTD/A++V2.4.dtd">
+<Publisher>
+   <PublisherInfo>
+      <PublisherName>BioMed Central</PublisherName>
+      <PublisherLocation>London</PublisherLocation>
+      <PublisherImprintName>BioMed Central</PublisherImprintName>
+   </PublisherInfo>
+   <Journal OutputMedium="Online">
+      <JournalInfo JournalProductType="ArchiveJournal" NumberingStyle="Unnumbered">
+         <JournalID>12977</JournalID>
+         <JournalElectronicISSN>1742-4690</JournalElectronicISSN>
+         <JournalTitle>Retrovirology</JournalTitle>
+         <JournalAbbreviatedTitle>Retrovirology</JournalAbbreviatedTitle>
+         <JournalSubjectGroup>
+            <JournalSubject Code="SCB" Type="Primary">Biomedicine</JournalSubject>
+            <JournalSubject Code="SCB22003" Priority="1" Type="Secondary">Virology</JournalSubject>
+            <JournalSubject Code="SCH33096" Priority="2" Type="Secondary">Infectious Diseases</JournalSubject>
+            <JournalSubject Code="SCB11001" Priority="3" Type="Secondary">Cancer Research</JournalSubject>
+            <JournalSubject Code="SCB16010" Priority="4" Type="Secondary">Vaccine</JournalSubject>
+            <JournalSubject Code="SCB14010" Priority="5" Type="Secondary">Antibodies</JournalSubject>
+            <JournalSubject Code="SCL14050" Priority="6" Type="Secondary">Protein Structure</JournalSubject>
+            <SubjectCollection Code="Biomedical and Life Sciences">SC3</SubjectCollection>
+         </JournalSubjectGroup>
+      </JournalInfo>
+      <Volume OutputMedium="Online">
+         <VolumeInfo TocLevels="0" VolumeType="Regular">
+            <VolumeIDStart>13</VolumeIDStart>
+            <VolumeIDEnd>13</VolumeIDEnd>
+            <VolumeIssueCount>1</VolumeIssueCount>
+         </VolumeInfo>
+         <Issue IssueType="Regular" OutputMedium="Online">
+            <IssueInfo IssueType="Regular" TocLevels="0">
+               <IssueIDStart>1</IssueIDStart>
+               <IssueIDEnd>1</IssueIDEnd>
+               <IssueArticleCount>0</IssueArticleCount>
+               <IssueHistory>
+                  <CoverDate>
+                     <Year>2016</Year>
+                     <Month>12</Month>
+                  </CoverDate>
+                  <PricelistYear>2016</PricelistYear>
+               </IssueHistory>
+               <IssueCopyright>
+                  <CopyrightHolderName>The Author(s)</CopyrightHolderName>
+                  <CopyrightYear>2016</CopyrightYear>
+               </IssueCopyright>
+            </IssueInfo>
+            <Article ID="s12977-016-0298-1" OutputMedium="Online">
+               <ArticleInfo ArticleType="OriginalPaper" ContainsESM="Yes" Language="En"
+                            NumberingStyle="Unnumbered"
+                            TocLevels="0">
+                  <ArticleID>298</ArticleID>
+                  <ArticleDOI>10.1186/s12977-016-0298-1</ArticleDOI>
+                  <ArticleCitationID>64</ArticleCitationID>
+                  <ArticleSequenceNumber>64</ArticleSequenceNumber>
+                  <ArticleTitle Language="En" OutputMedium="All">The HIV-1 late domain-2 S<Subscript>40</Subscript>A polymorphism in antiretroviral (or ART)-exposed individuals influences protease inhibitor susceptibility</ArticleTitle>
+                  <ArticleCategory>Research</ArticleCategory>
+                  <ArticleFirstPage>1</ArticleFirstPage>
+                  <ArticleLastPage>14</ArticleLastPage>
+                  <ArticleHistory>
+                     <RegistrationDate>
+                        <Year>2016</Year>
+                        <Month>8</Month>
+                        <Day>22</Day>
+                     </RegistrationDate>
+                     <Received>
+                        <Year>2016</Year>
+                        <Month>2</Month>
+                        <Day>5</Day>
+                     </Received>
+                     <Accepted>
+                        <Year>2016</Year>
+                        <Month>8</Month>
+                        <Day>21</Day>
+                     </Accepted>
+                     <OnlineDate>
+                        <Year>2016</Year>
+                        <Month>9</Month>
+                        <Day>6</Day>
+                     </OnlineDate>
+                  </ArticleHistory>
+                  <ArticleFundingInformation>
+                     <Fund>
+                        <FunderName FundRefID="http://dx.doi.org/10.13039/100000057">NIH NIAID</FunderName>
+                        <GrantNumber GrantRecipient="Au15" Type="FundRef">NIH NIAID R01 AI068463</GrantNumber>
+                     </Fund>
+                     <Fund>
+                        <FunderName FundRefID="http://dx.doi.org/10.13039/100000057">National Institute of General Medical Sciences</FunderName>
+                        <GrantNumber GrantRecipient="Au15" Type="FundRef">R01 GM111028</GrantNumber>
+                        <GrantNumber GrantRecipient="Au10" Type="FundRef">R01GM113885</GrantNumber>
+                     </Fund>
+                     <Fund>
+                        <FunderName FundRefID="http://dx.doi.org/10.13039/100000060">National Institute of Allergy and Infectious Diseases</FunderName>
+                        <GrantNumber GrantRecipient="Au2" Type="FundRef">R01AI064001</GrantNumber>
+                        <GrantNumber GrantRecipient="Au14" Type="FundRef">R21A1080351</GrantNumber>
+                        <GrantNumber GrantRecipient="Au14" Type="FundRef">R03AI108392</GrantNumber>
+                     </Fund>
+                     <Fund>
+                        <FunderName FundRefID="http://dx.doi.org/10.13039/100000002">National Institutes of Health</FunderName>
+                        <GrantNumber GrantRecipient="Au13" Type="FundRef">U3U 01AI35004</GrantNumber>
+                     </Fund>
+                  </ArticleFundingInformation>
+                  <ArticleCopyright>
+                     <CopyrightHolderName>The Author(s)</CopyrightHolderName>
+                     <CopyrightYear>2016</CopyrightYear>
+                     <License SubType="CC BY + CC0" Type="OpenAccess" Version="4.0">
+                        <SimplePara>
+                           <Emphasis Type="Bold">Open Access</Emphasis>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<ExternalRef>
+                              <RefSource>http://creativecommons.org/licenses/by/4.0/</RefSource>
+                              <RefTarget Address="http://creativecommons.org/licenses/by/4.0/" TargetType="URL"/>
+                           </ExternalRef>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<ExternalRef>
+                              <RefSource>http://creativecommons.org/publicdomain/zero/1.0/</RefSource>
+                              <RefTarget Address="http://creativecommons.org/publicdomain/zero/1.0/" TargetType="URL"/>
+                           </ExternalRef>) applies to the data made available in this article, unless otherwise stated.</SimplePara>
+                     </License>
+                  </ArticleCopyright>
+                  <ArticleGrants Type="OpenChoice">
+                     <MetadataGrant Grant="OpenAccess"/>
+                     <AbstractGrant Grant="OpenAccess"/>
+                     <BodyPDFGrant Grant="OpenAccess"/>
+                     <BodyHTMLGrant Grant="OpenAccess"/>
+                     <BibliographyGrant Grant="OpenAccess"/>
+                     <ESMGrant Grant="OpenAccess"/>
+                  </ArticleGrants>
+               </ArticleInfo>
+               <ArticleHeader>
+                  <AuthorGroup>
+                     <Author AffiliationIDS="Aff1" ID="Au1">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Susan</GivenName>
+                           <GivenName>M.</GivenName>
+                           <FamilyName>Watanabe</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>susan.watanabe@stonybrook.edu</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff2" ID="Au2">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Viviana</GivenName>
+                           <FamilyName>Simon</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>viviana.simon@mssm.edu</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff3" ID="Au3">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Natasha</GivenName>
+                           <GivenName>D.</GivenName>
+                           <FamilyName>Durham</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>Natasha.durham@tufts.edu</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff4" ID="Au4">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Brittney</GivenName>
+                           <GivenName>R.</GivenName>
+                           <FamilyName>Kemp</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>britte@rams.colostate.edu</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff4" ID="Au5">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Satoshi</GivenName>
+                           <FamilyName>Machihara</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>satoshi.machihara@gmail.com</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff5" ID="Au6">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Kimdar</GivenName>
+                           <GivenName>Sherefa</GivenName>
+                           <FamilyName>Kemal</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>Kimdar.kemal@einstein.yu.edu</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff6" ID="Au7">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Binshan</GivenName>
+                           <FamilyName>Shi</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>Binshan.shi@acphs.edu</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff7" ID="Au8">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Brian</GivenName>
+                           <FamilyName>Foley</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>btf@lanl.gov</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff3" ID="Au9">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Hongru</GivenName>
+                           <FamilyName>Li</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>hongru.li@mssm.edu</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff3" ID="Au10">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Benjamin</GivenName>
+                           <GivenName>K.</GivenName>
+                           <FamilyName>Chen</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>benjamin.chen@mssm.edu</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff8 Aff9" ID="Au11">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Barbara</GivenName>
+                           <FamilyName>Weiser</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>bweiser@ucdavis.edu</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff8 Aff9" ID="Au12">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Harold</GivenName>
+                           <FamilyName>Burger</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>hburger@ucdavis.edu</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff5" ID="Au13">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Kathryn</GivenName>
+                           <FamilyName>Anastos</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Email>kanastos@montefiore.org</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff4" CorrespondingAffiliationID="Aff4" ID="Au14">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Chaoping</GivenName>
+                           <FamilyName>Chen</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Phone>(970) 491-0726</Phone>
+                           <Email>chaoping.chen@colostate.edu</Email>
+                        </Contact>
+                     </Author>
+                     <Author AffiliationIDS="Aff1" CorrespondingAffiliationID="Aff1" ID="Au15">
+                        <AuthorName DisplayOrder="Western">
+                           <GivenName>Carol</GivenName>
+                           <GivenName>A.</GivenName>
+                           <FamilyName>Carter</FamilyName>
+                        </AuthorName>
+                        <Contact>
+                           <Phone>(631) 632-8801</Phone>
+                           <Email>carol.carter@stonybrook.edu</Email>
+                        </Contact>
+                     </Author>
+                     <Affiliation ID="Aff1">
+                        <OrgDivision>Department of Molecular Genetics and Microbiology</OrgDivision>
+                        <OrgName>Stony Brook University</OrgName>
+                        <OrgAddress>
+                           <Street>Life Sciences Bldg.</Street>
+                           <City>Stony Brook</City>
+                           <State>NY</State>
+                           <Postcode>11794-5222</Postcode>
+                           <Country Code="US">USA</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff2">
+                        <OrgDivision>Department of Microbiology, Global Health and Emerging Pathogens Institute</OrgDivision>
+                        <OrgName>Icahn School of Medicine at Mount Sinai</OrgName>
+                        <OrgAddress>
+                           <City>New York</City>
+                           <State>NY</State>
+                           <Country Code="US">USA</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff3">
+                        <OrgDivision>Division of Infectious Diseases, Department of Medicine, Immunology Institute</OrgDivision>
+                        <OrgName>Icahn School of Medicine at Mount Sinai</OrgName>
+                        <OrgAddress>
+                           <City>New York</City>
+                           <State>NY</State>
+                           <Country Code="US">USA</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff4">
+                        <OrgDivision>Department of Biochemistry and Molecular Biology</OrgDivision>
+                        <OrgName>Colorado State University</OrgName>
+                        <OrgAddress>
+                           <City>Fort Collins</City>
+                           <State>CO</State>
+                           <Postcode>80523-1870</Postcode>
+                           <Country Code="US">USA</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff5">
+                        <OrgDivision>Department of Medicine</OrgDivision>
+                        <OrgName>Albert Einstein College of Medicine</OrgName>
+                        <OrgAddress>
+                           <City>Bronx</City>
+                           <State>NY</State>
+                           <Country Code="US">USA</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff6">
+                        <OrgDivision>Department of Health Sciences</OrgDivision>
+                        <OrgName>Albany College of Pharmacy and Health Sciences</OrgName>
+                        <OrgAddress>
+                           <City>Albany</City>
+                           <State>NY</State>
+                           <Country Code="US">USA</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff7">
+                        <OrgName>Los Alamos National Laboratory</OrgName>
+                        <OrgAddress>
+                           <City>Los Alamos</City>
+                           <State>NM</State>
+                           <Country Code="US">USA</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff8">
+                        <OrgDivision>Department of Medicine</OrgDivision>
+                        <OrgName>University of California Davis</OrgName>
+                        <OrgAddress>
+                           <City>Davis</City>
+                           <State>CA</State>
+                           <Country Code="US">USA</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                     <Affiliation ID="Aff9">
+                        <OrgDivision>Department of Medicine</OrgDivision>
+                        <OrgName>Sacramento VA Medical Center</OrgName>
+                        <OrgAddress>
+                           <City>Cordova</City>
+                           <State>CA</State>
+                           <Country Code="US">USA</Country>
+                        </OrgAddress>
+                     </Affiliation>
+                  </AuthorGroup>
+                  <Abstract ID="Abs1" Language="En" OutputMedium="All">
+                     <Heading>Abstract</Heading>
+                     <AbstractSection ID="ASec1">
+                        <Heading>Background</Heading>
+                        <Para ID="Par1">The p6 region of the HIV-1 structural precursor polyprotein, Gag, contains two motifs, P<Subscript>7</Subscript>TAP<Subscript>11</Subscript> and L<Subscript>35</Subscript>YPLXSL<Subscript>41</Subscript>, designated as late (L) domain-1 and -2, <Emphasis Type="Italic">respectively</Emphasis>. These motifs bind the ESCRT-I factor Tsg101 and the ESCRT adaptor Alix, <Emphasis Type="Italic">respectively</Emphasis>, and are critical for efficient budding of virus particles from the plasma membrane. L domain-2 is thought to be functionally redundant to PTAP. To identify possible other functions of L domain-2, we examined this motif in dominant viruses that emerged in a group of 14 women who had detectable levels of HIV-1 in both plasma and genital tract despite a history of current or previous antiretroviral therapy.</Para>
+                     </AbstractSection>
+                     <AbstractSection ID="ASec2">
+                        <Heading>Results</Heading>
+                        <Para ID="Par2">Remarkably, variants possessing mutations or rare polymorphisms in the highly conserved L domain-2 were identified in seven of these women. A mutation in a conserved residue (S40A) that does not reduce Gag interaction with Alix and therefore did not reduce budding efficiency was further investigated. This mutation causes a simultaneous change in the Pol reading frame but exhibits little deficiency in Gag processing and virion maturation. Whether introduced into the HIV-1 NL4-3 strain genome or a model protease (PR) precursor, S40A reduced production of mature PR. This same mutation also led to high level detection of two extended forms of PR that were fairly stable compared to the WT in the presence of IDV at various concentrations; one of the extended forms was effective in <Emphasis Type="Italic">trans</Emphasis> processing even at micromolar IDV.</Para>
+                     </AbstractSection>
+                     <AbstractSection ID="ASec3">
+                        <Heading>Conclusions</Heading>
+                        <Para ID="Par3">Our results indicate that L domain-2, considered redundant in vitro, can undergo mutations in vivo that significantly alter PR function. These may contribute fitness benefits in both the absence and presence of PR inhibitor.</Para>
+                     </AbstractSection>
+                  </Abstract>
+                  <KeywordGroup Language="En" OutputMedium="All">
+                     <Heading>Keywords</Heading>
+                     <Keyword>HIV Gag</Keyword>
+                     <Keyword>HIV protease</Keyword>
+                     <Keyword>Protease inhibitors</Keyword>
+                     <Keyword>Late domain</Keyword>
+                     <Keyword>Anti-retroviral drugs</Keyword>
+                     <Keyword>ESCRT</Keyword>
+                  </KeywordGroup>
+                  <ArticleNote Type="ESMHint">
+                     <Heading>Electronic supplementary material</Heading>
+                     <SimplePara>The online version of this article (doi:<ExternalRef>
+                           <RefSource>10.1186/s12977-016-0298-1</RefSource>
+                           <RefTarget Address="10.1186/s12977-016-0298-1" TargetType="DOI"/>
+                        </ExternalRef>) contains supplementary material, which is available to authorized users.</SimplePara>
+                  </ArticleNote>
+               </ArticleHeader>
+               <NoBody/>
+            </Article>
+         </Issue>
+      </Volume>
+   </Journal>
+</Publisher>
